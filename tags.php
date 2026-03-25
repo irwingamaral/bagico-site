@@ -9,29 +9,23 @@
 
 <!-- ============================================
      GOOGLE TAG MANAGER
-     Substitua GTM-XXXXXXXX pelo seu ID real
      ============================================ -->
-<!--
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-XXXXXXXX');</script>
--->
+})(window,document,'script','dataLayer','GTM-TR84VR9W');</script>
 
 <!-- ============================================
      GOOGLE ANALYTICS (GA4)
-     Substitua G-XXXXXXXXXX pelo seu ID real
      ============================================ -->
-<!--
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WBY7J99Q06"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-XXXXXXXXXX');
+  gtag('config', 'G-WBY7J99Q06');
 </script>
--->
 
 <!-- ============================================
      META PIXEL (Facebook/Instagram Ads)

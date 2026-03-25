@@ -288,6 +288,11 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <?php include 'tags.php'; ?>
 </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR84VR9W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <div class="cursor" id="cursor"></div>
 <div class="cursor-ring" id="cursorRing"></div>
 <nav aria-label="Menu BagiCo">
