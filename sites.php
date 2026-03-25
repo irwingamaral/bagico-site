@@ -258,39 +258,19 @@
     .divider { margin: 0 28px; }
   }
 
-
-  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
-
+  /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
   .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
   .nav-dropdown { position: relative; }
-  .nav-dropdown-trigger {
-    font-size: 12px; font-weight: 400; color: var(--desire);
-    letter-spacing: 0.12em; text-transform: uppercase;
-    cursor: pointer; display: flex; align-items: center; gap: 6px;
-    transition: opacity 0.3s; user-select: none;
-  }
+  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
   .nav-dropdown-trigger:hover { opacity: 0.8; }
   .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
   .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
-  .nav-dropdown-menu {
-    position: absolute; top: 100%; left: 50%;
-    transform: translateX(-50%);
-    padding-top: 16px;
-    min-width: 200px; z-index: 200;
-    opacity: 0; pointer-events: none;
-    transition: opacity 0.25s ease;
-  }
+  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 200px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
   .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
   .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
-  .nav-dropdown-menu a {
-    display: block; padding: 13px 18px;
-    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
-    color: var(--ash); text-decoration: none;
-    border-bottom: 1px solid var(--graphite);
-    transition: color 0.2s, background 0.2s;
-  }
+  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
@@ -540,18 +520,10 @@
     <li><a href="/#contato">Contato</a></li>
   </ul>
   <div class="footer-social">
-    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg>
-    </a>
-    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg>
-    </a>
-    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
-    </a>
-    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
-    </a>
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
   <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
 </footer>

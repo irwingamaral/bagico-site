@@ -193,37 +193,136 @@
   .nav-links { display: flex; gap: 40px; list-style: none; position: relative; z-index: 1; }
   .nav-links a { font-size: 12px; font-weight: 400; color: var(--ash); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s ease; }
   .nav-links a:hover { color: var(--ivory); }
+  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
+  .nav-cta { font-size: 12px; font-weight: 400; color: var(--ivory); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s ease, border-color 0.3s ease; }
+  .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 60px; position: relative; overflow: hidden; }
+  .hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 80% 50%, rgba(192,57,43,0.07) 0%, transparent 60%), radial-gradient(ellipse 40% 40% at 20% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); }
+  .hero-line { position: absolute; top: 0; bottom: 0; left: 50%; width: 1px; background: linear-gradient(to bottom, transparent, rgba(138,138,138,0.08) 30%, rgba(138,138,138,0.08) 70%, transparent); }
+  .hero-content { position: relative; z-index: 2; max-width: 900px; }
+  .hero-eyebrow { font-size: 11px; font-weight: 400; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 32px; opacity: 0; animation: fadeUp 1s ease 0.3s forwards; }
+  .hero-title { font-family: var(--serif); font-size: clamp(60px, 9vw, 130px); font-weight: 300; line-height: 0.9; color: var(--ivory); margin-bottom: 40px; opacity: 0; animation: fadeUp 1s ease 0.5s forwards; }
+  .hero-title em { font-style: italic; color: var(--ash); }
+  .hero-title .dot { color: var(--desire); }
+  .hero-sub { font-size: 16px; font-weight: 300; color: var(--ash); line-height: 1.8; max-width: 480px; margin-bottom: 56px; opacity: 0; animation: fadeUp 1s ease 0.7s forwards; }
+  .hero-actions { display: flex; align-items: center; gap: 40px; opacity: 0; animation: fadeUp 1s ease 0.9s forwards; }
+  .btn-primary { background: var(--desire); color: var(--ivory); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 16px 36px; transition: background 0.3s ease, transform 0.2s ease; display: inline-block; }
+  .btn-primary:hover { background: var(--ember); transform: translateY(-1px); }
+  .btn-ghost { color: var(--ash); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; display: flex; align-items: center; gap: 10px; transition: color 0.3s ease; }
+  .btn-ghost:hover { color: var(--ivory); }
+  .btn-ghost::after { content: ''; width: 32px; height: 1px; background: currentColor; transition: width 0.3s ease; }
+  .btn-ghost:hover::after { width: 48px; }
+  .hero-scroll { position: absolute; bottom: 48px; left: 60px; display: flex; align-items: center; gap: 16px; opacity: 0; animation: fadeUp 1s ease 1.2s forwards; }
+  .hero-scroll span { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ash); opacity: 0.5; }
+  .scroll-line { width: 40px; height: 1px; background: var(--ash); opacity: 0.3; position: relative; overflow: hidden; }
+  .scroll-line::after { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: var(--desire); animation: scrollLine 2s ease-in-out infinite 1.5s; }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--graphite); }
+  .stat-item { background: var(--carbon); padding: 48px 40px; text-align: center; }
+  .stat-num { font-family: var(--serif); font-size: 56px; font-weight: 300; color: var(--ivory); line-height: 1; margin-bottom: 8px; }
+  .stat-num span { color: var(--desire); }
+  .stat-label { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); opacity: 0.7; }
+  .manifesto { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; border-top: 1px solid var(--graphite); }
+  .manifesto-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 24px; }
+  .manifesto-title { font-family: var(--serif); font-size: clamp(36px, 4vw, 58px); font-weight: 300; line-height: 1.15; color: var(--ivory); }
+  .manifesto-title em { font-style: italic; color: var(--ash); }
+  .manifesto-body { font-size: 15px; font-weight: 300; color: var(--ash); line-height: 1.9; margin-bottom: 32px; }
+  .manifesto-body strong { color: var(--ivory); font-weight: 400; }
+  .manifesto-quote { border-left: 2px solid var(--desire); padding-left: 24px; font-family: var(--serif); font-size: 20px; font-style: italic; color: var(--ash); line-height: 1.6; }
+  .services { padding: 160px 60px; }
+  .section-header { display: flex; align-items: flex-end; justify-content: space-between; margin-bottom: 80px; }
+  .section-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 16px; }
+  .section-title { font-family: var(--serif); font-size: clamp(32px, 3.5vw, 52px); font-weight: 300; color: var(--ivory); line-height: 1.1; }
+  .section-title em { font-style: italic; color: var(--ash); }
+  .section-link { font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); text-decoration: none; display: flex; align-items: center; gap: 12px; transition: color 0.3s; }
+  .section-link:hover { color: var(--ivory); }
+  .services-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--graphite); }
+  .service-card { background: var(--noir); padding: 56px 48px; position: relative; overflow: hidden; transition: background 0.4s ease; }
+  .service-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: var(--desire); transform: scaleX(0); transform-origin: left; transition: transform 0.4s ease; }
+  .service-card:hover { background: var(--carbon); }
+  .service-card:hover::before { transform: scaleX(1); }
+  .service-num { font-family: var(--serif); font-size: 72px; font-weight: 300; color: var(--graphite); line-height: 1; position: absolute; top: 32px; right: 40px; transition: color 0.4s ease; }
+  .service-card:hover .service-num { color: rgba(192,57,43,0.15); }
+  .service-icon { width: 40px; height: 1px; background: var(--desire); margin-bottom: 32px; }
+  .service-title { font-family: var(--serif); font-size: 28px; font-weight: 400; color: var(--ivory); margin-bottom: 16px; line-height: 1.2; }
+  .service-body { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; margin-bottom: 28px; }
+  .service-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); border: 1px solid var(--graphite); padding: 5px 12px; }
+  .levels { padding: 160px 60px; background: var(--carbon); }
+  .levels-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 80px; }
+  .level-card { border: 1px solid var(--graphite); padding: 48px 36px; transition: border-color 0.3s ease; }
+  .level-card:hover { border-color: rgba(192,57,43,0.4); }
+  .level-card.featured { border-color: rgba(192,57,43,0.3); background: linear-gradient(135deg, rgba(192,57,43,0.05) 0%, transparent 60%); }
+  .level-badge { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--desire); margin-bottom: 20px; }
+  .level-name { font-family: var(--serif); font-size: 32px; font-weight: 400; color: var(--ivory); margin-bottom: 8px; }
+  .level-sub { font-size: 13px; color: var(--ash); margin-bottom: 32px; font-style: italic; font-family: var(--serif); }
+  .level-desc { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; margin-bottom: 36px; }
+  .level-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+  .level-list li { font-size: 13px; color: var(--ash); display: flex; align-items: flex-start; gap: 12px; font-weight: 300; }
+  .level-list li::before { content: ''; width: 16px; height: 1px; background: var(--desire); margin-top: 10px; flex-shrink: 0; }
+  .values { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: start; }
+  .values-left { position: sticky; top: 120px; }
+  .values-list { display: flex; flex-direction: column; gap: 0; }
+  .value-item { padding: 40px 0; border-bottom: 1px solid var(--graphite); display: grid; grid-template-columns: 48px 1fr; gap: 24px; align-items: start; }
+  .value-item:first-child { border-top: 1px solid var(--graphite); }
+  .value-num { font-family: var(--serif); font-size: 13px; color: var(--desire); margin-top: 4px; }
+  .value-title { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ivory); margin-bottom: 10px; }
+  .value-body { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; }
+  .cta-section { padding: 160px 60px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--graphite); }
+  .cta-section::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(192,57,43,0.06) 0%, transparent 70%); }
+  .cta-title { font-family: var(--serif); font-size: clamp(48px, 7vw, 100px); font-weight: 300; color: var(--ivory); line-height: 1; margin-bottom: 24px; position: relative; z-index: 1; }
+  .cta-title em { font-style: italic; color: var(--ash); }
+  .cta-sub { font-size: 15px; color: var(--ash); margin-bottom: 56px; font-weight: 300; position: relative; z-index: 1; }
+  .cta-actions { display: flex; justify-content: center; gap: 24px; position: relative; z-index: 1; }
+  footer { padding: 56px 60px; border-top: 1px solid var(--graphite); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
+  .footer-logo { font-family: var(--serif); font-size: 18px; font-weight: 400; color: var(--ash); text-decoration: none; }
+  .footer-logo span { color: var(--desire); }
+  .footer-copy { font-size: 11px; color: var(--ash); opacity: 0.4; letter-spacing: 0.05em; }
+  .footer-nav { display: flex; gap: 32px; list-style: none; }
+  .footer-nav a { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; opacity: 0.5; transition: opacity 0.3s; }
+  .footer-nav a:hover { opacity: 1; }
+  .footer-social { display: flex; gap: 20px; align-items: center; }
+  .footer-social a { color: var(--ash); opacity: 0.5; transition: opacity 0.3s, color 0.3s; display: flex; align-items: center; }
+  .footer-social a:hover { opacity: 1; color: var(--ivory); }
+  .divider { display: flex; align-items: center; gap: 16px; margin: 0 60px; }
+  .divider::before, .divider::after { content: ''; flex: 1; height: 1px; background: var(--graphite); }
+  .divider-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--desire); }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes scrollLine { 0% { left: -100%; } 100% { left: 100%; } }
+  .reveal { opacity: 0; transform: translateY(32px); transition: opacity 0.8s ease, transform 0.8s ease; }
+  .reveal.visible { opacity: 1; transform: translateY(0); }
+  @media (max-width: 900px) {
+    nav { padding: 24px 28px; }
+    .nav-links { display: none; }
+    .nav-suite-link { display: none; }
+    .hero { padding: 120px 28px 80px; }
+    .manifesto { padding: 80px 28px; grid-template-columns: 1fr; gap: 48px; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .services { padding: 80px 28px; }
+    .services-grid { grid-template-columns: 1fr; }
+    .levels { padding: 80px 28px; }
+    .levels-grid { grid-template-columns: 1fr; }
+    .values { padding: 80px 28px; grid-template-columns: 1fr; }
+    .values-left { position: static; }
+    .cta-section { padding: 80px 28px; }
+    footer { padding: 40px 28px; flex-direction: column; text-align: center; }
+    .divider { margin: 0 28px; }
+  }
 
+  /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
   .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
   .nav-dropdown { position: relative; }
-  .nav-dropdown-trigger {
-    font-size: 12px; font-weight: 400; color: var(--desire);
-    letter-spacing: 0.12em; text-transform: uppercase;
-    cursor: pointer; display: flex; align-items: center; gap: 6px;
-    transition: opacity 0.3s; user-select: none;
-  }
+  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
   .nav-dropdown-trigger:hover { opacity: 0.8; }
   .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
   .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
-  .nav-dropdown-menu {
-    position: absolute; top: 100%; left: 50%;
-    transform: translateX(-50%);
-    padding-top: 16px;
-    min-width: 200px; z-index: 200;
-    opacity: 0; pointer-events: none;
-    transition: opacity 0.25s ease;
-  }
+  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 200px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
   .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
   .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
-  .nav-dropdown-menu a {
-    display: block; padding: 13px 18px;
-    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
-    color: var(--ash); text-decoration: none;
-    border-bottom: 1px solid var(--graphite);
-    transition: color 0.2s, background 0.2s;
-  }
+  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
@@ -455,18 +554,10 @@
     <li><a href="/#contato">Contato</a></li>
   </ul>
   <div class="footer-social">
-    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg>
-    </a>
-    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg>
-    </a>
-    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
-    </a>
-    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
-    </a>
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
   <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
 </footer>
