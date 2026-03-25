@@ -184,107 +184,107 @@
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; }
-  body { background: var(--noir); color: var(--ivory); font-family: var(--sans); font-weight: 300; overflow-x: hidden; cursor: none; }
+  body { background: var(--bg); color: var(--text-primary); font-family: var(--sans); font-weight: 300; overflow-x: hidden; cursor: none; }
   .cursor { position: fixed; width: 8px; height: 8px; background: var(--desire); border-radius: 50%; pointer-events: none; z-index: 9999; transition: transform 0.15s ease; transform: translate(-50%, -50%); }
   .cursor-ring { position: fixed; width: 32px; height: 32px; border: 1px solid rgba(192,57,43,0.4); border-radius: 50%; pointer-events: none; z-index: 9998; transition: transform 0.4s ease, width 0.3s ease, height 0.3s ease; transform: translate(-50%, -50%); }
   nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; padding: 28px 60px; display: flex; align-items: center; justify-content: space-between; }
   nav::before { content: ''; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(10,10,10,0.95) 0%, transparent 100%); pointer-events: none; }
-  .logo { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ash); letter-spacing: -0.5px; position: relative; z-index: 1; text-decoration: none; }
+  .logo { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--text-secondary); letter-spacing: -0.5px; position: relative; z-index: 1; text-decoration: none; }
   .logo span { color: var(--desire); }
-  .nav-links a { font-size: 12px; font-weight: 400; color: var(--ash); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s ease; }
-  .nav-links a:hover { color: var(--ivory); }
+  .nav-links a { font-size: 12px; font-weight: 400; color: var(--text-secondary); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s ease; }
+  .nav-links a:hover { color: var(--text-primary); }
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
-  .nav-cta { font-size: 12px; font-weight: 400; color: var(--ivory); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s ease, border-color 0.3s ease; }
+  .nav-cta { font-size: 12px; font-weight: 400; color: var(--text-primary); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s ease, border-color 0.3s ease; }
   .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
-  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
-  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--border); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--text-primary); border-color: var(--text-secondary); }
   .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 60px; position: relative; overflow: hidden; }
   .hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 80% 50%, rgba(192,57,43,0.07) 0%, transparent 60%), radial-gradient(ellipse 40% 40% at 20% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); }
   .hero-line { position: absolute; top: 0; bottom: 0; left: 50%; width: 1px; background: linear-gradient(to bottom, transparent, rgba(138,138,138,0.08) 30%, rgba(138,138,138,0.08) 70%, transparent); }
   .hero-content { position: relative; z-index: 2; max-width: 900px; }
   .hero-eyebrow { font-size: 11px; font-weight: 400; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 32px; opacity: 0; animation: fadeUp 1s ease 0.3s forwards; }
-  .hero-title { font-family: var(--serif); font-size: clamp(60px, 9vw, 130px); font-weight: 300; line-height: 0.9; color: var(--ivory); margin-bottom: 40px; opacity: 0; animation: fadeUp 1s ease 0.5s forwards; }
-  .hero-title em { font-style: italic; color: var(--ash); }
+  .hero-title { font-family: var(--serif); font-size: clamp(60px, 9vw, 130px); font-weight: 300; line-height: 0.9; color: var(--text-primary); margin-bottom: 40px; opacity: 0; animation: fadeUp 1s ease 0.5s forwards; }
+  .hero-title em { font-style: italic; color: var(--text-secondary); }
   .hero-title .dot { color: var(--desire); }
-  .hero-sub { font-size: 16px; font-weight: 300; color: var(--ash); line-height: 1.8; max-width: 480px; margin-bottom: 56px; opacity: 0; animation: fadeUp 1s ease 0.7s forwards; }
+  .hero-sub { font-size: 16px; font-weight: 300; color: var(--text-secondary); line-height: 1.8; max-width: 480px; margin-bottom: 56px; opacity: 0; animation: fadeUp 1s ease 0.7s forwards; }
   .hero-actions { display: flex; align-items: center; gap: 40px; opacity: 0; animation: fadeUp 1s ease 0.9s forwards; }
-  .btn-primary { background: var(--desire); color: var(--ivory); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 16px 36px; transition: background 0.3s ease, transform 0.2s ease; display: inline-block; }
+  .btn-primary { background: var(--desire); color: var(--text-primary); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 16px 36px; transition: background 0.3s ease, transform 0.2s ease; display: inline-block; }
   .btn-primary:hover { background: var(--ember); transform: translateY(-1px); }
-  .btn-ghost { color: var(--ash); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; display: flex; align-items: center; gap: 10px; transition: color 0.3s ease; }
-  .btn-ghost:hover { color: var(--ivory); }
+  .btn-ghost { color: var(--text-secondary); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; display: flex; align-items: center; gap: 10px; transition: color 0.3s ease; }
+  .btn-ghost:hover { color: var(--text-primary); }
   .btn-ghost::after { content: ''; width: 32px; height: 1px; background: currentColor; transition: width 0.3s ease; }
   .btn-ghost:hover::after { width: 48px; }
   .hero-scroll { position: absolute; bottom: 48px; left: 60px; display: flex; align-items: center; gap: 16px; opacity: 0; animation: fadeUp 1s ease 1.2s forwards; }
-  .hero-scroll span { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ash); opacity: 0.5; }
+  .hero-scroll span { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-secondary); opacity: 0.5; }
   .scroll-line { width: 40px; height: 1px; background: var(--ash); opacity: 0.3; position: relative; overflow: hidden; }
   .scroll-line::after { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: var(--desire); animation: scrollLine 2s ease-in-out infinite 1.5s; }
   .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--graphite); }
-  .stat-item { background: var(--carbon); padding: 48px 40px; text-align: center; }
-  .stat-num { font-family: var(--serif); font-size: 56px; font-weight: 300; color: var(--ivory); line-height: 1; margin-bottom: 8px; }
+  .stat-item { background: var(--surface); padding: 48px 40px; text-align: center; }
+  .stat-num { font-family: var(--serif); font-size: 56px; font-weight: 300; color: var(--text-primary); line-height: 1; margin-bottom: 8px; }
   .stat-num span { color: var(--desire); }
-  .stat-label { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); opacity: 0.7; }
-  .manifesto { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; border-top: 1px solid var(--graphite); }
+  .stat-label { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-secondary); opacity: 0.7; }
+  .manifesto { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; border-top: 1px solid var(--border); }
   .manifesto-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 24px; }
-  .manifesto-title { font-family: var(--serif); font-size: clamp(36px, 4vw, 58px); font-weight: 300; line-height: 1.15; color: var(--ivory); }
-  .manifesto-title em { font-style: italic; color: var(--ash); }
-  .manifesto-body { font-size: 15px; font-weight: 300; color: var(--ash); line-height: 1.9; margin-bottom: 32px; }
-  .manifesto-body strong { color: var(--ivory); font-weight: 400; }
-  .manifesto-quote { border-left: 2px solid var(--desire); padding-left: 24px; font-family: var(--serif); font-size: 20px; font-style: italic; color: var(--ash); line-height: 1.6; }
+  .manifesto-title { font-family: var(--serif); font-size: clamp(36px, 4vw, 58px); font-weight: 300; line-height: 1.15; color: var(--text-primary); }
+  .manifesto-title em { font-style: italic; color: var(--text-secondary); }
+  .manifesto-body { font-size: 15px; font-weight: 300; color: var(--text-secondary); line-height: 1.9; margin-bottom: 32px; }
+  .manifesto-body strong { color: var(--text-primary); font-weight: 400; }
+  .manifesto-quote { border-left: 2px solid var(--desire); padding-left: 24px; font-family: var(--serif); font-size: 20px; font-style: italic; color: var(--text-secondary); line-height: 1.6; }
   .services { padding: 160px 60px; }
   .section-header { display: flex; align-items: flex-end; justify-content: space-between; margin-bottom: 80px; }
   .section-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 16px; }
-  .section-title { font-family: var(--serif); font-size: clamp(32px, 3.5vw, 52px); font-weight: 300; color: var(--ivory); line-height: 1.1; }
-  .section-title em { font-style: italic; color: var(--ash); }
-  .section-link { font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); text-decoration: none; display: flex; align-items: center; gap: 12px; transition: color 0.3s; }
-  .section-link:hover { color: var(--ivory); }
+  .section-title { font-family: var(--serif); font-size: clamp(32px, 3.5vw, 52px); font-weight: 300; color: var(--text-primary); line-height: 1.1; }
+  .section-title em { font-style: italic; color: var(--text-secondary); }
+  .section-link { font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-secondary); text-decoration: none; display: flex; align-items: center; gap: 12px; transition: color 0.3s; }
+  .section-link:hover { color: var(--text-primary); }
   .services-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--graphite); }
-  .service-card { background: var(--noir); padding: 56px 48px; position: relative; overflow: hidden; transition: background 0.4s ease; }
+  .service-card { background: var(--bg); padding: 56px 48px; position: relative; overflow: hidden; transition: background 0.4s ease; }
   .service-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: var(--desire); transform: scaleX(0); transform-origin: left; transition: transform 0.4s ease; }
-  .service-card:hover { background: var(--carbon); }
+  .service-card:hover { background: var(--surface); }
   .service-card:hover::before { transform: scaleX(1); }
   .service-num { font-family: var(--serif); font-size: 72px; font-weight: 300; color: var(--graphite); line-height: 1; position: absolute; top: 32px; right: 40px; transition: color 0.4s ease; }
   .service-card:hover .service-num { color: rgba(192,57,43,0.15); }
   .service-icon { width: 40px; height: 1px; background: var(--desire); margin-bottom: 32px; }
-  .service-title { font-family: var(--serif); font-size: 28px; font-weight: 400; color: var(--ivory); margin-bottom: 16px; line-height: 1.2; }
-  .service-body { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; margin-bottom: 28px; }
+  .service-title { font-family: var(--serif); font-size: 28px; font-weight: 400; color: var(--text-primary); margin-bottom: 16px; line-height: 1.2; }
+  .service-body { font-size: 14px; font-weight: 300; color: var(--text-secondary); line-height: 1.8; margin-bottom: 28px; }
   .service-tags { display: flex; flex-wrap: wrap; gap: 8px; }
-  .tag { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); border: 1px solid var(--graphite); padding: 5px 12px; }
-  .levels { padding: 160px 60px; background: var(--carbon); }
+  .tag { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-secondary); border: 1px solid var(--border); padding: 5px 12px; }
+  .levels { padding: 160px 60px; background: var(--surface); }
   .levels-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 80px; }
-  .level-card { border: 1px solid var(--graphite); padding: 48px 36px; transition: border-color 0.3s ease; }
+  .level-card { border: 1px solid var(--border); padding: 48px 36px; transition: border-color 0.3s ease; }
   .level-card:hover { border-color: rgba(192,57,43,0.4); }
   .level-card.featured { border-color: rgba(192,57,43,0.3); background: linear-gradient(135deg, rgba(192,57,43,0.05) 0%, transparent 60%); }
   .level-badge { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--desire); margin-bottom: 20px; }
-  .level-name { font-family: var(--serif); font-size: 32px; font-weight: 400; color: var(--ivory); margin-bottom: 8px; }
-  .level-sub { font-size: 13px; color: var(--ash); margin-bottom: 32px; font-style: italic; font-family: var(--serif); }
-  .level-desc { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; margin-bottom: 36px; }
+  .level-name { font-family: var(--serif); font-size: 32px; font-weight: 400; color: var(--text-primary); margin-bottom: 8px; }
+  .level-sub { font-size: 13px; color: var(--text-secondary); margin-bottom: 32px; font-style: italic; font-family: var(--serif); }
+  .level-desc { font-size: 14px; font-weight: 300; color: var(--text-secondary); line-height: 1.8; margin-bottom: 36px; }
   .level-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
-  .level-list li { font-size: 13px; color: var(--ash); display: flex; align-items: flex-start; gap: 12px; font-weight: 300; }
+  .level-list li { font-size: 13px; color: var(--text-secondary); display: flex; align-items: flex-start; gap: 12px; font-weight: 300; }
   .level-list li::before { content: ''; width: 16px; height: 1px; background: var(--desire); margin-top: 10px; flex-shrink: 0; }
   .values { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: start; }
   .values-left { position: sticky; top: 120px; }
   .values-list { display: flex; flex-direction: column; gap: 0; }
-  .value-item { padding: 40px 0; border-bottom: 1px solid var(--graphite); display: grid; grid-template-columns: 48px 1fr; gap: 24px; align-items: start; }
-  .value-item:first-child { border-top: 1px solid var(--graphite); }
+  .value-item { padding: 40px 0; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: 48px 1fr; gap: 24px; align-items: start; }
+  .value-item:first-child { border-top: 1px solid var(--border); }
   .value-num { font-family: var(--serif); font-size: 13px; color: var(--desire); margin-top: 4px; }
-  .value-title { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ivory); margin-bottom: 10px; }
-  .value-body { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; }
-  .cta-section { padding: 160px 60px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--graphite); }
+  .value-title { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--text-primary); margin-bottom: 10px; }
+  .value-body { font-size: 14px; font-weight: 300; color: var(--text-secondary); line-height: 1.8; }
+  .cta-section { padding: 160px 60px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--border); }
   .cta-section::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(192,57,43,0.06) 0%, transparent 70%); }
-  .cta-title { font-family: var(--serif); font-size: clamp(48px, 7vw, 100px); font-weight: 300; color: var(--ivory); line-height: 1; margin-bottom: 24px; position: relative; z-index: 1; }
-  .cta-title em { font-style: italic; color: var(--ash); }
-  .cta-sub { font-size: 15px; color: var(--ash); margin-bottom: 56px; font-weight: 300; position: relative; z-index: 1; }
+  .cta-title { font-family: var(--serif); font-size: clamp(48px, 7vw, 100px); font-weight: 300; color: var(--text-primary); line-height: 1; margin-bottom: 24px; position: relative; z-index: 1; }
+  .cta-title em { font-style: italic; color: var(--text-secondary); }
+  .cta-sub { font-size: 15px; color: var(--text-secondary); margin-bottom: 56px; font-weight: 300; position: relative; z-index: 1; }
   .cta-actions { display: flex; justify-content: center; gap: 24px; position: relative; z-index: 1; }
-  footer { padding: 56px 60px; border-top: 1px solid var(--graphite); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
-  .footer-logo { font-family: var(--serif); font-size: 18px; font-weight: 400; color: var(--ash); text-decoration: none; }
+  footer { padding: 56px 60px; border-top: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
+  .footer-logo { font-family: var(--serif); font-size: 18px; font-weight: 400; color: var(--text-secondary); text-decoration: none; }
   .footer-logo span { color: var(--desire); }
-  .footer-copy { font-size: 11px; color: var(--ash); opacity: 0.4; letter-spacing: 0.05em; }
+  .footer-copy { font-size: 11px; color: var(--text-secondary); opacity: 0.4; letter-spacing: 0.05em; }
   .footer-nav { display: flex; gap: 32px; list-style: none; }
-  .footer-nav a { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; opacity: 0.5; transition: opacity 0.3s; }
+  .footer-nav a { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-secondary); text-decoration: none; opacity: 0.5; transition: opacity 0.3s; }
   .footer-nav a:hover { opacity: 1; }
   .footer-social { display: flex; gap: 20px; align-items: center; }
-  .footer-social a { color: var(--ash); opacity: 0.5; transition: opacity 0.3s, color 0.3s; display: flex; align-items: center; }
-  .footer-social a:hover { opacity: 1; color: var(--ivory); }
+  .footer-social a { color: var(--text-secondary); opacity: 0.5; transition: opacity 0.3s, color 0.3s; display: flex; align-items: center; }
+  .footer-social a:hover { opacity: 1; color: var(--text-primary); }
   .divider { display: flex; align-items: center; gap: 16px; margin: 0 60px; }
   .divider::before, .divider::after { content: ''; flex: 1; height: 1px; background: var(--graphite); }
   .divider-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--desire); }
@@ -314,8 +314,8 @@
 
   /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
-  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
-  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--border); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--text-primary); border-color: var(--text-secondary); }
   /* alinha todos os itens da nav-links na mesma linha */
   .nav-links { display: flex; align-items: center; gap: 28px; list-style: none; position: relative; z-index: 1; }
   .nav-links li { display: flex; align-items: center; }
@@ -328,10 +328,10 @@
   .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); min-width: 220px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
   .nav-dropdown-menu::before { content: ''; display: block; height: 20px; }
   .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
-  .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
-  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
+  .nav-dropdown-menu-inner { background: var(--surface); border: 1px solid var(--border); }
+  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-secondary); text-decoration: none; border-bottom: 1px solid var(--border); transition: color 0.2s, background 0.2s; }
   .nav-dropdown-menu a:last-child { border-bottom: none; }
-  .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
+  .nav-dropdown-menu a:hover { color: var(--text-primary); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
 
@@ -377,7 +377,7 @@
     padding: 10px;
     width: 44px;
     height: 44px;
-    border: 1px solid var(--graphite);
+    border: 1px solid var(--border);
     background: transparent;
     flex-shrink: 0;
   }
@@ -395,7 +395,7 @@
     display: none;
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: var(--noir);
+    background: var(--bg);
     z-index: 99;
     flex-direction: column;
     justify-content: center;
@@ -408,14 +408,14 @@
     font-family: var(--serif);
     font-size: 32px;
     font-weight: 300;
-    color: var(--ivory);
+    color: var(--text-primary);
     text-decoration: none;
     letter-spacing: -0.5px;
     line-height: 1.2;
     margin-bottom: 24px;
     transition: color 0.2s;
   }
-  .mobile-menu a:hover { color: var(--ash); }
+  .mobile-menu a:hover { color: var(--text-secondary); }
   .mobile-menu .mobile-section-title {
     font-size: 12px;
     font-family: var(--sans);
@@ -438,10 +438,10 @@
     font-size: 13px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--ash);
+    color: var(--text-secondary);
     margin-bottom: 0;
   }
-  .mobile-menu .mobile-sub-links a:hover { color: var(--ivory); }
+  .mobile-menu .mobile-sub-links a:hover { color: var(--text-primary); }
   .mobile-menu .mobile-cta {
     margin-top: 40px;
     background: var(--desire);
@@ -460,7 +460,7 @@
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: var(--ash) !important;
-    border: 1px solid var(--graphite);
+    border: 1px solid var(--border);
     padding: 12px 24px;
     margin-top: 16px;
     margin-bottom: 0;
@@ -684,7 +684,7 @@
   <div class="values-left reveal">
     <p class="section-label">Nossa ess&ecirc;ncia</p>
     <h2 class="section-title">O que nos<br><em>define</em></h2>
-    <p style="font-size:14px;color:var(--ash);line-height:1.9;margin-top:24px;font-weight:300;">A BagiCo n&atilde;o aceita o morno. Cada entrega carrega a mesma assinatura: intensa, estruturada e culturalmente relevante.</p>
+    <p style="font-size:14px;color:var(--text-secondary);line-height:1.9;margin-top:24px;font-weight:300;">A BagiCo n&atilde;o aceita o morno. Cada entrega carrega a mesma assinatura: intensa, estruturada e culturalmente relevante.</p>
   </div>
   <div class="values-list">
     <div class="value-item reveal">
