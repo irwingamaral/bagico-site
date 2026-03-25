@@ -325,7 +325,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
         </div>
       </div>
     </li>
-    <li><a href="/blog">Blog</a></li>
+    <li><a href="/em-breve">Blog</a></li>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
@@ -352,7 +352,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="/palestras.php">Palestras</a>
     <a href="/outros.php">Outros servi&ccedil;os</a>
   </div>
-  <a href="/blog">Blog</a>
+  <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
