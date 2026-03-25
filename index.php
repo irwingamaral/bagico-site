@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- SEO PRIMARIO -->
-<title>BagiCo. &#8212; Ag&ecirc;ncia de Branding e Estrat&eacute;gia em Porto Alegre</title>
-<meta name="description" content="BagiCo &eacute; uma ag&ecirc;ncia boutique de branding, estrat&eacute;gia e criatividade em Porto Alegre. Transformamos neg&oacute;cios em marcas ic&ocirc;nicas com intelig&ecirc;ncia estrat&eacute;gica e curadoria art&iacute;stica. Atendemos todo o Brasil de forma remota.">
-<meta name="keywords" content="ag&ecirc;ncia de branding Porto Alegre, estrat&eacute;gia de marca, consultoria de marketing, posicionamento de marca, ag&ecirc;ncia boutique, branding RS, identidade visual, marketing digital Porto Alegre, BagiCo">
+<title>BagiCo. — Agência de Branding e Estratégia em Porto Alegre</title>
+<meta name="description" content="BagiCo é uma agência boutique de branding, estratégia e criatividade em Porto Alegre. Transformamos negócios em marcas icônicas com inteligência estratégica e curadoria artística. Atendemos todo o Brasil de forma remota.">
+<meta name="keywords" content="agência de branding Porto Alegre, estratégia de marca, consultoria de marketing, posicionamento de marca, agência boutique, branding RS, identidade visual, marketing digital Porto Alegre, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -20,15 +20,15 @@
 <!-- OPEN GRAPH (redes sociais) -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://bagico.com.br">
-<meta property="og:title" content="BagiCo. &#8212; Ag&ecirc;ncia de Branding e Estrat&eacute;gia">
-<meta property="og:description" content="Ag&ecirc;ncia boutique de branding e estrat&eacute;gia em Porto Alegre. Transformamos neg&oacute;cios em marcas ic&ocirc;nicas. Engineering Desire.">
+<meta property="og:title" content="BagiCo. — Agência de Branding e Estratégia">
+<meta property="og:description" content="Agência boutique de branding e estratégia em Porto Alegre. Transformamos negócios em marcas icônicas. Engineering Desire.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 
 <!-- TWITTER CARD -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="BagiCo. &#8212; Engineering Desire">
-<meta name="twitter:description" content="Ag&ecirc;ncia boutique de branding e estrat&eacute;gia em Porto Alegre. Transformamos neg&oacute;cios em marcas ic&ocirc;nicas.">
+<meta name="twitter:title" content="BagiCo. — Engineering Desire">
+<meta name="twitter:description" content="Agência boutique de branding e estratégia em Porto Alegre. Transformamos negócios em marcas icônicas.">
 
 <!-- FAVICON (logo BagiCo em base64) -->
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
@@ -487,21 +487,21 @@
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -522,19 +522,19 @@
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -547,12 +547,12 @@
   <div class="hero-bg"></div>
   <div class="hero-line"></div>
   <div class="hero-content">
-    <p class="hero-eyebrow">Ag&ecirc;ncia de Branding em Porto Alegre</p>
+    <p class="hero-eyebrow">Agência de Branding em Porto Alegre</p>
     <h1 class="hero-title">Arquitetos<br>de <em>desejo<span class="dot">.</span></em></h1>
-    <p class="hero-sub">Transformamos estrat&eacute;gia em presen&ccedil;a &mdash; e presen&ccedil;a em crescimento. Somos a fus&atilde;o da mente anal&iacute;tica com a alma art&iacute;stica.</p>
+    <p class="hero-sub">Transformamos estratégia em presença — e presença em crescimento. Somos a fusão da mente analítica com a alma artística.</p>
     <div class="hero-actions">
       <a href="#niveis" class="btn-primary">Nossos modelos</a>
-      <a href="#manifesto" class="btn-ghost">Nossa hist&oacute;ria</a>
+      <a href="#manifesto" class="btn-ghost">Nossa história</a>
     </div>
   </div>
   <div class="hero-scroll">
@@ -561,10 +561,10 @@
   </div>
 </section>
 
-<div class="stats" aria-label="N&uacute;meros BagiCo">
+<div class="stats" aria-label="Números BagiCo">
   <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="3">0</span><span style="color:var(--desire)">+</span></div><div class="stat-label">Anos de mercado</div></div>
   <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="74">0</span><span style="color:var(--desire)">+</span></div><div class="stat-label">Marcas transformadas</div></div>
-  <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="1">0</span><span style="color:var(--desire)">.</span></div><div class="stat-label">Identidade &uacute;nica</div></div>
+  <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="1">0</span><span style="color:var(--desire)">.</span></div><div class="stat-label">Identidade única</div></div>
   <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="0">0</span></div><div class="stat-label">Entregas medianas</div></div>
 </div>
 
@@ -572,22 +572,22 @@
 <section class="manifesto" id="manifesto" aria-label="Sobre a BagiCo">
   <div class="reveal">
     <p class="manifesto-label">Nossa origem</p>
-    <h2 class="manifesto-title">A fus&atilde;o entre<br>arte <em>e</em> ci&ecirc;ncia</h2>
+    <h2 class="manifesto-title">A fusão entre<br>arte <em>e</em> ciência</h2>
   </div>
   <div class="reveal">
-    <p class="manifesto-body">A BagiCo nasceu de uma recusa em escolher. <strong>Recusa em escolher entre beleza e resultado. Entre estrat&eacute;gia e emo&ccedil;&atilde;o. Entre o dado e o desejo.</strong></p>
-    <p class="manifesto-body">Nosso nome honra o legado de Braudelina Bagisteiro do Amaral &mdash; uma mulher que forjou dignidade atrav&eacute;s da resili&ecirc;ncia. &ldquo;Bagi&rdquo; &eacute; nossa raiz humana. &ldquo;Co&rdquo; &eacute; nossa evolu&ccedil;&atilde;o: de Comunica&ccedil;&atilde;o para Conex&atilde;o, de Companhia para C&oacute;digo.</p>
-    <blockquote class="manifesto-quote">&ldquo;N&atilde;o estamos aqui para fazer o b&aacute;sico bem feito. Estamos aqui para compor o legado da sua marca.&rdquo;</blockquote>
+    <p class="manifesto-body">A BagiCo nasceu de uma recusa em escolher. <strong>Recusa em escolher entre beleza e resultado. Entre estratégia e emoção. Entre o dado e o desejo.</strong></p>
+    <p class="manifesto-body">Nosso nome honra o legado de Braudelina Bagisteiro do Amaral — uma mulher que forjou dignidade através da resiliência. “Bagi” é nossa raiz humana. “Co” é nossa evolução: de Comunicação para Conexão, de Companhia para Código.</p>
+    <blockquote class="manifesto-quote">“Não estamos aqui para fazer o básico bem feito. Estamos aqui para compor o legado da sua marca.”</blockquote>
   </div>
 </section>
 
 <div class="divider"><div class="divider-dot"></div></div>
 
-<section class="services" id="servicos" aria-label="Servi&ccedil;os da BagiCo">
+<section class="services" id="servicos" aria-label="Serviços da BagiCo">
   <div class="section-header reveal">
     <div>
       <p class="section-label">O que fazemos</p>
-      <h2 class="section-title">Servi&ccedil;os que<br><em>transformam</em></h2>
+      <h2 class="section-title">Serviços que<br><em>transformam</em></h2>
     </div>
     <a href="https://wa.me/5551993535790" target="_blank" class="section-link">Fale conosco</a>
   </div>
@@ -595,84 +595,84 @@
     <article class="service-card reveal">
       <div class="service-num">01</div>
       <div class="service-icon"></div>
-      <h3 class="service-title">Estrat&eacute;gia de Marca</h3>
-      <p class="service-body">Decodificamos a complexidade do seu neg&oacute;cio e transformamos em narrativa de autoridade. Posicionamento, arquitetura e dire&ccedil;&atilde;o estrat&eacute;gica que geram resultado.</p>
-      <div class="service-tags"><span class="tag">Posicionamento</span><span class="tag">Arquitetura de comunica&ccedil;&atilde;o</span><span class="tag">Jornada do cliente</span></div>
+      <h3 class="service-title">Estratégia de Marca</h3>
+      <p class="service-body">Decodificamos a complexidade do seu negócio e transformamos em narrativa de autoridade. Posicionamento, arquitetura e direção estratégica que geram resultado.</p>
+      <div class="service-tags"><span class="tag">Posicionamento</span><span class="tag">Arquitetura de comunicação</span><span class="tag">Jornada do cliente</span></div>
     </article>
     <article class="service-card reveal">
       <div class="service-num">02</div>
       <div class="service-icon"></div>
-      <h3 class="service-title">Dire&ccedil;&atilde;o de Presen&ccedil;a</h3>
-      <p class="service-body">Planejamento editorial, dire&ccedil;&atilde;o criativa e curadoria de narrativa. Sua marca come&ccedil;a a parecer grande &mdash; porque &eacute;.</p>
-      <div class="service-tags"><span class="tag">Planejamento editorial</span><span class="tag">Dire&ccedil;&atilde;o criativa</span><span class="tag">Calend&aacute;rio de conte&uacute;do</span></div>
+      <h3 class="service-title">Direção de Presença</h3>
+      <p class="service-body">Planejamento editorial, direção criativa e curadoria de narrativa. Sua marca começa a parecer grande — porque é.</p>
+      <div class="service-tags"><span class="tag">Planejamento editorial</span><span class="tag">Direção criativa</span><span class="tag">Calendário de conteúdo</span></div>
     </article>
     <article class="service-card reveal">
       <div class="service-num">03</div>
       <div class="service-icon"></div>
       <h3 class="service-title">Crescimento Estruturado</h3>
-      <p class="service-body">Funil de conte&uacute;do, estrat&eacute;gia de lan&ccedil;amentos e constru&ccedil;&atilde;o de autoridade. Escalamos sua presen&ccedil;a com dire&ccedil;&atilde;o &mdash; sem ru&iacute;do, sem desperd&iacute;cio.</p>
-      <div class="service-tags"><span class="tag">Estrat&eacute;gia de lan&ccedil;amentos</span><span class="tag">Funil de conte&uacute;do</span><span class="tag">Constru&ccedil;&atilde;o de autoridade</span></div>
+      <p class="service-body">Funil de conteúdo, estratégia de lançamentos e construção de autoridade. Escalamos sua presença com direção — sem ruído, sem desperdício.</p>
+      <div class="service-tags"><span class="tag">Estratégia de lançamentos</span><span class="tag">Funil de conteúdo</span><span class="tag">Construção de autoridade</span></div>
     </article>
     <article class="service-card reveal">
       <div class="service-num">04</div>
       <div class="service-icon"></div>
       <h3 class="service-title">Consultoria Boutique</h3>
-      <p class="service-body">Diagn&oacute;stico estrat&eacute;gico, mentoria de posicionamento e dire&ccedil;&atilde;o de marca para founders. O mais pr&oacute;ximo que uma ag&ecirc;ncia pode chegar do seu neg&oacute;cio.</p>
-      <div class="service-tags"><span class="tag">Diagn&oacute;stico estrat&eacute;gico</span><span class="tag">Mentoria</span><span class="tag">Dire&ccedil;&atilde;o para founders</span></div>
+      <p class="service-body">Diagnóstico estratégico, mentoria de posicionamento e direção de marca para founders. O mais próximo que uma agência pode chegar do seu negócio.</p>
+      <div class="service-tags"><span class="tag">Diagnóstico estratégico</span><span class="tag">Mentoria</span><span class="tag">Direção para founders</span></div>
     </article>
   </div>
 </section>
 
 <div class="divider"><div class="divider-dot"></div></div>
 
-<section class="levels" id="niveis" aria-label="Modelos de atua&ccedil;&atilde;o BagiCo">
+<section class="levels" id="niveis" aria-label="Modelos de atuação BagiCo">
   <div class="section-header reveal">
     <div>
-      <p class="section-label">Modelos de atua&ccedil;&atilde;o</p>
-      <h2 class="section-title">Escolha seu<br><em>n&iacute;vel de profundidade</em></h2>
+      <p class="section-label">Modelos de atuação</p>
+      <h2 class="section-title">Escolha seu<br><em>nível de profundidade</em></h2>
     </div>
   </div>
   <div class="levels-grid">
     <div class="level-card reveal">
-      <p class="level-badge">N&iacute;vel 01 &mdash; Funda&ccedil;&atilde;o</p>
+      <p class="level-badge">Nível 01 — Fundação</p>
       <h3 class="level-name">BagiCo Base</h3>
       <p class="level-sub">Arquitetura de Marca</p>
-      <p class="level-desc">Para marcas confusas, come&ccedil;ando ou reposicionando. A sensa&ccedil;&atilde;o: organizar o que est&aacute; solto.</p>
+      <p class="level-desc">Para marcas confusas, começando ou reposicionando. A sensação: organizar o que está solto.</p>
       <ul class="level-list">
-        <li>Diagn&oacute;stico estrat&eacute;gico</li>
-        <li>Clareza de p&uacute;blico</li>
+        <li>Diagnóstico estratégico</li>
+        <li>Clareza de público</li>
         <li>Proposta de valor</li>
         <li>Tom de voz</li>
-        <li>Pilares de conte&uacute;do</li>
-        <li>Estrutura de presen&ccedil;a digital</li>
+        <li>Pilares de conteúdo</li>
+        <li>Estrutura de presença digital</li>
       </ul>
     </div>
     <div class="level-card featured reveal">
-      <p class="level-badge">N&iacute;vel 02 &mdash; Crescimento</p>
+      <p class="level-badge">Nível 02 — Crescimento</p>
       <h3 class="level-name">BagiCo Growth</h3>
-      <p class="level-sub">Dire&ccedil;&atilde;o de Presen&ccedil;a</p>
-      <p class="level-desc">Para marcas que existem mas n&atilde;o escalam. A sensa&ccedil;&atilde;o: marca come&ccedil;a a parecer grande.</p>
+      <p class="level-sub">Direção de Presença</p>
+      <p class="level-desc">Para marcas que existem mas não escalam. A sensação: marca começa a parecer grande.</p>
       <ul class="level-list">
-        <li>Estrat&eacute;gia mensal</li>
+        <li>Estratégia mensal</li>
         <li>Planejamento editorial</li>
-        <li>Dire&ccedil;&atilde;o criativa</li>
+        <li>Direção criativa</li>
         <li>Ajuste de posicionamento</li>
         <li>Estrutura de narrativa de marca</li>
-        <li>Acompanhamento de m&eacute;tricas</li>
+        <li>Acompanhamento de métricas</li>
       </ul>
     </div>
     <div class="level-card reveal">
-      <p class="level-badge">N&iacute;vel 03 &mdash; Expans&atilde;o</p>
+      <p class="level-badge">Nível 03 — Expansão</p>
       <h3 class="level-name">BagiCo Partnership</h3>
-      <p class="level-sub">Dire&ccedil;&atilde;o Estrat&eacute;gica Cont&iacute;nua</p>
+      <p class="level-sub">Direção Estratégica Contínua</p>
       <p class="level-desc">Poucos clientes. Alta proximidade. O modelo boutique real.</p>
       <ul class="level-list">
-        <li>Planejamento estrat&eacute;gico cont&iacute;nuo</li>
-        <li>Reuni&otilde;es semanais</li>
-        <li>Dire&ccedil;&atilde;o de lan&ccedil;amentos</li>
+        <li>Planejamento estratégico contínuo</li>
+        <li>Reuniões semanais</li>
+        <li>Direção de lançamentos</li>
         <li>Posicionamento do founder</li>
-        <li>Estrat&eacute;gia de autoridade</li>
-        <li>Decis&otilde;es de crescimento</li>
+        <li>Estratégia de autoridade</li>
+        <li>Decisões de crescimento</li>
       </ul>
     </div>
   </div>
@@ -682,37 +682,37 @@
 
 <section class="values" id="valores" aria-label="Valores da BagiCo">
   <div class="values-left reveal">
-    <p class="section-label">Nossa ess&ecirc;ncia</p>
+    <p class="section-label">Nossa essência</p>
     <h2 class="section-title">O que nos<br><em>define</em></h2>
-    <p style="font-size:14px;color:var(--text-secondary);line-height:1.9;margin-top:24px;font-weight:300;">A BagiCo n&atilde;o aceita o morno. Cada entrega carrega a mesma assinatura: intensa, estruturada e culturalmente relevante.</p>
+    <p style="font-size:14px;color:var(--text-secondary);line-height:1.9;margin-top:24px;font-weight:300;">A BagiCo não aceita o morno. Cada entrega carrega a mesma assinatura: intensa, estruturada e culturalmente relevante.</p>
   </div>
   <div class="values-list">
     <div class="value-item reveal">
       <span class="value-num">01</span>
       <div>
         <h3 class="value-title">Visceralidade</h3>
-        <p class="value-body">N&atilde;o fazemos nada morno. Ou &eacute; intenso, ou n&atilde;o &eacute; BagiCo. Cada projeto precisa provocar algo &mdash; no cliente, no mercado, nas pessoas.</p>
+        <p class="value-body">Não fazemos nada morno. Ou é intenso, ou não é BagiCo. Cada projeto precisa provocar algo — no cliente, no mercado, nas pessoas.</p>
       </div>
     </div>
     <div class="value-item reveal">
       <span class="value-num">02</span>
       <div>
         <h3 class="value-title">Estrutura</h3>
-        <p class="value-body">A criatividade precisa de caos, mas a entrega precisa de ordem. Somos t&atilde;o disciplinados na execu&ccedil;&atilde;o quanto ousados na cria&ccedil;&atilde;o.</p>
+        <p class="value-body">A criatividade precisa de caos, mas a entrega precisa de ordem. Somos tão disciplinados na execução quanto ousados na criação.</p>
       </div>
     </div>
     <div class="value-item reveal">
       <span class="value-num">03</span>
       <div>
-        <h3 class="value-title">Est&eacute;tica como Linguagem</h3>
-        <p class="value-body">O belo n&atilde;o &eacute; futilidade &mdash; &eacute; estrat&eacute;gia de poder. A forma como uma marca se apresenta comunica antes de qualquer palavra.</p>
+        <h3 class="value-title">Estética como Linguagem</h3>
+        <p class="value-body">O belo não é futilidade — é estratégia de poder. A forma como uma marca se apresenta comunica antes de qualquer palavra.</p>
       </div>
     </div>
     <div class="value-item reveal">
       <span class="value-num">04</span>
       <div>
-        <h3 class="value-title">Heritage &mdash; Legado</h3>
-        <p class="value-body">Honramos de onde viemos para saber onde vamos chegar. Constru&iacute;mos marcas que valorizam com o tempo &mdash; n&atilde;o campanhas descart&aacute;veis.</p>
+        <h3 class="value-title">Heritage — Legado</h3>
+        <p class="value-body">Honramos de onde viemos para saber onde vamos chegar. Construímos marcas que valorizam com o tempo — não campanhas descartáveis.</p>
       </div>
     </div>
   </div>
@@ -721,17 +721,17 @@
 <!-- CTA com FAQ visível para AEO -->
 <section class="cta-section" id="contato" aria-label="Contato BagiCo">
   <h2 class="cta-title reveal">Pronto para<br><em>Engineering</em><br>Desire<span style="color:var(--desire)">.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil. Seleto. Intenso. Sem concess&otilde;es.</p>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil. Seleto. Intenso. Sem concessões.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Iniciar conversa no WhatsApp</a>
   </div>
 </section>
 
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -741,7 +741,7 @@
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 
 <script>

@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Identidade Visual em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Cria&ccedil;&atilde;o de identidade visual completa em Porto Alegre: logo, manual de marca, paleta de cores e tipografia. Or&ccedil;amento sob medida para todo o Brasil.">
-<meta name="keywords" content="identidade visual Porto Alegre, cria&ccedil;&atilde;o de logo Porto Alegre, branding Porto Alegre, manual de marca, ag&ecirc;ncia de branding Porto Alegre, BagiCo">
+<title>Identidade Visual em Porto Alegre — BagiCo</title>
+<meta name="description" content="Criação de identidade visual completa em Porto Alegre: logo, manual de marca, paleta de cores e tipografia. Orçamento sob medida para todo o Brasil.">
+<meta name="keywords" content="identidade visual Porto Alegre, criação de logo Porto Alegre, branding Porto Alegre, manual de marca, agência de branding Porto Alegre, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -14,19 +14,19 @@
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/identidade-visual">
-<meta property="og:title" content="Identidade Visual Premium &#8212; BagiCo Porto Alegre">
+<meta property="og:title" content="Identidade Visual Premium — BagiCo Porto Alegre">
 <meta property="og:description" content="Logo, manual de marca, paleta e tipografia. Identidade visual que gera reconhecimento e desejo.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Identidade Visual Premium &#8212; BagiCo Porto Alegre">
+<meta name="twitter:title" content="Identidade Visual Premium — BagiCo Porto Alegre">
 <meta name="twitter:description" content="Logo, manual de marca, paleta e tipografia. Identidade visual que gera reconhecimento e desejo.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Identidade Visual e Branding","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Cria&ccedil;&atilde;o de identidade visual completa: logo, manual de marca, paleta e tipografia.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Identidade Visual e Branding","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Criação de identidade visual completa: logo, manual de marca, paleta e tipografia.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quanto tempo leva para criar uma identidade visual?","acceptedAnswer":{"@type":"Answer","text":"Uma identidade completa leva em m&eacute;dia de 2 a 4 semanas, incluindo pesquisa, desenvolvimento e refinamentos."}},{"@type":"Question","name":"O que est&aacute; inclu&iacute;do na entrega?","acceptedAnswer":{"@type":"Answer","text":"Logo em todas as vers&otilde;es e formatos, manual de marca, paleta de cores, tipografia e os materiais definidos no escopo."}},{"@type":"Question","name":"Voc&ecirc;s fazem rebranding de marcas existentes?","acceptedAnswer":{"@type":"Answer","text":"Sim. Atendemos tanto cria&ccedil;&atilde;o do zero quanto reposicionamento e redesign de marcas j&aacute; existentes."}},{"@type":"Question","name":"Preciso ter o nome da empresa definido?","acceptedAnswer":{"@type":"Answer","text":"Sim. Se precisar de naming, tamb&eacute;m oferecemos esse servi&ccedil;o como etapa anterior."}},{"@type":"Question","name":"Voc&ecirc;s atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. Presencialmente em Porto Alegre e remotamente para todo o Brasil."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quanto tempo leva para criar uma identidade visual?","acceptedAnswer":{"@type":"Answer","text":"Uma identidade completa leva em média de 2 a 4 semanas, incluindo pesquisa, desenvolvimento e refinamentos."}},{"@type":"Question","name":"O que está incluído na entrega?","acceptedAnswer":{"@type":"Answer","text":"Logo em todas as versões e formatos, manual de marca, paleta de cores, tipografia e os materiais definidos no escopo."}},{"@type":"Question","name":"Vocês fazem rebranding de marcas existentes?","acceptedAnswer":{"@type":"Answer","text":"Sim. Atendemos tanto criação do zero quanto reposicionamento e redesign de marcas já existentes."}},{"@type":"Question","name":"Preciso ter o nome da empresa definido?","acceptedAnswer":{"@type":"Answer","text":"Sim. Se precisar de naming, também oferecemos esse serviço como etapa anterior."}},{"@type":"Question","name":"Vocês atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. Presencialmente em Porto Alegre e remotamente para todo o Brasil."}}]}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -295,21 +295,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -330,19 +330,19 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -352,9 +352,9 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <section class="hero" aria-label="Identidade Visual BagiCo">
   <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 50% at 75% 45%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Identidade Visual</div>
-    <h1 class="hero-title">Sua marca precisa<br>ser <em>reconhec&iacute;vel<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Criamos identidades visuais completas que comunicam quem voc&ecirc; &eacute; antes mesmo de voc&ecirc; falar. Do logo ao manual de marca, cada elemento pensado para gerar desejo e reconhecimento.</p>
+    <div class="hero-badge"><span>●</span> Identidade Visual</div>
+    <h1 class="hero-title">Sua marca precisa<br>ser <em>reconhecível<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Criamos identidades visuais completas que comunicam quem você é antes mesmo de você falar. Do logo ao manual de marca, cada elemento pensado para gerar desejo e reconhecimento.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero minha identidade visual</a>
@@ -368,29 +368,29 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <div class="cards-grid">    <article class="card reveal">
       <div class="card-num">01</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Logo e S&iacute;mbolo</h3>
-      <p class="card-desc">Marca &uacute;nica, vers&aacute;til e inconfund&iacute;vel. Desenvolvida para funcionar em qualquer formato.</p>
-      <div class="tags"><span class="tag">Conceito estrat&eacute;gico</span><span class="tag">Vers&otilde;es e varia&ccedil;&otilde;es</span><span class="tag">Arquivos prontos</span></div>
+      <h3 class="card-title">Logo e Símbolo</h3>
+      <p class="card-desc">Marca única, versátil e inconfundível. Desenvolvida para funcionar em qualquer formato.</p>
+      <div class="tags"><span class="tag">Conceito estratégico</span><span class="tag">Versões e variações</span><span class="tag">Arquivos prontos</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">02</div>
       <div class="card-line"></div>
       <h3 class="card-title">Manual de Marca</h3>
-      <p class="card-desc">O guia completo para uso correto da identidade. Consist&ecirc;ncia em qualquer aplica&ccedil;&atilde;o.</p>
-      <div class="tags"><span class="tag">Regras de uso</span><span class="tag">Aplica&ccedil;&otilde;es corretas</span><span class="tag">Vers&otilde;es de cor</span></div>
+      <p class="card-desc">O guia completo para uso correto da identidade. Consistência em qualquer aplicação.</p>
+      <div class="tags"><span class="tag">Regras de uso</span><span class="tag">Aplicações corretas</span><span class="tag">Versões de cor</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">03</div>
       <div class="card-line"></div>
       <h3 class="card-title">Paleta e Tipografia</h3>
-      <p class="card-desc">As cores e fontes certas para a personalidade da sua marca. Cada escolha baseada em estrat&eacute;gia.</p>
-      <div class="tags"><span class="tag">Cores prim&aacute;rias</span><span class="tag">Fontes para digital e impresso</span><span class="tag">Combina&ccedil;&otilde;es aprovadas</span></div>
+      <p class="card-desc">As cores e fontes certas para a personalidade da sua marca. Cada escolha baseada em estratégia.</p>
+      <div class="tags"><span class="tag">Cores primárias</span><span class="tag">Fontes para digital e impresso</span><span class="tag">Combinações aprovadas</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">04</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Elementos e Aplica&ccedil;&otilde;es</h3>
-      <p class="card-desc">Papelaria, assinatura de e-mail, capa de redes sociais e materiais que completam a experi&ecirc;ncia visual.</p>
+      <h3 class="card-title">Elementos e Aplicações</h3>
+      <p class="card-desc">Papelaria, assinatura de e-mail, capa de redes sociais e materiais que completam a experiência visual.</p>
       <div class="tags"><span class="tag">Papelaria completa</span><span class="tag">Templates digitais</span><span class="tag">Materiais promocionais</span></div>
     </article>
 </div>
@@ -400,33 +400,33 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
   <div class="diff-grid">    <div class="diff-item reveal">
       <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Estrat&eacute;gia antes do design</h3>
-      <p class="diff-desc">Antes de desenhar qualquer elemento, entendemos seu neg&oacute;cio e posicionamento. Design bonito sem estrat&eacute;gia &eacute; decora&ccedil;&atilde;o.</p>
+      <h3 class="diff-title">Estratégia antes do design</h3>
+      <p class="diff-desc">Antes de desenhar qualquer elemento, entendemos seu negócio e posicionamento. Design bonito sem estratégia é decoração.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Identidade &uacute;nica</h3>
-      <p class="diff-desc">Nenhum template. Nenhum banco de s&iacute;mbolos pr&eacute;-prontos. Cada identidade &eacute; criada do zero para ser genuinamente sua.</p>
+      <h3 class="diff-title">Identidade única</h3>
+      <p class="diff-desc">Nenhum template. Nenhum banco de símbolos pré-prontos. Cada identidade é criada do zero para ser genuinamente sua.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Processo colaborativo</h3>
-      <p class="diff-desc">Voc&ecirc; participa de cada etapa. Aprovamos conceitos juntos antes de avan&ccedil;ar.</p>
+      <p class="diff-desc">Você participa de cada etapa. Aprovamos conceitos juntos antes de avançar.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Entrega completa</h3>
-      <p class="diff-desc">Todos os arquivos necess&aacute;rios para qualquer aplica&ccedil;&atilde;o, organizados e prontos.</p>
+      <p class="diff-desc">Todos os arquivos necessários para qualquer aplicação, organizados e prontos.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Or&ccedil;amento sob medida</h3>
-      <p class="diff-desc">De startups a rebrandings de empresas consolidadas. Escopo e valor ajustados &agrave; sua realidade.</p>
+      <h3 class="diff-title">Orçamento sob medida</h3>
+      <p class="diff-desc">De startups a rebrandings de empresas consolidadas. Escopo e valor ajustados à sua realidade.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Suporte p&oacute;s-entrega</h3>
-      <p class="diff-desc">D&uacute;vidas sobre aplica&ccedil;&atilde;o? Estamos aqui. Nosso relacionamento n&atilde;o termina na entrega.</p>
+      <h3 class="diff-title">Suporte pós-entrega</h3>
+      <p class="diff-desc">Dúvidas sobre aplicação? Estamos aqui. Nosso relacionamento não termina na entrega.</p>
     </div>
 </div>
 </section>
@@ -435,15 +435,15 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
   <div class="steps">    <div class="step reveal">
       <span class="step-num">01</span>
-      <div><h3 class="step-title">Imers&atilde;o e diagn&oacute;stico</h3><p class="step-desc">Entendemos sua empresa, valores, p&uacute;blico e concorr&ecirc;ncia. Quanto mais conhecemos, mais precisa a identidade.</p></div>
+      <div><h3 class="step-title">Imersão e diagnóstico</h3><p class="step-desc">Entendemos sua empresa, valores, público e concorrência. Quanto mais conhecemos, mais precisa a identidade.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">02</span>
-      <div><h3 class="step-title">Conceito estrat&eacute;gico</h3><p class="step-desc">Definimos o posicionamento visual antes de qualquer tra&ccedil;o. Personalidade e dire&ccedil;&atilde;o criativa alinhados.</p></div>
+      <div><h3 class="step-title">Conceito estratégico</h3><p class="step-desc">Definimos o posicionamento visual antes de qualquer traço. Personalidade e direção criativa alinhados.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">03</span>
-      <div><h3 class="step-title">Desenvolvimento e apresenta&ccedil;&atilde;o</h3><p class="step-desc">Criamos as propostas visuais com a raz&atilde;o por tr&aacute;s de cada escolha. Nada &eacute; aleat&oacute;rio.</p></div>
+      <div><h3 class="step-title">Desenvolvimento e apresentação</h3><p class="step-desc">Criamos as propostas visuais com a razão por trás de cada escolha. Nada é aleatório.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">04</span>
@@ -452,43 +452,43 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="D&uacute;vidas frequentes">
-<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+<section class="section-block dark" aria-label="Dúvidas frequentes">
+<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
   <div class="faq-list reveal">    <div class="faq-item">
       <div class="faq-question"><span class="faq-q-text">Quanto tempo leva para criar uma identidade visual?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Uma identidade completa leva em m&eacute;dia de 2 a 4 semanas, incluindo pesquisa, desenvolvimento e refinamentos.</p>
+      <p class="faq-answer">Uma identidade completa leva em média de 2 a 4 semanas, incluindo pesquisa, desenvolvimento e refinamentos.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">O que est&aacute; inclu&iacute;do na entrega?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Logo em todas as vers&otilde;es e formatos, manual de marca, paleta de cores, tipografia e os materiais definidos no escopo.</p>
+      <div class="faq-question"><span class="faq-q-text">O que está incluído na entrega?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Logo em todas as versões e formatos, manual de marca, paleta de cores, tipografia e os materiais definidos no escopo.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem rebranding de marcas existentes?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim. Atendemos tanto cria&ccedil;&atilde;o do zero quanto reposicionamento e redesign de marcas j&aacute; existentes.</p>
+      <div class="faq-question"><span class="faq-q-text">Vocês fazem rebranding de marcas existentes?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Sim. Atendemos tanto criação do zero quanto reposicionamento e redesign de marcas já existentes.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question"><span class="faq-q-text">Preciso ter o nome da empresa definido?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim. Se precisar de naming, tamb&eacute;m oferecemos esse servi&ccedil;o como etapa anterior.</p>
+      <p class="faq-answer">Sim. Se precisar de naming, também oferecemos esse serviço como etapa anterior.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div>
+      <div class="faq-question"><span class="faq-q-text">Vocês atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div>
       <p class="faq-answer">Sim. Presencialmente em Porto Alegre e remotamente para todo o Brasil.</p>
     </div>
 </div>
 </section>
 <section class="cta-section" aria-label="CTA Identidade Visual">
-  <h2 class="cta-title reveal">Pronto para uma marca<br><em>inconfund&iacute;vel</em><span style='color:var(--desire)'>.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+  <h2 class="cta-title reveal">Pronto para uma marca<br><em>inconfundível</em><span style='color:var(--desire)'>.</span></h2>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Orçamento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -498,7 +498,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 <script>var cursor=document.getElementById('cursor'),ring=document.getElementById('cursorRing'),mx=0,my=0,rx=0,ry=0;
 document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;cursor.style.left=mx+'px';cursor.style.top=my+'px';});

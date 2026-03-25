@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IA para meu neg&oacute;cio em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Implementa&ccedil;&atilde;o de Intelig&ecirc;ncia Artificial para empresas em Porto Alegre. Imers&atilde;o, diagn&oacute;stico e implementa&ccedil;&atilde;o de ferramentas de IA como n8n, Make, ChatGPT, Elephant.ai e mais.">
-<meta name="keywords" content="IA para empresas Porto Alegre, intelig&ecirc;ncia artificial para neg&oacute;cios, automa&ccedil;&atilde;o com IA, n8n Porto Alegre, ChatGPT empresas, Elephant.ai, implementa&ccedil;&atilde;o de IA RS">
+<title>IA para meu negócio em Porto Alegre — BagiCo</title>
+<meta name="description" content="Implementação de Inteligência Artificial para empresas em Porto Alegre. Imersão, diagnóstico e implementação de ferramentas de IA como n8n, Make, ChatGPT, Elephant.ai e mais.">
+<meta name="keywords" content="IA para empresas Porto Alegre, inteligência artificial para negócios, automação com IA, n8n Porto Alegre, ChatGPT empresas, Elephant.ai, implementação de IA RS">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -14,19 +14,19 @@
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/ia">
-<meta property="og:title" content="IA para meu neg&oacute;cio &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Imers&atilde;o, diagn&oacute;stico e implementa&ccedil;&atilde;o de ferramentas de IA para empresas. Automatize processos e escale resultados com intelig&ecirc;ncia artificial.">
+<meta property="og:title" content="IA para meu negócio — BagiCo Porto Alegre">
+<meta property="og:description" content="Imersão, diagnóstico e implementação de ferramentas de IA para empresas. Automatize processos e escale resultados com inteligência artificial.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="IA para meu neg&oacute;cio &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Imers&atilde;o, diagn&oacute;stico e implementa&ccedil;&atilde;o de ferramentas de IA para empresas. Automatize processos e escale resultados com intelig&ecirc;ncia artificial.">
+<meta name="twitter:title" content="IA para meu negócio — BagiCo Porto Alegre">
+<meta name="twitter:description" content="Imersão, diagnóstico e implementação de ferramentas de IA para empresas. Automatize processos e escale resultados com inteligência artificial.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Implementa&ccedil;&atilde;o de IA para Empresas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Imers&atilde;o nos processos da empresa, diagn&oacute;stico de oportunidades e implementa&ccedil;&atilde;o de ferramentas de IA como n8n, Make, ChatGPT e Elephant.ai.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Implementação de IA para Empresas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Imersão nos processos da empresa, diagnóstico de oportunidades e implementação de ferramentas de IA como n8n, Make, ChatGPT e Elephant.ai.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Preciso saber de tecnologia para usar IA no meu neg&oacute;cio?","acceptedAnswer":{"@type":"Answer","text":"N&atilde;o. Cuidamos de toda a parte t&eacute;cnica e entregamos solu&ccedil;&otilde;es prontas para usar. O treinamento &eacute; pensado para equipes sem background t&eacute;cnico."}},{"@type":"Question","name":"Quais ferramentas de IA a BagiCo trabalha?","acceptedAnswer":{"@type":"Answer","text":"n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas espec&iacute;ficas conforme o diagn&oacute;stico de cada empresa."}},{"@type":"Question","name":"Os custos das ferramentas est&atilde;o inclu&iacute;dos?","acceptedAnswer":{"@type":"Answer","text":"N&atilde;o. As ferramentas de IA t&ecirc;m planos e custos pr&oacute;prios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementa&ccedil;&atilde;o."}},{"@type":"Question","name":"Em quanto tempo vejo resultado?","acceptedAnswer":{"@type":"Answer","text":"Depende da complexidade da implementa&ccedil;&atilde;o. Automa&ccedil;&otilde;es simples podem estar funcionando em dias. Implementa&ccedil;&otilde;es mais complexas levam de 2 a 6 semanas."}},{"@type":"Question","name":"Voc&ecirc;s atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. A imers&atilde;o pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Preciso saber de tecnologia para usar IA no meu negócio?","acceptedAnswer":{"@type":"Answer","text":"Não. Cuidamos de toda a parte técnica e entregamos soluções prontas para usar. O treinamento é pensado para equipes sem background técnico."}},{"@type":"Question","name":"Quais ferramentas de IA a BagiCo trabalha?","acceptedAnswer":{"@type":"Answer","text":"n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas específicas conforme o diagnóstico de cada empresa."}},{"@type":"Question","name":"Os custos das ferramentas estão incluídos?","acceptedAnswer":{"@type":"Answer","text":"Não. As ferramentas de IA têm planos e custos próprios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementação."}},{"@type":"Question","name":"Em quanto tempo vejo resultado?","acceptedAnswer":{"@type":"Answer","text":"Depende da complexidade da implementação. Automações simples podem estar funcionando em dias. Implementações mais complexas levam de 2 a 6 semanas."}},{"@type":"Question","name":"Vocês atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. A imersão pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil."}}]}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -308,21 +308,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -343,31 +343,31 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
-<section class="hero" aria-label="IA para meu neg&oacute;cio BagiCo">
+<section class="hero" aria-label="IA para meu negócio BagiCo">
   <div style="position:absolute;inset:0;background:radial-gradient(ellipse 65% 55% at 70% 40%,rgba(192,57,43,.09) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> IA para meu neg&oacute;cio</div>
-    <h1 class="hero-title">Intelig&ecirc;ncia Artificial<br>a servi&ccedil;o do<br><em>seu neg&oacute;cio<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Mapeamos seus processos, identificamos onde a IA gera mais valor e implementamos as ferramentas certas. Do diagn&oacute;stico &agrave; automa&ccedil;&atilde;o funcionando — com suporte real em cada etapa.</p>
+    <div class="hero-badge"><span>●</span> IA para meu negócio</div>
+    <h1 class="hero-title">Inteligência Artificial<br>a serviço do<br><em>seu negócio<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Mapeamos seus processos, identificamos onde a IA gera mais valor e implementamos as ferramentas certas. Do diagnóstico à automação funcionando — com suporte real em cada etapa.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero implementar IA</a>
@@ -377,57 +377,57 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="como-atuamos" aria-label="O que fazemos">
-<div class="reveal"><p class="section-label">O que fazemos</p><h2 class="section-title">IA aplicada com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
-  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Imers&atilde;o e Diagn&oacute;stico</h3><p class="card-desc">Mergulhamos nos fluxos de trabalho da sua empresa para entender processos, gargalos e oportunidades. Nenhuma implementa&ccedil;&atilde;o antes de entender o contexto.</p><div class="tags"><span class="tag">An&aacute;lise de processos</span><span class="tag">Mapeamento de gargalos</span><span class="tag">Relat&oacute;rio de oportunidades</span></div></article>
-<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Automa&ccedil;&atilde;o de Fluxos</h3><p class="card-desc">Implementamos automa&ccedil;&otilde;es com n8n, Make e Zapier para eliminar tarefas manuais repetitivas e conectar ferramentas que j&aacute; existem na sua opera&ccedil;&atilde;o.</p><div class="tags"><span class="tag">n8n e Make</span><span class="tag">Integra&ccedil;&otilde;es entre ferramentas</span><span class="tag">Fluxos sem interven&ccedil;&atilde;o manual</span></div></article>
-<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA Generativa e LLMs</h3><p class="card-desc">Integra&ccedil;&atilde;o de ChatGPT e outros modelos de linguagem para criar assistentes, automatizar conte&uacute;do, responder clientes e otimizar decis&otilde;es internas.</p><div class="tags"><span class="tag">ChatGPT e GPT-4</span><span class="tag">Assistentes personalizados</span><span class="tag">Automa&ccedil;&atilde;o de conte&uacute;do</span></div></article>
-<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Prospec&ccedil;&atilde;o Inteligente</h3><p class="card-desc">Implementa&ccedil;&atilde;o do Elephant.ai e outras ferramentas de IA para prospec&ccedil;&atilde;o ativa — encontrando leads qualificados e automatizando abordagens comerciais.</p><div class="tags"><span class="tag">Elephant.ai</span><span class="tag">Qualifica&ccedil;&atilde;o autom&aacute;tica de leads</span><span class="tag">Sequ&ecirc;ncias de prospec&ccedil;&atilde;o</span></div></article>
+<div class="reveal"><p class="section-label">O que fazemos</p><h2 class="section-title">IA aplicada com<br><em>intenção estratégica</em></h2></div>
+  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Imersão e Diagnóstico</h3><p class="card-desc">Mergulhamos nos fluxos de trabalho da sua empresa para entender processos, gargalos e oportunidades. Nenhuma implementação antes de entender o contexto.</p><div class="tags"><span class="tag">Análise de processos</span><span class="tag">Mapeamento de gargalos</span><span class="tag">Relatório de oportunidades</span></div></article>
+<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Automação de Fluxos</h3><p class="card-desc">Implementamos automações com n8n, Make e Zapier para eliminar tarefas manuais repetitivas e conectar ferramentas que já existem na sua operação.</p><div class="tags"><span class="tag">n8n e Make</span><span class="tag">Integrações entre ferramentas</span><span class="tag">Fluxos sem intervenção manual</span></div></article>
+<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA Generativa e LLMs</h3><p class="card-desc">Integração de ChatGPT e outros modelos de linguagem para criar assistentes, automatizar conteúdo, responder clientes e otimizar decisões internas.</p><div class="tags"><span class="tag">ChatGPT e GPT-4</span><span class="tag">Assistentes personalizados</span><span class="tag">Automação de conteúdo</span></div></article>
+<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Prospecção Inteligente</h3><p class="card-desc">Implementação do Elephant.ai e outras ferramentas de IA para prospecção ativa — encontrando leads qualificados e automatizando abordagens comerciais.</p><div class="tags"><span class="tag">Elephant.ai</span><span class="tag">Qualificação automática de leads</span><span class="tag">Sequências de prospecção</span></div></article>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="Diferenciais">
 <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
-  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Imers&atilde;o antes de tudo</h3><p class="diff-desc">N&atilde;o indicamos ferramentas sem entender seu neg&oacute;cio. O diagn&oacute;stico &eacute; o que garante que a IA v&aacute; onde realmente importa.</p></div>
-<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Implementa&ccedil;&atilde;o real</h3><p class="diff-desc">N&atilde;o s&oacute; recomendamos — implementamos. Samos do diagn&oacute;stico &agrave; ferramenta funcionando na sua opera&ccedil;&atilde;o.</p></div>
-<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Foco em resultado</h3><p class="diff-desc">Cada implementa&ccedil;&atilde;o tem um objetivo claro: reduzir tempo, aumentar escala ou melhorar convers&atilde;o. Sem IA por modismo.</p></div>
-<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Custos transparentes</h3><p class="diff-desc">As ferramentas de IA t&ecirc;m custos pr&oacute;prios arcados pelo cliente. Apresentamos cada custo antes de qualquer implementa&ccedil;&atilde;o.</p></div>
+  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Imersão antes de tudo</h3><p class="diff-desc">Não indicamos ferramentas sem entender seu negócio. O diagnóstico é o que garante que a IA vá onde realmente importa.</p></div>
+<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Implementação real</h3><p class="diff-desc">Não só recomendamos — implementamos. Samos do diagnóstico à ferramenta funcionando na sua operação.</p></div>
+<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Foco em resultado</h3><p class="diff-desc">Cada implementação tem um objetivo claro: reduzir tempo, aumentar escala ou melhorar conversão. Sem IA por modismo.</p></div>
+<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Custos transparentes</h3><p class="diff-desc">As ferramentas de IA têm custos próprios arcados pelo cliente. Apresentamos cada custo antes de qualquer implementação.</p></div>
 <div class="diff-item reveal"><div class="diff-num">05<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Treinamento da equipe</h3><p class="diff-desc">Entregamos a ferramenta funcionando e treinamos sua equipe para usar com autonomia. O resultado fica na sua empresa.</p></div>
-<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Atualiza&ccedil;&atilde;o cont&iacute;nua</h3><p class="diff-desc">O ecossistema de IA muda rapidamente. Acompanhamos as evolu&ccedil;&otilde;es e sugerimos otimiza&ccedil;&otilde;es ao longo do tempo.</p></div>
+<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Atualização contínua</h3><p class="diff-desc">O ecossistema de IA muda rapidamente. Acompanhamos as evoluções e sugerimos otimizações ao longo do tempo.</p></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
 <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
-  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos seu neg&oacute;cio, desafios e objetivos. Identificamos se e onde a IA faz sentido para a sua realidade.</p></div></div>
-<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Imers&atilde;o nos processos</h3><p class="step-desc">Mapeamos seus fluxos de trabalho em detalhe — do comercial ao operacional. Onde est&atilde;o os gargalos, o tempo perdido e as oportunidades.</p></div></div>
-<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Proposta de implementa&ccedil;&atilde;o</h3><p class="step-desc">Apresentamos as ferramentas recomendadas, o que cada uma resolve, o investimento e o cronograma de implementa&ccedil;&atilde;o.</p></div></div>
-<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Implementa&ccedil;&atilde;o e treinamento</h3><p class="step-desc">Configuramos, integramos e testamos cada ferramenta. Treinamos sua equipe e entregamos documenta&ccedil;&atilde;o de uso.</p></div></div>
+  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos seu negócio, desafios e objetivos. Identificamos se e onde a IA faz sentido para a sua realidade.</p></div></div>
+<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Imersão nos processos</h3><p class="step-desc">Mapeamos seus fluxos de trabalho em detalhe — do comercial ao operacional. Onde estão os gargalos, o tempo perdido e as oportunidades.</p></div></div>
+<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Proposta de implementação</h3><p class="step-desc">Apresentamos as ferramentas recomendadas, o que cada uma resolve, o investimento e o cronograma de implementação.</p></div></div>
+<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Implementação e treinamento</h3><p class="step-desc">Configuramos, integramos e testamos cada ferramenta. Treinamos sua equipe e entregamos documentação de uso.</p></div></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="FAQ">
-<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
-  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Preciso saber de tecnologia para usar IA no meu neg&oacute;cio?</span><span class="faq-icon">+</span></div><p class="faq-answer">N&atilde;o. Cuidamos de toda a parte t&eacute;cnica e entregamos solu&ccedil;&otilde;es prontas para usar. O treinamento &eacute; pensado para equipes sem background t&eacute;cnico.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais ferramentas de IA a BagiCo trabalha?</span><span class="faq-icon">+</span></div><p class="faq-answer">n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas espec&iacute;ficas conforme o diagn&oacute;stico de cada empresa.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Os custos das ferramentas est&atilde;o inclu&iacute;dos?</span><span class="faq-icon">+</span></div><p class="faq-answer">N&atilde;o. As ferramentas de IA t&ecirc;m planos e custos pr&oacute;prios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementa&ccedil;&atilde;o.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo resultado?</span><span class="faq-icon">+</span></div><p class="faq-answer">Depende da complexidade da implementa&ccedil;&atilde;o. Automa&ccedil;&otilde;es simples podem estar funcionando em dias. Implementa&ccedil;&otilde;es mais complexas levam de 2 a 6 semanas.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Voc&ecirc;s atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. A imers&atilde;o pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil.</p></div>
+<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Preciso saber de tecnologia para usar IA no meu negócio?</span><span class="faq-icon">+</span></div><p class="faq-answer">Não. Cuidamos de toda a parte técnica e entregamos soluções prontas para usar. O treinamento é pensado para equipes sem background técnico.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais ferramentas de IA a BagiCo trabalha?</span><span class="faq-icon">+</span></div><p class="faq-answer">n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas específicas conforme o diagnóstico de cada empresa.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Os custos das ferramentas estão incluídos?</span><span class="faq-icon">+</span></div><p class="faq-answer">Não. As ferramentas de IA têm planos e custos próprios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementação.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo resultado?</span><span class="faq-icon">+</span></div><p class="faq-answer">Depende da complexidade da implementação. Automações simples podem estar funcionando em dias. Implementações mais complexas levam de 2 a 6 semanas.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Vocês atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. A imersão pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil.</p></div>
 </div>
 </section>
 
 <section class="cta-section">
-  <h2 class="cta-title reveal">Vamos colocar a IA<br>para trabalhar pelo<br><em>seu neg&oacute;cio<span style='color:var(--desire)'>.</span></em></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Diagn&oacute;stico inicial sem compromisso.</p>
+  <h2 class="cta-title reveal">Vamos colocar a IA<br>para trabalhar pelo<br><em>seu negócio<span style='color:var(--desire)'>.</span></em></h2>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Diagnóstico inicial sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -437,7 +437,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 <script>var cursor=document.getElementById('cursor'),ring=document.getElementById('cursorRing'),mx=0,my=0,rx=0,ry=0;
 document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;cursor.style.left=mx+'px';cursor.style.top=my+'px';});

@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Outros Servi&ccedil;os &#8212; BagiCo</title>
-<meta name="description" content="Cat&aacute;logo completo de servi&ccedil;os da BagiCo: desenvolvimento de software, v&iacute;deo, design gr&aacute;fico, fotografia, conte&uacute;do escrito, e-mail marketing, assessoria de imprensa, eventos e mais.">
-<meta name="keywords" content="servi&ccedil;os de marketing Porto Alegre, desenvolvimento de software Porto Alegre, produ&ccedil;&atilde;o de v&iacute;deo, design gr&aacute;fico, fotografia corporativa, assessoria de imprensa RS, BagiCo">
+<title>Outros Serviços — BagiCo</title>
+<meta name="description" content="Catálogo completo de serviços da BagiCo: desenvolvimento de software, vídeo, design gráfico, fotografia, conteúdo escrito, e-mail marketing, assessoria de imprensa, eventos e mais.">
+<meta name="keywords" content="serviços de marketing Porto Alegre, desenvolvimento de software Porto Alegre, produção de vídeo, design gráfico, fotografia corporativa, assessoria de imprensa RS, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -14,16 +14,16 @@
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/outros">
-<meta property="og:title" content="Cat&aacute;logo de Servi&ccedil;os &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Desenvolvimento de software, v&iacute;deo, design, fotografia, conte&uacute;do, e-mail marketing, PR e muito mais. Tudo em um lugar s&oacute;.">
+<meta property="og:title" content="Catálogo de Serviços — BagiCo Porto Alegre">
+<meta property="og:description" content="Desenvolvimento de software, vídeo, design, fotografia, conteúdo, e-mail marketing, PR e muito mais. Tudo em um lugar só.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cat&aacute;logo de Servi&ccedil;os &#8212; BagiCo">
-<meta name="twitter:description" content="Cat&aacute;logo completo de servi&ccedil;os: software, v&iacute;deo, design, fotografia, conte&uacute;do e muito mais.">
+<meta name="twitter:title" content="Catálogo de Serviços — BagiCo">
+<meta name="twitter:description" content="Catálogo completo de serviços: software, vídeo, design, fotografia, conteúdo e muito mais.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","description":"Cat&aacute;logo completo de servi&ccedil;os da BagiCo: desenvolvimento de software, v&iacute;deo, design gr&aacute;fico, fotografia, conte&uacute;do, e-mail marketing, PR e eventos.","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}}
+{"@context":"https://schema.org","@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","description":"Catálogo completo de serviços da BagiCo: desenvolvimento de software, vídeo, design gráfico, fotografia, conteúdo, e-mail marketing, PR e eventos.","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -321,21 +321,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -356,35 +356,35 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
-<section class="hero" aria-label="Outros Servi&ccedil;os BagiCo">
+<section class="hero" aria-label="Outros Serviços BagiCo">
   <div style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 50% at 65% 40%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Cat&aacute;logo de Servi&ccedil;os</div>
+    <div class="hero-badge"><span>●</span> Catálogo de Serviços</div>
     <h1 class="hero-title">Tudo que sua<br>marca precisa<br><em>em um lugar<span class="dot">.</span></em></h1>
-    <p class="hero-sub">Da cria&ccedil;&atilde;o ao desenvolvimento, do conte&uacute;do &agrave; tecnologia. Um cat&aacute;logo amplo de servi&ccedil;os para atender cada est&aacute;gio do seu neg&oacute;cio.</p>
+    <p class="hero-sub">Da criação ao desenvolvimento, do conteúdo à tecnologia. Um catálogo amplo de serviços para atender cada estágio do seu negócio.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar com a BagiCo</a>
-      <a href="#catalogo" class="btn-secondary">Ver cat&aacute;logo</a>
+      <a href="#catalogo" class="btn-secondary">Ver catálogo</a>
     </div>
   </div>
 </section>
@@ -407,10 +407,10 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .catalog-note-text strong { color: var(--text-primary); font-weight: 400; }
   @media(max-width:900px){ .catalog { padding: 80px 28px; } .catalog-grid { grid-template-columns: 1fr; } }</style>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="catalog dark" aria-label="Cat&aacute;logo completo de servi&ccedil;os BagiCo">
+<section class="catalog dark" aria-label="Catálogo completo de serviços BagiCo">
   <div class="catalog-header reveal">
-    <p class="section-label">Cat&aacute;logo completo</p>
-    <h2 class="section-title">Todos os servi&ccedil;os<br><em>em um lugar s&oacute;</em></h2>
+    <p class="section-label">Catálogo completo</p>
+    <h2 class="section-title">Todos os serviços<br><em>em um lugar só</em></h2>
   </div>
   <div class="catalog-grid">
     <div class="catalog-card reveal">
@@ -419,31 +419,31 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
         <li>Desenvolvimento de sistemas web</li>
         <li>Desenvolvimento de sistemas locais</li>
         <li>Desenvolvimento de aplicativos webapp</li>
-        <li>Desenvolvimento de aplicativos m&oacute;veis (iOS e Android)</li>
-        <li>APIs e integra&ccedil;&otilde;es entre sistemas</li>
-        <li>Automa&ccedil;&atilde;o de processos com software</li>
+        <li>Desenvolvimento de aplicativos móveis (iOS e Android)</li>
+        <li>APIs e integrações entre sistemas</li>
+        <li>Automação de processos com software</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
-      <h3 class="catalog-category">V&iacute;deo</h3>
+      <h3 class="catalog-category">Vídeo</h3>
       <ul class="catalog-items">
-        <li>Capta&ccedil;&atilde;o de v&iacute;deo</li>
-        <li>Roteiriza&ccedil;&atilde;o de v&iacute;deos</li>
-        <li>Edi&ccedil;&atilde;o de v&iacute;deos</li>
-        <li>V&iacute;deos institucionais</li>
-        <li>V&iacute;deos para redes sociais e Reels</li>
-        <li>Motion graphics e anima&ccedil;&atilde;o</li>
+        <li>Captação de vídeo</li>
+        <li>Roteirização de vídeos</li>
+        <li>Edição de vídeos</li>
+        <li>Vídeos institucionais</li>
+        <li>Vídeos para redes sociais e Reels</li>
+        <li>Motion graphics e animação</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
-      <h3 class="catalog-category">Design Gr&aacute;fico</h3>
+      <h3 class="catalog-category">Design Gráfico</h3>
       <ul class="catalog-items">
-        <li>Pe&ccedil;as para impresso</li>
-        <li>Apresenta&ccedil;&otilde;es profissionais</li>
-        <li>Embalagens e r&oacute;tulos</li>
+        <li>Peças para impresso</li>
+        <li>Apresentações profissionais</li>
+        <li>Embalagens e rótulos</li>
         <li>Papelaria corporativa</li>
         <li>Materiais promocionais</li>
-        <li>Sinaliza&ccedil;&atilde;o e banners</li>
+        <li>Sinalização e banners</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
@@ -454,39 +454,39 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
         <li>Fotografia institucional</li>
         <li>Ensaios para redes sociais</li>
         <li>Fotografia de eventos</li>
-        <li>Tratamento e edi&ccedil;&atilde;o de imagens</li>
+        <li>Tratamento e edição de imagens</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
-      <h3 class="catalog-category">Produ&ccedil;&atilde;o de Conte&uacute;do Escrito</h3>
+      <h3 class="catalog-category">Produção de Conteúdo Escrito</h3>
       <ul class="catalog-items">
         <li>Artigos e blog posts</li>
         <li>Copywriting para landing pages</li>
-        <li>Roteiros para v&iacute;deos e podcasts</li>
+        <li>Roteiros para vídeos e podcasts</li>
         <li>E-books e white papers</li>
-        <li>Conte&uacute;do para redes sociais</li>
-        <li>Textos institucionais e apresenta&ccedil;&otilde;es</li>
+        <li>Conteúdo para redes sociais</li>
+        <li>Textos institucionais e apresentações</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
       <h3 class="catalog-category">E-mail Marketing</h3>
       <ul class="catalog-items">
-        <li>Estrat&eacute;gia de e-mail marketing</li>
-        <li>Cria&ccedil;&atilde;o de fluxos de automa&ccedil;&atilde;o</li>
+        <li>Estratégia de e-mail marketing</li>
+        <li>Criação de fluxos de automação</li>
         <li>Design de templates</li>
-        <li>Cria&ccedil;&atilde;o de campanhas</li>
-        <li>Segmenta&ccedil;&atilde;o de listas</li>
-        <li>An&aacute;lise de resultados</li>
+        <li>Criação de campanhas</li>
+        <li>Segmentação de listas</li>
+        <li>Análise de resultados</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
       <h3 class="catalog-category">Assessoria de Imprensa e PR</h3>
       <ul class="catalog-items">
-        <li>Elabora&ccedil;&atilde;o de releases</li>
-        <li>Relacionamento com ve&iacute;culos de m&iacute;dia</li>
+        <li>Elaboração de releases</li>
+        <li>Relacionamento com veículos de mídia</li>
         <li>Posicionamento na imprensa</li>
-        <li>Gest&atilde;o de crise de imagem</li>
-        <li>Monitoramento de m&iacute;dia</li>
+        <li>Gestão de crise de imagem</li>
+        <li>Monitoramento de mídia</li>
         <li>Media training</li>
       </ul>
     </div>
@@ -494,43 +494,43 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
       <h3 class="catalog-category">Eventos</h3>
       <ul class="catalog-items">
         <li>Planejamento de eventos corporativos</li>
-        <li>Comunica&ccedil;&atilde;o e divulga&ccedil;&atilde;o de eventos</li>
-        <li>Materiais gr&aacute;ficos para eventos</li>
-        <li>Cober tura fotogr&aacute;fica e videogr&aacute;fica</li>
-        <li>P&oacute;s-evento e conte&uacute;do de repercuss&atilde;o</li>
-        <li>Lan&ccedil;amentos de produtos e marcas</li>
+        <li>Comunicação e divulgação de eventos</li>
+        <li>Materiais gráficos para eventos</li>
+        <li>Cober tura fotográfica e videográfica</li>
+        <li>Pós-evento e conteúdo de repercussão</li>
+        <li>Lançamentos de produtos e marcas</li>
       </ul>
     </div>
     <div class="catalog-card reveal">
       <h3 class="catalog-category">Outros</h3>
       <ul class="catalog-items">
-        <li>Naming (cria&ccedil;&atilde;o de nomes de marca)</li>
+        <li>Naming (criação de nomes de marca)</li>
         <li>Pesquisa de mercado e benchmarking</li>
-        <li>Planejamento estrat&eacute;gico de comunica&ccedil;&atilde;o</li>
-        <li>Tradu&ccedil;&atilde;o e adapta&ccedil;&atilde;o de conte&uacute;do</li>
-        <li>Podcast — produ&ccedil;&atilde;o e edi&ccedil;&atilde;o</li>
+        <li>Planejamento estratégico de comunicação</li>
+        <li>Tradução e adaptação de conteúdo</li>
+        <li>Podcast — produção e edição</li>
         <li>Projetos sob consulta</li>
       </ul>
     </div>
   </div>
   <div class="catalog-note reveal">
     <div class="catalog-note-dot"></div>
-    <p class="catalog-note-text">N&atilde;o encontrou o que precisava? <strong>Entre em contato.</strong> Atendemos projetos sob consulta e trabalhamos com parceiros especializados para entregar o que seu neg&oacute;cio precisa — mesmo quando n&atilde;o est&aacute; nessa lista.</p>
+    <p class="catalog-note-text">Não encontrou o que precisava? <strong>Entre em contato.</strong> Atendemos projetos sob consulta e trabalhamos com parceiros especializados para entregar o que seu negócio precisa — mesmo quando não está nessa lista.</p>
   </div>
 </section>
-<section class="cta-section" aria-label="CTA Outros Servi&ccedil;os">
+<section class="cta-section" aria-label="CTA Outros Serviços">
   <h2 class="cta-title reveal">Encontrou o que<br>precisava<span style="color:var(--desire)">.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Orçamento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -540,7 +540,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 <script>var cursor=document.getElementById('cursor'),ring=document.getElementById('cursorRing'),mx=0,my=0,rx=0,ry=0;
 document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;cursor.style.left=mx+'px';cursor.style.top=my+'px';});

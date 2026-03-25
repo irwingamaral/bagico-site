@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gest&atilde;o de Social Media em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Gest&atilde;o completa de redes sociais em Porto Alegre: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.">
-<meta name="keywords" content="gest&atilde;o de redes sociais Porto Alegre, social media Porto Alegre, Instagram Porto Alegre, conte&uacute;do para redes sociais, ag&ecirc;ncia de social media RS, BagiCo">
+<title>Gestão de Social Media em Porto Alegre — BagiCo</title>
+<meta name="description" content="Gestão completa de redes sociais em Porto Alegre: estratégia, produção de conteúdo e crescimento para Instagram, TikTok, LinkedIn e mais.">
+<meta name="keywords" content="gestão de redes sociais Porto Alegre, social media Porto Alegre, Instagram Porto Alegre, conteúdo para redes sociais, agência de social media RS, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -14,19 +14,19 @@
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/social-media">
-<meta property="og:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta property="og:title" content="Gestão de Social Media — BagiCo Porto Alegre">
+<meta property="og:description" content="Estratégia, conteúdo e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta name="twitter:title" content="Gestão de Social Media — BagiCo Porto Alegre">
+<meta name="twitter:description" content="Estratégia, conteúdo e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Gest&atilde;o de Redes Sociais","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Gest&atilde;o completa de social media: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Gestão de Redes Sociais","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Gestão completa de social media: estratégia, produção de conteúdo e crescimento para Instagram, TikTok, LinkedIn e mais.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quantos posts s&atilde;o publicados por m&ecirc;s?","acceptedAnswer":{"@type":"Answer","text":"Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo."}},{"@type":"Question","name":"Preciso aprovar os conte&uacute;dos antes de publicar?","acceptedAnswer":{"@type":"Answer","text":"Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina."}},{"@type":"Question","name":"Quais plataformas voc&ecirc;s gerenciam?","acceptedAnswer":{"@type":"Answer","text":"Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico."}},{"@type":"Question","name":"Em quanto tempo vejo crescimento?","acceptedAnswer":{"@type":"Answer","text":"Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada."}},{"@type":"Question","name":"Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?","acceptedAnswer":{"@type":"Answer","text":"Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quantos posts são publicados por mês?","acceptedAnswer":{"@type":"Answer","text":"Depende do pacote. Definimos juntos a cadência ideal para cada plataforma e objetivo."}},{"@type":"Question","name":"Preciso aprovar os conteúdos antes de publicar?","acceptedAnswer":{"@type":"Answer","text":"Sim, se preferir. Montamos um fluxo de aprovação adaptado à sua rotina."}},{"@type":"Question","name":"Quais plataformas vocês gerenciam?","acceptedAnswer":{"@type":"Answer","text":"Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu público."}},{"@type":"Question","name":"Em quanto tempo vejo crescimento?","acceptedAnswer":{"@type":"Answer","text":"Resultados consistentes aparecem a partir do segundo ou terceiro mês, quando a estratégia está calibrada."}},{"@type":"Question","name":"Vocês fazem fotografia e vídeo também?","acceptedAnswer":{"@type":"Answer","text":"Podemos incluir produção audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo."}}]}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -295,21 +295,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -330,19 +330,19 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -352,9 +352,9 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <section class="hero" aria-label="Social Media BagiCo">
   <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 55% 50% at 70% 40%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Social Media</div>
+    <div class="hero-badge"><span>●</span> Social Media</div>
     <h1 class="hero-title">Redes sociais que<br><em>vendem de verdade<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Gest&atilde;o estrat&eacute;gica com foco em crescimento real, autoridade de marca e gera&ccedil;&atilde;o de leads. Conte&uacute;do que para o scroll e transforma seguidores em clientes.</p>
+    <p class="hero-sub">Gestão estratégica com foco em crescimento real, autoridade de marca e geração de leads. Conteúdo que para o scroll e transforma seguidores em clientes.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero crescer nas redes</a>
@@ -364,34 +364,34 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="entregas" aria-label="Nossas entregas">
-<div class="reveal"><p class="section-label">Nossas entregas</p><h2 class="section-title">Social media com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
+<div class="reveal"><p class="section-label">Nossas entregas</p><h2 class="section-title">Social media com<br><em>intenção estratégica</em></h2></div>
   <div class="cards-grid">    <article class="card reveal">
       <div class="card-num">01</div>
       <div class="card-line"></div>
       <h3 class="card-title">Planejamento Editorial</h3>
-      <p class="card-desc">Calend&aacute;rio mensal alinhado com objetivos da marca. Nada publicado sem prop&oacute;sito.</p>
-      <div class="tags"><span class="tag">Calend&aacute;rio mensal</span><span class="tag">Pauta estrat&eacute;gica</span><span class="tag">Mix de formatos</span></div>
+      <p class="card-desc">Calendário mensal alinhado com objetivos da marca. Nada publicado sem propósito.</p>
+      <div class="tags"><span class="tag">Calendário mensal</span><span class="tag">Pauta estratégica</span><span class="tag">Mix de formatos</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">02</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Produ&ccedil;&atilde;o de Conte&uacute;do</h3>
-      <p class="card-desc">Posts, carros&eacute;is, stories e reels com design premium e copywriting que converte.</p>
+      <h3 class="card-title">Produção de Conteúdo</h3>
+      <p class="card-desc">Posts, carroséis, stories e reels com design premium e copywriting que converte.</p>
       <div class="tags"><span class="tag">Design de posts</span><span class="tag">Copywriting</span><span class="tag">Roteiros para Reels</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">03</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Gest&atilde;o e Publica&ccedil;&atilde;o</h3>
-      <p class="card-desc">Agendamento, publica&ccedil;&atilde;o e monitoramento. Voc&ecirc; foca no neg&oacute;cio, a gente cuida das redes.</p>
-      <div class="tags"><span class="tag">Publica&ccedil;&atilde;o no hor&aacute;rio ideal</span><span class="tag">Monitoramento</span><span class="tag">Gest&atilde;o de comentarios</span></div>
+      <h3 class="card-title">Gestão e Publicação</h3>
+      <p class="card-desc">Agendamento, publicação e monitoramento. Você foca no negócio, a gente cuida das redes.</p>
+      <div class="tags"><span class="tag">Publicação no horário ideal</span><span class="tag">Monitoramento</span><span class="tag">Gestão de comentarios</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">04</div>
       <div class="card-line"></div>
-      <h3 class="card-title">An&aacute;lise e Relat&oacute;rios</h3>
-      <p class="card-desc">M&eacute;tricas que importam: alcance, engajamento, crescimento e leads. Decis&otilde;es por dados.</p>
-      <div class="tags"><span class="tag">Relat&oacute;rio mensal</span><span class="tag">M&eacute;tricas de resultado</span><span class="tag">Ajustes estrat&eacute;gicos</span></div>
+      <h3 class="card-title">Análise e Relatórios</h3>
+      <p class="card-desc">Métricas que importam: alcance, engajamento, crescimento e leads. Decisões por dados.</p>
+      <div class="tags"><span class="tag">Relatório mensal</span><span class="tag">Métricas de resultado</span><span class="tag">Ajustes estratégicos</span></div>
     </article>
 </div>
 </section>
@@ -400,33 +400,33 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
   <div class="diff-grid">    <div class="diff-item reveal">
       <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Estrat&eacute;gia primeiro</h3>
-      <p class="diff-desc">N&atilde;o publicamos por publicar. Cada post tem objetivo claro na jornada do cliente.</p>
+      <h3 class="diff-title">Estratégia primeiro</h3>
+      <p class="diff-desc">Não publicamos por publicar. Cada post tem objetivo claro na jornada do cliente.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Design premium</h3>
-      <p class="diff-desc">Artes que se destacam no feed. Identidade visual consistente e reconhec&iacute;vel.</p>
+      <p class="diff-desc">Artes que se destacam no feed. Identidade visual consistente e reconhecível.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Copywriting que converte</h3>
-      <p class="diff-desc">Textos que param o scroll, geram identifica&ccedil;&atilde;o e levam o seguidor ao pr&oacute;ximo passo.</p>
+      <p class="diff-desc">Textos que param o scroll, geram identificação e levam o seguidor ao próximo passo.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Todas as plataformas</h3>
-      <p class="diff-desc">Instagram, TikTok, LinkedIn, Facebook. Onde seu p&uacute;blico estiver, a BagiCo est&aacute;.</p>
+      <p class="diff-desc">Instagram, TikTok, LinkedIn, Facebook. Onde seu público estiver, a BagiCo está.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Crescimento org&acirc;nico real</h3>
-      <p class="diff-desc">Foco em seguidores qualificados, n&atilde;o n&uacute;meros vazios. Audi&ecirc;ncia que compra e indica.</p>
+      <h3 class="diff-title">Crescimento orgânico real</h3>
+      <p class="diff-desc">Foco em seguidores qualificados, não números vazios. Audiência que compra e indica.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Integra&ccedil;&atilde;o com tr&aacute;fego pago</h3>
-      <p class="diff-desc">Social media e an&uacute;ncios trabalhando juntos. Conte&uacute;do org&acirc;nico potencializa os ads.</p>
+      <h3 class="diff-title">Integração com tráfego pago</h3>
+      <p class="diff-desc">Social media e anúncios trabalhando juntos. Conteúdo orgânico potencializa os ads.</p>
     </div>
 </div>
 </section>
@@ -435,60 +435,60 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
   <div class="steps">    <div class="step reveal">
       <span class="step-num">01</span>
-      <div><h3 class="step-title">Diagn&oacute;stico das redes</h3><p class="step-desc">Auditamos seus perfis, analisamos o que funciona e identificamos oportunidades. Ponto de partida com dados reais.</p></div>
+      <div><h3 class="step-title">Diagnóstico das redes</h3><p class="step-desc">Auditamos seus perfis, analisamos o que funciona e identificamos oportunidades. Ponto de partida com dados reais.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">02</span>
-      <div><h3 class="step-title">Estrat&eacute;gia e posicionamento</h3><p class="step-desc">Tom de voz, pilares de conte&uacute;do, formatos priorit&aacute;rios e objetivos mensais.</p></div>
+      <div><h3 class="step-title">Estratégia e posicionamento</h3><p class="step-desc">Tom de voz, pilares de conteúdo, formatos prioritários e objetivos mensais.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">03</span>
-      <div><h3 class="step-title">Produ&ccedil;&atilde;o e publica&ccedil;&atilde;o</h3><p class="step-desc">Criamos e publicamos dentro do calend&aacute;rio aprovado. Voc&ecirc; revisa se quiser.</p></div>
+      <div><h3 class="step-title">Produção e publicação</h3><p class="step-desc">Criamos e publicamos dentro do calendário aprovado. Você revisa se quiser.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">04</span>
-      <div><h3 class="step-title">An&aacute;lise e otimiza&ccedil;&atilde;o</h3><p class="step-desc">Monitoramos e ajustamos mensalmente. O que funciona escala, o que n&atilde;o funciona muda.</p></div>
+      <div><h3 class="step-title">Análise e otimização</h3><p class="step-desc">Monitoramos e ajustamos mensalmente. O que funciona escala, o que não funciona muda.</p></div>
     </div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="D&uacute;vidas frequentes">
-<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+<section class="section-block dark" aria-label="Dúvidas frequentes">
+<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
   <div class="faq-list reveal">    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quantos posts s&atilde;o publicados por m&ecirc;s?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo.</p>
+      <div class="faq-question"><span class="faq-q-text">Quantos posts são publicados por mês?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Depende do pacote. Definimos juntos a cadência ideal para cada plataforma e objetivo.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Preciso aprovar os conte&uacute;dos antes de publicar?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina.</p>
+      <div class="faq-question"><span class="faq-q-text">Preciso aprovar os conteúdos antes de publicar?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Sim, se preferir. Montamos um fluxo de aprovação adaptado à sua rotina.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quais plataformas voc&ecirc;s gerenciam?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico.</p>
+      <div class="faq-question"><span class="faq-q-text">Quais plataformas vocês gerenciam?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu público.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo crescimento?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada.</p>
+      <p class="faq-answer">Resultados consistentes aparecem a partir do segundo ou terceiro mês, quando a estratégia está calibrada.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo.</p>
+      <div class="faq-question"><span class="faq-q-text">Vocês fazem fotografia e vídeo também?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Podemos incluir produção audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo.</p>
     </div>
 </div>
 </section>
 <section class="cta-section" aria-label="CTA Social Media">
-  <h2 class="cta-title reveal">Suas redes trabalhando<br><em>por voc&ecirc;</em><span style='color:var(--desire)'>.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+  <h2 class="cta-title reveal">Suas redes trabalhando<br><em>por você</em><span style='color:var(--desire)'>.</span></h2>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Orçamento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -498,7 +498,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 <script>var cursor=document.getElementById('cursor'),ring=document.getElementById('cursorRing'),mx=0,my=0,rx=0,ry=0;
 document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;cursor.style.left=mx+'px';cursor.style.top=my+'px';});

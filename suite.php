@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BagiCo. Suite &#8212; Em Breve</title>
-<meta name="description" content="BagiCo Suite &#8212; O sistema de gest&atilde;o de marketing mais inovador est&aacute; chegando. Entre na lista de espera e garanta acesso priorit&aacute;rio.">
+<title>BagiCo. Suite — Em Breve</title>
+<meta name="description" content="BagiCo Suite — O sistema de gestão de marketing mais inovador está chegando. Entre na lista de espera e garanta acesso prioritário.">
 <meta name="robots" content="noindex, nofollow">
 <meta name="author" content="BagiCo">
 <meta name="language" content="pt-BR">
@@ -12,15 +12,15 @@
 <!-- OPEN GRAPH -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://bagico.com.br/suite.html">
-<meta property="og:title" content="BagiCo. Suite &#8212; O futuro da gest&atilde;o de marketing">
-<meta property="og:description" content="Uma plataforma completa, inovadora e visceral para marcas que recusam o comum. Entre na lista de espera e garanta acesso priorit&aacute;rio.">
+<meta property="og:title" content="BagiCo. Suite — O futuro da gestão de marketing">
+<meta property="og:description" content="Uma plataforma completa, inovadora e visceral para marcas que recusam o comum. Entre na lista de espera e garanta acesso prioritário.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 
 <!-- TWITTER CARD -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="BagiCo. Suite &#8212; Em Breve">
-<meta name="twitter:description" content="O sistema de gest&atilde;o de marketing mais inovador est&aacute; chegando. Garanta seu acesso priorit&aacute;rio.">
+<meta name="twitter:title" content="BagiCo. Suite — Em Breve">
+<meta name="twitter:description" content="O sistema de gestão de marketing mais inovador está chegando. Garanta seu acesso prioritário.">
 
 <!-- GEO -->
 <meta name="geo.region" content="BR-RS">
@@ -330,21 +330,21 @@
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -365,19 +365,19 @@
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -399,15 +399,15 @@
 
   <h1 class="suite-title">
     O futuro da<br>
-    <em>gest&atilde;o de<br>marketing</em><span class="dot">.</span>
+    <em>gestão de<br>marketing</em><span class="dot">.</span>
   </h1>
 
   <p class="suite-subtitle">
-    Onde estrat&eacute;gia, criatividade e dados se encontram.
+    Onde estratégia, criatividade e dados se encontram.
   </p>
 
   <p class="suite-desc">
-    O <strong>BagiCo. Suite</strong> &eacute; um sistema de gest&atilde;o de marketing desenhado para marcas que recusam o comum. <strong>Uma plataforma completa, inovadora e visceral</strong> &mdash; criada para quem leva a s&eacute;rio o crescimento da sua marca. Em breve.
+    O <strong>BagiCo. Suite</strong> é um sistema de gestão de marketing desenhado para marcas que recusam o comum. <strong>Uma plataforma completa, inovadora e visceral</strong> — criada para quem leva a sério o crescimento da sua marca. Em breve.
   </p>
 
   <button class="waitlist-btn" id="openModal" aria-label="Entrar na lista de espera">
@@ -419,12 +419,12 @@
 <!-- MODAL -->
 <div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
   <div class="modal">
-    <button class="modal-close" id="closeModal" aria-label="Fechar">&times;</button>
+    <button class="modal-close" id="closeModal" aria-label="Fechar">×</button>
 
     <div id="formContainer">
       <p class="modal-label">Lista de espera</p>
       <h2 class="modal-title" id="modalTitle">Reserve seu lugar<br>no futuro<span style="color:var(--desire)">.</span></h2>
-      <p class="modal-sub">Seja um dos primeiros a acessar o BagiCo. Suite quando lan&ccedil;armos. Voc&ecirc; receber&aacute; acesso priorit&aacute;rio e condi&ccedil;&otilde;es exclusivas.</p>
+      <p class="modal-sub">Seja um dos primeiros a acessar o BagiCo. Suite quando lançarmos. Você receberá acesso prioritário e condições exclusivas.</p>
 
       <form id="waitlistForm" novalidate>
         <div class="form-grid">
@@ -450,7 +450,7 @@
           </div>
         </div>
 
-        <p class="form-error" id="formError">Por favor, preencha todos os campos obrigat&oacute;rios.</p>
+        <p class="form-error" id="formError">Por favor, preencha todos os campos obrigatórios.</p>
 
         <div class="form-actions">
           <button type="button" class="btn-clear" id="clearForm">Limpar</button>
@@ -460,19 +460,19 @@
     </div>
 
     <div class="form-feedback" id="formSuccess">
-      <div class="feedback-icon">&#10003;</div>
-      <h3 class="feedback-title">Voc&ecirc; est&aacute; na lista<span style="color:var(--desire)">.</span></h3>
-      <p class="feedback-sub">Recebemos seu cadastro. Voc&ecirc; ser&aacute; um dos primeiros a saber quando o BagiCo. Suite estiver dispon&iacute;vel.<br><br>Fique de olho no seu e-mail.</p>
+      <div class="feedback-icon">✓</div>
+      <h3 class="feedback-title">Você está na lista<span style="color:var(--desire)">.</span></h3>
+      <p class="feedback-sub">Recebemos seu cadastro. Você será um dos primeiros a saber quando o BagiCo. Suite estiver disponível.<br><br>Fique de olho no seu e-mail.</p>
     </div>
   </div>
 </div>
 
 <!-- FOOTER -->
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -482,7 +482,7 @@
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 
 <script>
@@ -586,7 +586,7 @@
       from_name: nome,
       empresa  : empresa,
       cargo    : cargo,
-      telefone : telefone || 'N&atilde;o informado',
+      telefone : telefone || 'Não informado',
       email    : email,
       reply_to : email
     };

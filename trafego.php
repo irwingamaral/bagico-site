@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- SEO PRIMARIO -->
-<title>Tr&aacute;fego Pago em Porto Alegre &#8212; Google Ads, Meta Ads e mais | BagiCo</title>
-<meta name="description" content="Gest&atilde;o de tr&aacute;fego pago em Porto Alegre: Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais. A BagiCo gera mais clientes com menos desperd&iacute;cio de verba. Or&ccedil;amento sob medida.">
-<meta name="keywords" content="tr&aacute;fego pago Porto Alegre, Google Ads Porto Alegre, Meta Ads Porto Alegre, gest&atilde;o de anúncios RS, LinkedIn Ads, TikTok Ads, agência de tráfego Porto Alegre, BagiCo tráfego pago">
+<title>Tráfego Pago em Porto Alegre — Google Ads, Meta Ads e mais | BagiCo</title>
+<meta name="description" content="Gestão de tráfego pago em Porto Alegre: Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais. A BagiCo gera mais clientes com menos desperdício de verba. Orçamento sob medida.">
+<meta name="keywords" content="tráfego pago Porto Alegre, Google Ads Porto Alegre, Meta Ads Porto Alegre, gestão de anúncios RS, LinkedIn Ads, TikTok Ads, agência de tráfego Porto Alegre, BagiCo tráfego pago">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -20,15 +20,15 @@
 <!-- OPEN GRAPH -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/trafego">
-<meta property="og:title" content="Tr&aacute;fego Pago em Porto Alegre &#8212; BagiCo">
-<meta property="og:description" content="Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais. Mais clientes. Menos desperd&iacute;cio. Or&ccedil;amento personalizado para todo o Brasil.">
+<meta property="og:title" content="Tráfego Pago em Porto Alegre — BagiCo">
+<meta property="og:description" content="Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais. Mais clientes. Menos desperdício. Orçamento personalizado para todo o Brasil.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 
 <!-- TWITTER CARD -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Tr&aacute;fego Pago &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Gest&atilde;o estrat&eacute;gica de an&uacute;ncios pagos. Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais.">
+<meta name="twitter:title" content="Tráfego Pago — BagiCo Porto Alegre">
+<meta name="twitter:description" content="Gestão estratégica de anúncios pagos. Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais.">
 
 <!-- FAVICON -->
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
@@ -38,7 +38,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Gest&atilde;o de Tr&aacute;fego Pago",
+  "name": "Gestão de Tráfego Pago",
   "provider": {
     "@type": "MarketingAgency",
     "name": "BagiCo",
@@ -51,14 +51,14 @@
       "addressCountry": "BR"
     }
   },
-  "description": "Gest&atilde;o estrat&eacute;gica de an&uacute;ncios pagos: Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais. Atendemos Porto Alegre e todo o Brasil.",
+  "description": "Gestão estratégica de anúncios pagos: Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads e mais. Atendemos Porto Alegre e todo o Brasil.",
   "areaServed": [
     { "@type": "City", "name": "Porto Alegre" },
     { "@type": "Country", "name": "Brasil" }
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Plataformas de An&uacute;ncios",
+    "name": "Plataformas de Anúncios",
     "itemListElement": [
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Google Ads" } },
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Meta Ads (Facebook e Instagram)" } },
@@ -77,18 +77,18 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "O que &eacute; gest&atilde;o de tr&aacute;fego pago?",
+      "name": "O que é gestão de tráfego pago?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Gest&atilde;o de tr&aacute;fego pago &eacute; o processo de criar, otimizar e monitorar an&uacute;ncios pagos em plataformas como Google Ads, Meta Ads, LinkedIn Ads e TikTok Ads para gerar visitas qualificadas, leads e vendas para o seu neg&oacute;cio."
+        "text": "Gestão de tráfego pago é o processo de criar, otimizar e monitorar anúncios pagos em plataformas como Google Ads, Meta Ads, LinkedIn Ads e TikTok Ads para gerar visitas qualificadas, leads e vendas para o seu negócio."
       }
     },
     {
       "@type": "Question",
-      "name": "Quanto preciso investir em tr&aacute;fego pago?",
+      "name": "Quanto preciso investir em tráfego pago?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "O investimento ideal varia conforme seu segmento, objetivos e mercado. A BagiCo trabalha com or&ccedil;amentos sob medida e define junto com o cliente a verba m&iacute;nima necess&aacute;ria para gerar resultados consistentes."
+        "text": "O investimento ideal varia conforme seu segmento, objetivos e mercado. A BagiCo trabalha com orçamentos sob medida e define junto com o cliente a verba mínima necessária para gerar resultados consistentes."
       }
     },
     {
@@ -96,15 +96,15 @@
       "name": "A BagiCo gerencia Google Ads e Meta Ads?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sim. A BagiCo gerencia Google Ads, Meta Ads (Facebook e Instagram), LinkedIn Ads, TikTok Ads e outras plataformas de an&uacute;ncios pagos, sempre com estrat&eacute;gia personalizada para cada neg&oacute;cio."
+        "text": "Sim. A BagiCo gerencia Google Ads, Meta Ads (Facebook e Instagram), LinkedIn Ads, TikTok Ads e outras plataformas de anúncios pagos, sempre com estratégia personalizada para cada negócio."
       }
     },
     {
       "@type": "Question",
-      "name": "Em quanto tempo vejo resultados com tr&aacute;fego pago?",
+      "name": "Em quanto tempo vejo resultados com tráfego pago?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Os primeiros resultados podem aparecer nos primeiros dias. A fase de aprendizado e otimiza&ccedil;&atilde;o geralmente leva de 30 a 60 dias para estabilizar e entregar performance consistente."
+        "text": "Os primeiros resultados podem aparecer nos primeiros dias. A fase de aprendizado e otimização geralmente leva de 30 a 60 dias para estabilizar e entregar performance consistente."
       }
     }
   ]
@@ -420,21 +420,21 @@
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -455,19 +455,19 @@
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -476,15 +476,15 @@
 </nav>
 
 <!-- HERO -->
-<section class="hero" aria-label="Tr&aacute;fego pago BagiCo Porto Alegre">
+<section class="hero" aria-label="Tráfego pago BagiCo Porto Alegre">
   <div class="hero-bg"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Tr&aacute;fego Pago</div>
+    <div class="hero-badge"><span>●</span> Tráfego Pago</div>
     <h1 class="hero-title">
       Mais clientes<span class="dot">.</span><br>
-      <em>Menos desperd&iacute;cio.</em>
+      <em>Menos desperdício.</em>
     </h1>
-    <p class="hero-sub">Gest&atilde;o estrat&eacute;gica de an&uacute;ncios pagos no Google, Meta, LinkedIn, TikTok e mais. Cada real investido trabalhando para trazer o cliente certo, na hora certa.</p>
+    <p class="hero-sub">Gestão estratégica de anúncios pagos no Google, Meta, LinkedIn, TikTok e mais. Cada real investido trabalhando para trazer o cliente certo, na hora certa.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero mais clientes</a>
@@ -494,24 +494,24 @@
 </section>
 
 <!-- PLATAFORMAS -->
-<div class="plataformas" id="plataformas" aria-label="Plataformas de an&uacute;ncios gerenciadas pela BagiCo">
+<div class="plataformas" id="plataformas" aria-label="Plataformas de anúncios gerenciadas pela BagiCo">
   <p class="plataformas-label">Plataformas que gerenciamos</p>
   <div class="plataformas-grid">
     <div class="plataforma-item reveal">
       <div class="plataforma-nome">Google Ads</div>
-      <div class="plataforma-tipo">Search &middot; Display &middot; YouTube</div>
+      <div class="plataforma-tipo">Search · Display · YouTube</div>
     </div>
     <div class="plataforma-item reveal">
       <div class="plataforma-nome">Meta Ads</div>
-      <div class="plataforma-tipo">Facebook &middot; Instagram</div>
+      <div class="plataforma-tipo">Facebook · Instagram</div>
     </div>
     <div class="plataforma-item reveal">
       <div class="plataforma-nome">LinkedIn Ads</div>
-      <div class="plataforma-tipo">B2B &middot; Lideran&ccedil;a</div>
+      <div class="plataforma-tipo">B2B · Liderança</div>
     </div>
     <div class="plataforma-item reveal">
       <div class="plataforma-nome">TikTok Ads</div>
-      <div class="plataforma-tipo">Awareness &middot; Convers&atilde;o</div>
+      <div class="plataforma-tipo">Awareness · Conversão</div>
     </div>
     <div class="plataforma-item reveal">
       <div class="plataforma-nome">+ Outras</div>
@@ -523,54 +523,54 @@
 <div class="divider"><div class="divider-dot"></div></div>
 
 <!-- COMO FUNCIONA + RESULTADOS -->
-<section class="como" aria-label="Como funciona a gest&atilde;o de tr&aacute;fego pago na BagiCo">
+<section class="como" aria-label="Como funciona a gestão de tráfego pago na BagiCo">
   <div class="reveal">
     <p class="section-label">Nossa abordagem</p>
-    <h2 class="section-title">Estrat&eacute;gia antes<br><em>de qualquer an&uacute;ncio</em></h2>
+    <h2 class="section-title">Estratégia antes<br><em>de qualquer anúncio</em></h2>
   </div>
   <div class="como-grid">
     <div class="como-list">
       <div class="como-item reveal">
         <span class="como-num">01</span>
         <div>
-          <h3 class="como-title">Diagn&oacute;stico estrat&eacute;gico</h3>
-          <p class="como-desc">Entendemos seu neg&oacute;cio, p&uacute;blico e concorr&ecirc;ncia antes de criar qualquer campanha. Sem diagn&oacute;stico, n&atilde;o h&aacute; estrat&eacute;gia.</p>
+          <h3 class="como-title">Diagnóstico estratégico</h3>
+          <p class="como-desc">Entendemos seu negócio, público e concorrência antes de criar qualquer campanha. Sem diagnóstico, não há estratégia.</p>
         </div>
       </div>
       <div class="como-item reveal">
         <span class="como-num">02</span>
         <div>
-          <h3 class="como-title">Estrutura&ccedil;&atilde;o das campanhas</h3>
-          <p class="como-desc">Criamos campanhas segmentadas por objetivo, p&uacute;blico e etapa do funil. Cada an&uacute;ncio fala com a pessoa certa no momento certo.</p>
+          <h3 class="como-title">Estruturação das campanhas</h3>
+          <p class="como-desc">Criamos campanhas segmentadas por objetivo, público e etapa do funil. Cada anúncio fala com a pessoa certa no momento certo.</p>
         </div>
       </div>
       <div class="como-item reveal">
         <span class="como-num">03</span>
         <div>
-          <h3 class="como-title">Otimiza&ccedil;&atilde;o cont&iacute;nua</h3>
+          <h3 class="como-title">Otimização contínua</h3>
           <p class="como-desc">Monitoramos e ajustamos as campanhas constantemente para reduzir custo por resultado e maximizar o retorno sobre o investimento.</p>
         </div>
       </div>
       <div class="como-item reveal">
         <span class="como-num">04</span>
         <div>
-          <h3 class="como-title">Relat&oacute;rios transparentes</h3>
-          <p class="como-desc">Voc&ecirc; acompanha tudo: investimento, resultados, custo por lead e ROI. Sem caixa preta, sem letra miu&uacute;da.</p>
+          <h3 class="como-title">Relatórios transparentes</h3>
+          <p class="como-desc">Você acompanha tudo: investimento, resultados, custo por lead e ROI. Sem caixa preta, sem letra miuúda.</p>
         </div>
       </div>
     </div>
     <div class="como-right reveal">
       <div class="resultado-card">
         <div class="resultado-num">30<span>%</span></div>
-        <p class="resultado-desc">Redu&ccedil;&atilde;o m&eacute;dia no custo por lead nos primeiros 60 dias de otimiza&ccedil;&atilde;o com nossa metodologia.</p>
+        <p class="resultado-desc">Redução média no custo por lead nos primeiros 60 dias de otimização com nossa metodologia.</p>
       </div>
       <div class="resultado-card">
         <div class="resultado-num">3<span>x</span></div>
-        <p class="resultado-desc">Aumento m&eacute;dio no volume de leads qualificados com segmenta&ccedil;&atilde;o estrat&eacute;gica e criativos otimizados.</p>
+        <p class="resultado-desc">Aumento médio no volume de leads qualificados com segmentação estratégica e criativos otimizados.</p>
       </div>
       <div class="resultado-card">
         <div class="resultado-num">60<span>d</span></div>
-        <p class="resultado-desc">Prazo m&eacute;dio para estabilizar a performance das campanhas e come&ccedil;ar a escalar com previsibilidade.</p>
+        <p class="resultado-desc">Prazo médio para estabilizar a performance das campanhas e começar a escalar com previsibilidade.</p>
       </div>
     </div>
   </div>
@@ -579,41 +579,41 @@
 <div class="divider"><div class="divider-dot"></div></div>
 
 <!-- SERVIÇOS INCLUSOS -->
-<section class="servicos" aria-label="Servi&ccedil;os inclu&iacute;dos na gest&atilde;o de tr&aacute;fego pago">
+<section class="servicos" aria-label="Serviços incluídos na gestão de tráfego pago">
   <div class="reveal">
-    <p class="section-label">O que est&aacute; inclu&iacute;do</p>
-    <h2 class="section-title">Gest&atilde;o completa<br><em>de ponta a ponta</em></h2>
+    <p class="section-label">O que está incluído</p>
+    <h2 class="section-title">Gestão completa<br><em>de ponta a ponta</em></h2>
   </div>
   <div class="servicos-grid">
     <div class="servico-card reveal">
       <div class="servico-icon-line"></div>
-      <h3 class="servico-title">Cria&ccedil;&atilde;o de campanhas</h3>
-      <p class="servico-desc">Estrutura&ccedil;&atilde;o completa das campanhas, grupos de an&uacute;ncios, segmenta&ccedil;&atilde;o de p&uacute;blico e defini&ccedil;&atilde;o de objetivos alinhados ao seu neg&oacute;cio.</p>
+      <h3 class="servico-title">Criação de campanhas</h3>
+      <p class="servico-desc">Estruturação completa das campanhas, grupos de anúncios, segmentação de público e definição de objetivos alinhados ao seu negócio.</p>
     </div>
     <div class="servico-card reveal">
       <div class="servico-icon-line"></div>
-      <h3 class="servico-title">Cria&ccedil;&atilde;o de criativos</h3>
-      <p class="servico-desc">Desenvolvimento de textos, imagens e v&iacute;deos para os an&uacute;ncios. Pe&ccedil;as que param o scroll e geram a&ccedil;&atilde;o.</p>
+      <h3 class="servico-title">Criação de criativos</h3>
+      <p class="servico-desc">Desenvolvimento de textos, imagens e vídeos para os anúncios. Peças que param o scroll e geram ação.</p>
     </div>
     <div class="servico-card reveal">
       <div class="servico-icon-line"></div>
-      <h3 class="servico-title">Configura&ccedil;&atilde;o de pixel e tags</h3>
-      <p class="servico-desc">Instala&ccedil;&atilde;o e configura&ccedil;&atilde;o de todos os rastreadores para medir corretamente cada convers&atilde;o e otimizar as campanhas.</p>
+      <h3 class="servico-title">Configuração de pixel e tags</h3>
+      <p class="servico-desc">Instalação e configuração de todos os rastreadores para medir corretamente cada conversão e otimizar as campanhas.</p>
     </div>
     <div class="servico-card reveal">
       <div class="servico-icon-line"></div>
       <h3 class="servico-title">Testes A/B</h3>
-      <p class="servico-desc">Testamos diferentes criativos, p&uacute;blicos e ofertas para identificar o que converte mais e escalar o que funciona.</p>
+      <p class="servico-desc">Testamos diferentes criativos, públicos e ofertas para identificar o que converte mais e escalar o que funciona.</p>
     </div>
     <div class="servico-card reveal">
       <div class="servico-icon-line"></div>
-      <h3 class="servico-title">Otimiza&ccedil;&atilde;o de landing pages</h3>
-      <p class="servico-desc">An&aacute;lise e recomenda&ccedil;&otilde;es para as p&aacute;ginas de destino. De nada adianta um &oacute;timo an&uacute;ncio sem uma p&aacute;gina que converte.</p>
+      <h3 class="servico-title">Otimização de landing pages</h3>
+      <p class="servico-desc">Análise e recomendações para as páginas de destino. De nada adianta um ótimo anúncio sem uma página que converte.</p>
     </div>
     <div class="servico-card reveal">
       <div class="servico-icon-line"></div>
-      <h3 class="servico-title">Relat&oacute;rios mensais</h3>
-      <p class="servico-desc">Dashboard personalizado e relat&oacute;rio mensal com todos os indicadores que importam para o seu neg&oacute;cio.</p>
+      <h3 class="servico-title">Relatórios mensais</h3>
+      <p class="servico-desc">Dashboard personalizado e relatório mensal com todos os indicadores que importam para o seu negócio.</p>
     </div>
   </div>
 </section>
@@ -621,65 +621,65 @@
 <div class="divider"><div class="divider-dot"></div></div>
 
 <!-- FAQ -->
-<section class="faq" aria-label="Perguntas frequentes sobre tr&aacute;fego pago">
+<section class="faq" aria-label="Perguntas frequentes sobre tráfego pago">
   <div class="reveal">
-    <p class="section-label">D&uacute;vidas frequentes</p>
+    <p class="section-label">Dúvidas frequentes</p>
     <h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2>
   </div>
   <div class="faq-list reveal">
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">Quanto preciso investir em an&uacute;ncios pagos?</span>
+        <span class="faq-q-text">Quanto preciso investir em anúncios pagos?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">O investimento ideal varia conforme seu segmento e objetivos. A BagiCo define junto com voc&ecirc; a verba m&iacute;nima necess&aacute;ria para gerar resultados consistentes. Trabalhamos com or&ccedil;amentos sob medida.</p>
+      <p class="faq-answer">O investimento ideal varia conforme seu segmento e objetivos. A BagiCo define junto com você a verba mínima necessária para gerar resultados consistentes. Trabalhamos com orçamentos sob medida.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
         <span class="faq-q-text">Em quanto tempo vejo resultados?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Os primeiros resultados aparecem nos primeiros dias. A fase de aprendizado e otimiza&ccedil;&atilde;o leva de 30 a 60 dias para estabilizar e entregar performance consistente e escal&aacute;vel.</p>
+      <p class="faq-answer">Os primeiros resultados aparecem nos primeiros dias. A fase de aprendizado e otimização leva de 30 a 60 dias para estabilizar e entregar performance consistente e escalável.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">Qual a diferen&ccedil;a entre Google Ads e Meta Ads?</span>
+        <span class="faq-q-text">Qual a diferença entre Google Ads e Meta Ads?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Google Ads captura pessoas que j&aacute; est&atilde;o procurando pelo que voc&ecirc; oferece. Meta Ads (Facebook e Instagram) impacta pessoas que ainda n&atilde;o te conhecem mas fazem parte do seu p&uacute;blico-alvo. O ideal &eacute; usar as duas em conjunto.</p>
+      <p class="faq-answer">Google Ads captura pessoas que já estão procurando pelo que você oferece. Meta Ads (Facebook e Instagram) impacta pessoas que ainda não te conhecem mas fazem parte do seu público-alvo. O ideal é usar as duas em conjunto.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">Voc&ecirc;s criam os criativos dos an&uacute;ncios?</span>
+        <span class="faq-q-text">Vocês criam os criativos dos anúncios?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Sim. A BagiCo cria os textos, imagens e v&iacute;deos dos an&uacute;ncios. Nosso diferencial &eacute; que cr&iacute;ativos e estrat&eacute;gia s&atilde;o criados pela mesma equipe, garantindo consist&ecirc;ncia de mensagem.</p>
+      <p class="faq-answer">Sim. A BagiCo cria os textos, imagens e vídeos dos anúncios. Nosso diferencial é que críativos e estratégia são criados pela mesma equipe, garantindo consistência de mensagem.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">Preciso ter um site para fazer tr&aacute;fego pago?</span>
+        <span class="faq-q-text">Preciso ter um site para fazer tráfego pago?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Sim, na maioria dos casos. Uma landing page de alta convers&atilde;o &eacute; fundamental para bons resultados. Se precisar, a BagiCo tamb&eacute;m desenvolve sites e landing pages otimizadas para anúncios.</p>
+      <p class="faq-answer">Sim, na maioria dos casos. Uma landing page de alta conversão é fundamental para bons resultados. Se precisar, a BagiCo também desenvolve sites e landing pages otimizadas para anúncios.</p>
     </div>
   </div>
 </section>
 
 <!-- CTA -->
-<section class="cta" id="orcamento" aria-label="Solicitar or&ccedil;amento de tr&aacute;fego pago">
+<section class="cta" id="orcamento" aria-label="Solicitar orçamento de tráfego pago">
   <h2 class="cta-title reveal">Pronto para<br><em>crescer</em> com<br>anúncios<span style="color:var(--desire)">.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Orçamento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
 
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -689,7 +689,7 @@
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 
 <script>

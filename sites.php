@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- SEO PRIMARIO -->
-<title>Cria&ccedil;&atilde;o de Sites em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="A BagiCo cria sites institucionais, landing pages e e-commerce premium em Porto Alegre e para todo o Brasil. Design sob medida, alto desempenho e foco em convers&atilde;o. Or&ccedil;amento personalizado.">
-<meta name="keywords" content="cria&ccedil;&atilde;o de sites Porto Alegre, desenvolvimento de sites RS, site institucional Porto Alegre, landing page Porto Alegre, e-commerce Porto Alegre, agência de sites Porto Alegre, BagiCo sites">
+<title>Criação de Sites em Porto Alegre — BagiCo</title>
+<meta name="description" content="A BagiCo cria sites institucionais, landing pages e e-commerce premium em Porto Alegre e para todo o Brasil. Design sob medida, alto desempenho e foco em conversão. Orçamento personalizado.">
+<meta name="keywords" content="criação de sites Porto Alegre, desenvolvimento de sites RS, site institucional Porto Alegre, landing page Porto Alegre, e-commerce Porto Alegre, agência de sites Porto Alegre, BagiCo sites">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -20,15 +20,15 @@
 <!-- OPEN GRAPH -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/sites">
-<meta property="og:title" content="Cria&ccedil;&atilde;o de Sites Premium &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Sites institucionais, landing pages e e-commerce com design sob medida e foco em convers&atilde;o. Or&ccedil;amento personalizado para todo o Brasil.">
+<meta property="og:title" content="Criação de Sites Premium — BagiCo Porto Alegre">
+<meta property="og:description" content="Sites institucionais, landing pages e e-commerce com design sob medida e foco em conversão. Orçamento personalizado para todo o Brasil.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 
 <!-- TWITTER CARD -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cria&ccedil;&atilde;o de Sites Premium &#8212; BagiCo">
-<meta name="twitter:description" content="Sites que vendem. Design sob medida, alto desempenho e foco em convers&atilde;o. Porto Alegre e todo o Brasil.">
+<meta name="twitter:title" content="Criação de Sites Premium — BagiCo">
+<meta name="twitter:description" content="Sites que vendem. Design sob medida, alto desempenho e foco em conversão. Porto Alegre e todo o Brasil.">
 
 <!-- FAVICON -->
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
@@ -38,7 +38,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Cria&ccedil;&atilde;o de Sites",
+  "name": "Criação de Sites",
   "provider": {
     "@type": "MarketingAgency",
     "name": "BagiCo",
@@ -51,7 +51,7 @@
       "addressCountry": "BR"
     }
   },
-  "description": "Desenvolvimento de sites institucionais, landing pages e e-commerce com design premium e foco em convers&atilde;o. Atendemos Porto Alegre e todo o Brasil.",
+  "description": "Desenvolvimento de sites institucionais, landing pages e e-commerce com design premium e foco em conversão. Atendemos Porto Alegre e todo o Brasil.",
   "areaServed": [
     { "@type": "City", "name": "Porto Alegre" },
     { "@type": "Country", "name": "Brasil" }
@@ -63,7 +63,7 @@
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Site Institucional" } },
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Landing Page" } },
       { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "E-commerce" } },
-      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Blog e Portal de Conte&uacute;do" } }
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Blog e Portal de Conteúdo" } }
     ]
   }
 }
@@ -80,7 +80,7 @@
       "name": "Quanto custa criar um site em Porto Alegre?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "O valor de um site depende da complexidade e dos objetivos do projeto. A BagiCo trabalha com or&ccedil;amentos sob medida para cada cliente, desde landing pages focadas em convers&atilde;o at&eacute; e-commerces completos. Entre em contato para receber uma proposta personalizada."
+        "text": "O valor de um site depende da complexidade e dos objetivos do projeto. A BagiCo trabalha com orçamentos sob medida para cada cliente, desde landing pages focadas em conversão até e-commerces completos. Entre em contato para receber uma proposta personalizada."
       }
     },
     {
@@ -88,7 +88,7 @@
       "name": "A BagiCo cria sites para todo o Brasil?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sim. A BagiCo atende presencialmente em Porto Alegre e de forma remota para todo o Brasil. Nosso processo de trabalho &eacute; totalmente adaptado para clientes em qualquer regi&atilde;o do pa&iacute;s."
+        "text": "Sim. A BagiCo atende presencialmente em Porto Alegre e de forma remota para todo o Brasil. Nosso processo de trabalho é totalmente adaptado para clientes em qualquer região do país."
       }
     },
     {
@@ -96,15 +96,15 @@
       "name": "Quais tipos de sites a BagiCo desenvolve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A BagiCo desenvolve sites institucionais, landing pages de alta convers&atilde;o, e-commerces, blogs e portais de conte&uacute;do. Todos os projetos s&atilde;o desenvolvidos com design sob medida e otimizados para Google."
+        "text": "A BagiCo desenvolve sites institucionais, landing pages de alta conversão, e-commerces, blogs e portais de conteúdo. Todos os projetos são desenvolvidos com design sob medida e otimizados para Google."
       }
     },
     {
       "@type": "Question",
-      "name": "O site da BagiCo foi desenvolvido pela pr&oacute;pria equipe?",
+      "name": "O site da BagiCo foi desenvolvido pela própria equipe?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sim. O site bagico.com.br foi criado e desenvolvido inteiramente pela nossa pr&oacute;pria equipe — &eacute; a nossa vitrine viva do que entregamos aos clientes."
+        "text": "Sim. O site bagico.com.br foi criado e desenvolvido inteiramente pela nossa própria equipe — é a nossa vitrine viva do que entregamos aos clientes."
       }
     }
   ]
@@ -435,21 +435,21 @@
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -470,19 +470,19 @@
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -491,21 +491,21 @@
 </nav>
 
 <!-- HERO -->
-<section class="hero" aria-label="Cria&ccedil;&atilde;o de sites BagiCo">
+<section class="hero" aria-label="Criação de sites BagiCo">
   <div class="hero-bg"></div>
   <div class="hero-content">
     <div class="hero-badge">
-      <span>&#9679;</span> Cria&ccedil;&atilde;o de Sites
+      <span>●</span> Criação de Sites
     </div>
     <h1 class="hero-title">
-      Seu neg&oacute;cio<br>
+      Seu negócio<br>
       merece um site<br>
       que <em>vende<span class="dot">.</span></em>
     </h1>
-    <p class="hero-sub">Sites institucionais, landing pages e e-commerce com design sob medida, alto desempenho e foco total em convers&atilde;o. Or&ccedil;amentos personalizados para cada projeto.</p>
+    <p class="hero-sub">Sites institucionais, landing pages e e-commerce com design sob medida, alto desempenho e foco total em conversão. Orçamentos personalizados para cada projeto.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero um or&ccedil;amento</a>
+      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero um orçamento</a>
       <a href="#tipos" class="btn-secondary">Ver o que fazemos</a>
     </div>
   </div>
@@ -514,7 +514,7 @@
 <!-- PROVA SOCIAL — site da própria BagiCo -->
 <div class="proof-bar" role="note" aria-label="Prova social">
   <div class="proof-dot"></div>
-  <p class="proof-text">O site que voc&ecirc; est&aacute; navegando agora foi criado inteiramente pela nossa equipe &mdash; &eacute; a nossa <a href="https://www.bagico.com.br">vitrine viva</a> do que entregamos.</p>
+  <p class="proof-text">O site que você está navegando agora foi criado inteiramente pela nossa equipe — é a nossa <a href="https://www.bagico.com.br">vitrine viva</a> do que entregamos.</p>
 </div>
 
 <div class="divider" style="margin-top:0"><div class="divider-dot"></div></div>
@@ -523,32 +523,32 @@
 <section class="tipos" id="tipos" aria-label="Tipos de sites que a BagiCo desenvolve">
   <div class="reveal">
     <p class="section-label">O que desenvolvemos</p>
-    <h2 class="section-title">Sites para cada<br><em>est&aacute;gio do seu neg&oacute;cio</em></h2>
+    <h2 class="section-title">Sites para cada<br><em>estágio do seu negócio</em></h2>
   </div>
   <div class="tipos-grid">
     <article class="tipo-card reveal">
       <div class="tipo-num">01</div>
       <h3 class="tipo-name">Site Institucional</h3>
-      <p class="tipo-desc">A presen&ccedil;a digital definitiva da sua empresa. Design premium, conte&uacute;do estrat&eacute;gico e otimiza&ccedil;&atilde;o para Google que posicionam sua marca como refer&ecirc;ncia no mercado.</p>
+      <p class="tipo-desc">A presença digital definitiva da sua empresa. Design premium, conteúdo estratégico e otimização para Google que posicionam sua marca como referência no mercado.</p>
       <div class="tipo-tags"><span class="tag">Design sob medida</span><span class="tag">SEO completo</span><span class="tag">Responsivo</span></div>
     </article>
     <article class="tipo-card reveal">
       <div class="tipo-num">02</div>
       <h3 class="tipo-name">Landing Page</h3>
-      <p class="tipo-desc">P&aacute;ginas de alta convers&atilde;o para capturar leads, lan&ccedil;ar produtos ou divulgar servi&ccedil;os. Cada elemento pensado para transformar visitante em cliente.</p>
-      <div class="tipo-tags"><span class="tag">Alta convers&atilde;o</span><span class="tag">Ideal para Ads</span><span class="tag">A/B testing</span></div>
+      <p class="tipo-desc">Páginas de alta conversão para capturar leads, lançar produtos ou divulgar serviços. Cada elemento pensado para transformar visitante em cliente.</p>
+      <div class="tipo-tags"><span class="tag">Alta conversão</span><span class="tag">Ideal para Ads</span><span class="tag">A/B testing</span></div>
     </article>
     <article class="tipo-card reveal">
       <div class="tipo-num">03</div>
       <h3 class="tipo-name">E-commerce</h3>
-      <p class="tipo-desc">Lojas virtuais completas com experi&ecirc;ncia de compra premium, integra&ccedil;&atilde;o com meios de pagamento e gest&atilde;o simplificada de produtos e pedidos.</p>
-      <div class="tipo-tags"><span class="tag">Checkout otimizado</span><span class="tag">Integra&ccedil;&atilde;o de pagamento</span><span class="tag">Gest&atilde;o de estoque</span></div>
+      <p class="tipo-desc">Lojas virtuais completas com experiência de compra premium, integração com meios de pagamento e gestão simplificada de produtos e pedidos.</p>
+      <div class="tipo-tags"><span class="tag">Checkout otimizado</span><span class="tag">Integração de pagamento</span><span class="tag">Gestão de estoque</span></div>
     </article>
     <article class="tipo-card reveal">
       <div class="tipo-num">04</div>
       <h3 class="tipo-name">Blog e Portal</h3>
-      <p class="tipo-desc">Plataformas de conte&uacute;do que geram tr&aacute;fego org&acirc;nico, constroem autoridade e nutrem sua audi&ecirc;ncia ao longo do tempo.</p>
-      <div class="tipo-tags"><span class="tag">SEO editorial</span><span class="tag">Painel de gest&atilde;o</span><span class="tag">Escal&aacute;vel</span></div>
+      <p class="tipo-desc">Plataformas de conteúdo que geram tráfego orgânico, constroem autoridade e nutrem sua audiência ao longo do tempo.</p>
+      <div class="tipo-tags"><span class="tag">SEO editorial</span><span class="tag">Painel de gestão</span><span class="tag">Escalável</span></div>
     </article>
   </div>
 </section>
@@ -559,38 +559,38 @@
 <section class="diferenciais" aria-label="Diferenciais da BagiCo em desenvolvimento de sites">
   <div class="reveal">
     <p class="section-label">Por que a BagiCo</p>
-    <h2 class="section-title">Sites que trabalham<br><em>enquanto voc&ecirc; dorme</em></h2>
+    <h2 class="section-title">Sites que trabalham<br><em>enquanto você dorme</em></h2>
   </div>
   <div class="diff-grid">
     <div class="diff-item reveal">
       <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Design sob medida</h3>
-      <p class="diff-desc">Nenhum template gen&eacute;rico. Cada site &eacute; criado do zero para refletir a identidade &uacute;nica do seu neg&oacute;cio e se destacar da concorr&ecirc;ncia.</p>
+      <p class="diff-desc">Nenhum template genérico. Cada site é criado do zero para refletir a identidade única do seu negócio e se destacar da concorrência.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">SEO desde o c&oacute;digo</h3>
-      <p class="diff-desc">Otimiza&ccedil;&atilde;o para motores de busca n&atilde;o &eacute; um extra &mdash; &eacute; parte do processo. Seus clientes encontram voc&ecirc; antes da concorr&ecirc;ncia.</p>
+      <h3 class="diff-title">SEO desde o código</h3>
+      <p class="diff-desc">Otimização para motores de busca não é um extra — é parte do processo. Seus clientes encontram você antes da concorrência.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Foco em convers&atilde;o</h3>
-      <p class="diff-desc">Cada elemento visual e textual &eacute; pensado para transformar visitantes em leads e leads em clientes. Beleza e resultado andando juntos.</p>
+      <h3 class="diff-title">Foco em conversão</h3>
+      <p class="diff-desc">Cada elemento visual e textual é pensado para transformar visitantes em leads e leads em clientes. Beleza e resultado andando juntos.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Alto desempenho</h3>
-      <p class="diff-desc">Sites r&aacute;pidos, seguros e est&aacute;veis. Performance t&eacute;cnica que melhora a experi&ecirc;ncia do usu&aacute;rio e o posicionamento no Google.</p>
+      <p class="diff-desc">Sites rápidos, seguros e estáveis. Performance técnica que melhora a experiência do usuário e o posicionamento no Google.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Or&ccedil;amento sob medida</h3>
-      <p class="diff-desc">Sem pacotes engessados. Cada projeto tem escopo e valor ajustados &agrave; realidade do seu neg&oacute;cio e aos seus objetivos.</p>
+      <h3 class="diff-title">Orçamento sob medida</h3>
+      <p class="diff-desc">Sem pacotes engessados. Cada projeto tem escopo e valor ajustados à realidade do seu negócio e aos seus objetivos.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Suporte cont&iacute;nuo</h3>
-      <p class="diff-desc">N&atilde;o entregamos e sumimos. Oferecemos suporte p&oacute;s-lan&ccedil;amento para garantir que seu site evolua junto com o seu neg&oacute;cio.</p>
+      <h3 class="diff-title">Suporte contínuo</h3>
+      <p class="diff-desc">Não entregamos e sumimos. Oferecemos suporte pós-lançamento para garantir que seu site evolua junto com o seu negócio.</p>
     </div>
   </div>
 </section>
@@ -598,7 +598,7 @@
 <div class="divider"><div class="divider-dot"></div></div>
 
 <!-- PROCESSO -->
-<section class="processo" aria-label="Processo de cria&ccedil;&atilde;o de sites na BagiCo">
+<section class="processo" aria-label="Processo de criação de sites na BagiCo">
   <div class="reveal">
     <p class="section-label">Como funciona</p>
     <h2 class="section-title">Do briefing ao<br><em>site no ar</em></h2>
@@ -607,29 +607,29 @@
     <div class="processo-item reveal">
       <span class="processo-num">01</span>
       <div>
-        <h3 class="processo-title">Diagn&oacute;stico e briefing</h3>
-        <p class="processo-desc">Entendemos seus objetivos, p&uacute;blico-alvo e concorr&ecirc;ncia. Definimos juntos o escopo ideal para o seu projeto antes de come&ccedil;ar qualquer desenvolvimento.</p>
+        <h3 class="processo-title">Diagnóstico e briefing</h3>
+        <p class="processo-desc">Entendemos seus objetivos, público-alvo e concorrência. Definimos juntos o escopo ideal para o seu projeto antes de começar qualquer desenvolvimento.</p>
       </div>
     </div>
     <div class="processo-item reveal">
       <span class="processo-num">02</span>
       <div>
-        <h3 class="processo-title">Estrat&eacute;gia e arquitetura</h3>
-        <p class="processo-desc">Planejamos a estrutura do site pensando em SEO, experi&ecirc;ncia do usu&aacute;rio e convers&atilde;o. Cada p&aacute;gina tem um prop&oacute;sito claro.</p>
+        <h3 class="processo-title">Estratégia e arquitetura</h3>
+        <p class="processo-desc">Planejamos a estrutura do site pensando em SEO, experiência do usuário e conversão. Cada página tem um propósito claro.</p>
       </div>
     </div>
     <div class="processo-item reveal">
       <span class="processo-num">03</span>
       <div>
         <h3 class="processo-title">Design e desenvolvimento</h3>
-        <p class="processo-desc">Criamos o design sob medida e desenvolvemos o site com c&oacute;digo limpo, r&aacute;pido e otimizado. Voc&ecirc; acompanha e aprova cada etapa.</p>
+        <p class="processo-desc">Criamos o design sob medida e desenvolvemos o site com código limpo, rápido e otimizado. Você acompanha e aprova cada etapa.</p>
       </div>
     </div>
     <div class="processo-item reveal">
       <span class="processo-num">04</span>
       <div>
-        <h3 class="processo-title">Testes e lan&ccedil;amento</h3>
-        <p class="processo-desc">Testamos em todos os dispositivos e navegadores antes do lan&ccedil;amento. Seu site vai ao ar pronto para performar.</p>
+        <h3 class="processo-title">Testes e lançamento</h3>
+        <p class="processo-desc">Testamos em todos os dispositivos e navegadores antes do lançamento. Seu site vai ao ar pronto para performar.</p>
       </div>
     </div>
   </div>
@@ -638,9 +638,9 @@
 <div class="divider"><div class="divider-dot"></div></div>
 
 <!-- FAQ -->
-<section class="faq" aria-label="Perguntas frequentes sobre cria&ccedil;&atilde;o de sites">
+<section class="faq" aria-label="Perguntas frequentes sobre criação de sites">
   <div class="reveal">
-    <p class="section-label">D&uacute;vidas frequentes</p>
+    <p class="section-label">Dúvidas frequentes</p>
     <h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2>
   </div>
   <div class="faq-list reveal">
@@ -649,43 +649,43 @@
         <span class="faq-q-text">Quanto custa criar um site com a BagiCo?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Trabalhamos com or&ccedil;amentos sob medida para cada projeto. O valor depende da complexidade, tipo de site e funcionalidades necess&aacute;rias. Entre em contato e receba uma proposta personalizada.</p>
+      <p class="faq-answer">Trabalhamos com orçamentos sob medida para cada projeto. O valor depende da complexidade, tipo de site e funcionalidades necessárias. Entre em contato e receba uma proposta personalizada.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">Voc&ecirc;s atendem fora de Porto Alegre?</span>
+        <span class="faq-q-text">Vocês atendem fora de Porto Alegre?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Sim. Atendemos presencialmente em Porto Alegre e regi&atilde;o, e de forma remota para todo o Brasil. Nosso processo &eacute; totalmente adaptado para clientes em qualquer estado.</p>
+      <p class="faq-answer">Sim. Atendemos presencialmente em Porto Alegre e região, e de forma remota para todo o Brasil. Nosso processo é totalmente adaptado para clientes em qualquer estado.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">O site j&aacute; vem otimizado para o Google?</span>
+        <span class="faq-q-text">O site já vem otimizado para o Google?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Sim. SEO on-page, schema.org, velocidade de carregamento e estrutura t&eacute;cnica s&atilde;o parte padr&atilde;o de todos os nossos projetos &mdash; n&atilde;o s&atilde;o extras.</p>
+      <p class="faq-answer">Sim. SEO on-page, schema.org, velocidade de carregamento e estrutura técnica são parte padrão de todos os nossos projetos — não são extras.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
-        <span class="faq-q-text">Consigo atualizar o conte&uacute;do depois?</span>
+        <span class="faq-q-text">Consigo atualizar o conteúdo depois?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Sim. Todos os sites s&atilde;o entregues com painel de gest&atilde;o f&aacute;cil de usar, permitindo que voc&ecirc; atualize textos, imagens e conte&uacute;dos sem precisar de conhecimento t&eacute;cnico.</p>
+      <p class="faq-answer">Sim. Todos os sites são entregues com painel de gestão fácil de usar, permitindo que você atualize textos, imagens e conteúdos sem precisar de conhecimento técnico.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
         <span class="faq-q-text">Qual o prazo para o site ficar pronto?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">O prazo varia conforme a complexidade do projeto. Landing pages simples podem ficar prontas em 1 a 2 semanas. Sites institucionais completos levam em m&eacute;dia de 3 a 6 semanas.</p>
+      <p class="faq-answer">O prazo varia conforme a complexidade do projeto. Landing pages simples podem ficar prontas em 1 a 2 semanas. Sites institucionais completos levam em média de 3 a 6 semanas.</p>
     </div>
   </div>
 </section>
 
 <!-- CTA FINAL -->
-<section class="cta" id="orcamento" aria-label="Solicitar or&ccedil;amento de site">
+<section class="cta" id="orcamento" aria-label="Solicitar orçamento de site">
   <h2 class="cta-title reveal">Vamos construir<br>seu site<span style="color:var(--desire)">.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Orçamento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
@@ -693,11 +693,11 @@
 </section>
 
 <!-- FOOTER -->
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -707,7 +707,7 @@
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 
 <script>

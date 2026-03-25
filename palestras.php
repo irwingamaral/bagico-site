@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Palestras de Branding, Marketing e IA em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Palestras sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial para empresas e eventos em Porto Alegre e todo o Brasil. Conte&uacute;do visceral, pr&aacute;tico e aplic&aacute;vel.">
+<title>Palestras de Branding, Marketing e IA em Porto Alegre — BagiCo</title>
+<meta name="description" content="Palestras sobre branding, estratégia de marca, marketing digital e inteligência artificial para empresas e eventos em Porto Alegre e todo o Brasil. Conteúdo visceral, prático e aplicável.">
 <meta name="keywords" content="palestras de marketing Porto Alegre, palestra de branding, palestra sobre IA empresas, palestrante de marketing RS, eventos corporativos Porto Alegre, BagiCo palestras">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
@@ -14,19 +14,19 @@
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/palestras">
-<meta property="og:title" content="Palestras de Branding, Marketing e IA &#8212; BagiCo">
-<meta property="og:description" content="Palestras pr&aacute;ticas e viscerais sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial. Para empresas e eventos em todo o Brasil.">
+<meta property="og:title" content="Palestras de Branding, Marketing e IA — BagiCo">
+<meta property="og:description" content="Palestras práticas e viscerais sobre branding, estratégia de marca, marketing digital e inteligência artificial. Para empresas e eventos em todo o Brasil.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Palestras de Branding, Marketing e IA &#8212; BagiCo">
-<meta name="twitter:description" content="Palestras pr&aacute;ticas e viscerais sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial. Para empresas e eventos em todo o Brasil.">
+<meta name="twitter:title" content="Palestras de Branding, Marketing e IA — BagiCo">
+<meta name="twitter:description" content="Palestras práticas e viscerais sobre branding, estratégia de marca, marketing digital e inteligência artificial. Para empresas e eventos em todo o Brasil.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Palestras Corporativas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Palestras sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial para empresas e eventos em Porto Alegre e todo o Brasil.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Palestras Corporativas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Palestras sobre branding, estratégia de marca, marketing digital e inteligência artificial para empresas e eventos em Porto Alegre e todo o Brasil.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quais s&atilde;o os temas dispon&iacute;veis?","acceptedAnswer":{"@type":"Answer","text":"Branding e posicionamento de marca, marketing digital, intelig&ecirc;ncia artificial para neg&oacute;cios e marca pessoal para founders. Temas customizados tamb&eacute;m s&atilde;o poss&iacute;veis."}},{"@type":"Question","name":"As palestras s&atilde;o presenciais ou online?","acceptedAnswer":{"@type":"Answer","text":"Ambas. Realizamos palestras presenciais em Porto Alegre e regi&atilde;o, e online para qualquer localidade do Brasil."}},{"@type":"Question","name":"Qual a dura&ccedil;&atilde;o m&iacute;nima e m&aacute;xima?","acceptedAnswer":{"@type":"Answer","text":"De palestras de 30 minutos at&eacute; workshops de meio dia. O formato &eacute; adaptado &agrave; agenda e necessidade do evento."}},{"@type":"Question","name":"Voc&ecirc;s fazem workshops al&eacute;m de palestras?","acceptedAnswer":{"@type":"Answer","text":"Sim. Al&eacute;m de palestras, oferecemos workshops pr&aacute;ticos onde os participantes trabalham em exerc&iacute;cios aplicados ao seu neg&oacute;cio."}},{"@type":"Question","name":"Como &eacute; feito o or&ccedil;amento?","acceptedAnswer":{"@type":"Answer","text":"O valor varia conforme o formato, dura&ccedil;&atilde;o, localidade e personaliza&ccedil;&atilde;o. Entre em contato para receber uma proposta."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quais são os temas disponíveis?","acceptedAnswer":{"@type":"Answer","text":"Branding e posicionamento de marca, marketing digital, inteligência artificial para negócios e marca pessoal para founders. Temas customizados também são possíveis."}},{"@type":"Question","name":"As palestras são presenciais ou online?","acceptedAnswer":{"@type":"Answer","text":"Ambas. Realizamos palestras presenciais em Porto Alegre e região, e online para qualquer localidade do Brasil."}},{"@type":"Question","name":"Qual a duração mínima e máxima?","acceptedAnswer":{"@type":"Answer","text":"De palestras de 30 minutos até workshops de meio dia. O formato é adaptado à agenda e necessidade do evento."}},{"@type":"Question","name":"Vocês fazem workshops além de palestras?","acceptedAnswer":{"@type":"Answer","text":"Sim. Além de palestras, oferecemos workshops práticos onde os participantes trabalham em exercícios aplicados ao seu negócio."}},{"@type":"Question","name":"Como é feito o orçamento?","acceptedAnswer":{"@type":"Answer","text":"O valor varia conforme o formato, duração, localidade e personalização. Entre em contato para receber uma proposta."}}]}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -308,21 +308,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -343,19 +343,19 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
@@ -365,9 +365,9 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <section class="hero" aria-label="Palestras BagiCo">
   <div style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 55% at 68% 38%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Palestras</div>
-    <h1 class="hero-title">Conte&uacute;do que<br><em>provoca e transforma<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Palestras pr&aacute;ticas, viscerais e aplic&aacute;veis sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial. Para quem quer sair diferente de como entrou.</p>
+    <div class="hero-badge"><span>●</span> Palestras</div>
+    <h1 class="hero-title">Conteúdo que<br><em>provoca e transforma<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Palestras práticas, viscerais e aplicáveis sobre branding, estratégia de marca, marketing digital e inteligência artificial. Para quem quer sair diferente de como entrou.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero uma palestra</a>
@@ -378,56 +378,56 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="temas" aria-label="Temas que abordamos">
 <div class="reveal"><p class="section-label">Temas que abordamos</p><h2 class="section-title">Palestras que<br><em>geram impacto real</em></h2></div>
-  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Branding e Posicionamento de Marca</h3><p class="card-desc">Como construir marcas que geram desejo, autoridade e reconhecimento. Da identidade ao posicionamento estrat&eacute;gico — com exemplos reais e aplic&aacute;veis.</p><div class="tags"><span class="tag">Identidade de marca</span><span class="tag">Posicionamento estrat&eacute;gico</span><span class="tag">Casos pr&aacute;ticos</span></div></article>
-<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Marketing Digital na Pr&aacute;tica</h3><p class="card-desc">Estrat&eacute;gias reais de marketing digital: redes sociais, tr&aacute;fego pago, conte&uacute;do e SEO. Sem teoria vazia — s&oacute; o que realmente gera resultado.</p><div class="tags"><span class="tag">Redes sociais</span><span class="tag">Tr&aacute;fego pago</span><span class="tag">Conte&uacute;do estrat&eacute;gico</span></div></article>
-<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA para Neg&oacute;cios</h3><p class="card-desc">Como as empresas est&atilde;o usando intelig&ecirc;ncia artificial para automatizar, prospectar e crescer. Ferramentas, casos de uso e como come&ccedil;ar hoje.</p><div class="tags"><span class="tag">Automa&ccedil;&atilde;o com IA</span><span class="tag">Prospec&ccedil;&atilde;o inteligente</span><span class="tag">Ferramentas pr&aacute;ticas</span></div></article>
-<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Marca Pessoal para Founders</h3><p class="card-desc">Como founders e l&iacute;deres constroem autoridade e posicionamento pessoal que fortalecem o neg&oacute;cio. Presença digital, conte&uacute;do e consist&ecirc;ncia.</p><div class="tags"><span class="tag">Posicionamento pessoal</span><span class="tag">Presen&ccedil;a digital</span><span class="tag">Autoridade de mercado</span></div></article>
+  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Branding e Posicionamento de Marca</h3><p class="card-desc">Como construir marcas que geram desejo, autoridade e reconhecimento. Da identidade ao posicionamento estratégico — com exemplos reais e aplicáveis.</p><div class="tags"><span class="tag">Identidade de marca</span><span class="tag">Posicionamento estratégico</span><span class="tag">Casos práticos</span></div></article>
+<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Marketing Digital na Prática</h3><p class="card-desc">Estratégias reais de marketing digital: redes sociais, tráfego pago, conteúdo e SEO. Sem teoria vazia — só o que realmente gera resultado.</p><div class="tags"><span class="tag">Redes sociais</span><span class="tag">Tráfego pago</span><span class="tag">Conteúdo estratégico</span></div></article>
+<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA para Negócios</h3><p class="card-desc">Como as empresas estão usando inteligência artificial para automatizar, prospectar e crescer. Ferramentas, casos de uso e como começar hoje.</p><div class="tags"><span class="tag">Automação com IA</span><span class="tag">Prospecção inteligente</span><span class="tag">Ferramentas práticas</span></div></article>
+<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Marca Pessoal para Founders</h3><p class="card-desc">Como founders e líderes constroem autoridade e posicionamento pessoal que fortalecem o negócio. Presença digital, conteúdo e consistência.</p><div class="tags"><span class="tag">Posicionamento pessoal</span><span class="tag">Presença digital</span><span class="tag">Autoridade de mercado</span></div></article>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="Diferenciais">
 <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
-  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Conte&uacute;do visceral</h3><p class="diff-desc">N&atilde;o fazemos palestras gen&eacute;ricas. Cada apresenta&ccedil;&atilde;o &eacute; adaptada ao p&uacute;blico e ao contexto do evento — com exemplos reais e linguagem direta.</p></div>
-<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Pr&aacute;tico e aplic&aacute;vel</h3><p class="diff-desc">O objetivo &eacute; que as pessoas saiam com algo que podem usar imediatamente. N&atilde;o s&oacute; inspira&ccedil;&atilde;o — a&ccedil;&atilde;o.</p></div>
-<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Experi&ecirc;ncia real de mercado</h3><p class="diff-desc">Falamos do que vivemos. Cases reais, erros reais, aprendizados reais. Sem teoria de livro didático.</p></div>
-<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Formatos flex&iacute;veis</h3><p class="diff-desc">Palestra, workshop, painel ou keynote. Presencial ou online. Adaptamos o formato &agrave;s necessidades do evento.</p></div>
-<div class="diff-item reveal"><div class="diff-num">05<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Personaliza&ccedil;&atilde;o por setor</h3><p class="diff-desc">Adaptamos o conte&uacute;do para o setor e p&uacute;blico do evento — Agro, Sa&uacute;de, Tecnologia, Varejo, Servi&ccedil;os e mais.</p></div>
-<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Suporte completo ao evento</h3><p class="diff-desc">Auxiliamos na divulga&ccedil;&atilde;o, materiais de apoio e comunica&ccedil;&atilde;o do evento se necess&aacute;rio.</p></div>
+  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Conteúdo visceral</h3><p class="diff-desc">Não fazemos palestras genéricas. Cada apresentação é adaptada ao público e ao contexto do evento — com exemplos reais e linguagem direta.</p></div>
+<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Prático e aplicável</h3><p class="diff-desc">O objetivo é que as pessoas saiam com algo que podem usar imediatamente. Não só inspiração — ação.</p></div>
+<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Experiência real de mercado</h3><p class="diff-desc">Falamos do que vivemos. Cases reais, erros reais, aprendizados reais. Sem teoria de livro didático.</p></div>
+<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Formatos flexíveis</h3><p class="diff-desc">Palestra, workshop, painel ou keynote. Presencial ou online. Adaptamos o formato às necessidades do evento.</p></div>
+<div class="diff-item reveal"><div class="diff-num">05<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Personalização por setor</h3><p class="diff-desc">Adaptamos o conteúdo para o setor e público do evento — Agro, Saúde, Tecnologia, Varejo, Serviços e mais.</p></div>
+<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Suporte completo ao evento</h3><p class="diff-desc">Auxiliamos na divulgação, materiais de apoio e comunicação do evento se necessário.</p></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
 <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
-  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Briefing do evento</h3><p class="step-desc">Entendemos o perfil do p&uacute;blico, objetivo do evento, formato e dura&ccedil;&atilde;o desejada. Quanto mais detalhes, melhor a palestra.</p></div></div>
-<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Proposta e personaliza&ccedil;&atilde;o</h3><p class="step-desc">Apresentamos a proposta de conte&uacute;do e adaptamos o tema ao contexto espec&iacute;fico do seu evento e setor.</p></div></div>
-<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Prepara&ccedil;&atilde;o e alinhamento</h3><p class="step-desc">Desenvolvemos o conte&uacute;do, apresenta&ccedil;&atilde;o e materiais. Fazemos um alinhamento final antes do evento.</p></div></div>
-<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Apresenta&ccedil;&atilde;o e follow-up</h3><p class="step-desc">Realizamos a palestra e disponibilizamos materiais de apoio. Feedback e avalia&ccedil;&atilde;o para evolu&ccedil;&atilde;o cont&iacute;nua.</p></div></div>
+  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Briefing do evento</h3><p class="step-desc">Entendemos o perfil do público, objetivo do evento, formato e duração desejada. Quanto mais detalhes, melhor a palestra.</p></div></div>
+<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Proposta e personalização</h3><p class="step-desc">Apresentamos a proposta de conteúdo e adaptamos o tema ao contexto específico do seu evento e setor.</p></div></div>
+<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Preparação e alinhamento</h3><p class="step-desc">Desenvolvemos o conteúdo, apresentação e materiais. Fazemos um alinhamento final antes do evento.</p></div></div>
+<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Apresentação e follow-up</h3><p class="step-desc">Realizamos a palestra e disponibilizamos materiais de apoio. Feedback e avaliação para evolução contínua.</p></div></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="FAQ">
-<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
-  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais s&atilde;o os temas dispon&iacute;veis?</span><span class="faq-icon">+</span></div><p class="faq-answer">Branding e posicionamento de marca, marketing digital, intelig&ecirc;ncia artificial para neg&oacute;cios e marca pessoal para founders. Temas customizados tamb&eacute;m s&atilde;o poss&iacute;veis.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">As palestras s&atilde;o presenciais ou online?</span><span class="faq-icon">+</span></div><p class="faq-answer">Ambas. Realizamos palestras presenciais em Porto Alegre e regi&atilde;o, e online para qualquer localidade do Brasil.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Qual a dura&ccedil;&atilde;o m&iacute;nima e m&aacute;xima?</span><span class="faq-icon">+</span></div><p class="faq-answer">De palestras de 30 minutos at&eacute; workshops de meio dia. O formato &eacute; adaptado &agrave; agenda e necessidade do evento.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem workshops al&eacute;m de palestras?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. Al&eacute;m de palestras, oferecemos workshops pr&aacute;ticos onde os participantes trabalham em exerc&iacute;cios aplicados ao seu neg&oacute;cio.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Como &eacute; feito o or&ccedil;amento?</span><span class="faq-icon">+</span></div><p class="faq-answer">O valor varia conforme o formato, dura&ccedil;&atilde;o, localidade e personaliza&ccedil;&atilde;o. Entre em contato para receber uma proposta.</p></div>
+<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais são os temas disponíveis?</span><span class="faq-icon">+</span></div><p class="faq-answer">Branding e posicionamento de marca, marketing digital, inteligência artificial para negócios e marca pessoal para founders. Temas customizados também são possíveis.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">As palestras são presenciais ou online?</span><span class="faq-icon">+</span></div><p class="faq-answer">Ambas. Realizamos palestras presenciais em Porto Alegre e região, e online para qualquer localidade do Brasil.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Qual a duração mínima e máxima?</span><span class="faq-icon">+</span></div><p class="faq-answer">De palestras de 30 minutos até workshops de meio dia. O formato é adaptado à agenda e necessidade do evento.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Vocês fazem workshops além de palestras?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. Além de palestras, oferecemos workshops práticos onde os participantes trabalham em exercícios aplicados ao seu negócio.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Como é feito o orçamento?</span><span class="faq-icon">+</span></div><p class="faq-answer">O valor varia conforme o formato, duração, localidade e personalização. Entre em contato para receber uma proposta.</p></div>
 </div>
 </section>
 
 <section class="cta-section">
-  <h2 class="cta-title reveal">Vamos levar conte&uacute;do<br>de impacto para<br><em>seu evento<span style='color:var(--desire)'>.</span></em></h2>
+  <h2 class="cta-title reveal">Vamos levar conteúdo<br>de impacto para<br><em>seu evento<span style='color:var(--desire)'>.</span></em></h2>
   <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Solicite uma proposta sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -437,7 +437,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 <script>var cursor=document.getElementById('cursor'),ring=document.getElementById('cursorRing'),mx=0,my=0,rx=0,ry=0;
 document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;cursor.style.left=mx+'px';cursor.style.top=my+'px';});

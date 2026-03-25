@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Consultoria de Marketing e Marca em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Consultoria estrat&eacute;gica de marketing e marca em Porto Alegre: diagn&oacute;stico, posicionamento, mentoria para founders e dire&ccedil;&atilde;o estrat&eacute;gica cont&iacute;nua.">
-<meta name="keywords" content="consultoria de marketing Porto Alegre, consultoria de marca, mentoria de posicionamento, estrat&eacute;gia de marca RS, consultoria para founders, BagiCo">
+<title>Consultoria de Marketing e Marca em Porto Alegre — BagiCo</title>
+<meta name="description" content="Consultoria estratégica de marketing e marca em Porto Alegre: diagnóstico, posicionamento, mentoria para founders e direção estratégica contínua.">
+<meta name="keywords" content="consultoria de marketing Porto Alegre, consultoria de marca, mentoria de posicionamento, estratégia de marca RS, consultoria para founders, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
@@ -14,19 +14,19 @@
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.bagico.com.br/consultoria">
-<meta property="og:title" content="Consultoria de Marketing e Marca &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Diagn&oacute;stico estrat&eacute;gico, posicionamento de marca e mentoria para founders. Porto Alegre e todo o Brasil.">
+<meta property="og:title" content="Consultoria de Marketing e Marca — BagiCo Porto Alegre">
+<meta property="og:description" content="Diagnóstico estratégico, posicionamento de marca e mentoria para founders. Porto Alegre e todo o Brasil.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Consultoria de Marketing e Marca &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Diagn&oacute;stico estrat&eacute;gico, posicionamento de marca e mentoria para founders. Porto Alegre e todo o Brasil.">
+<meta name="twitter:title" content="Consultoria de Marketing e Marca — BagiCo Porto Alegre">
+<meta name="twitter:description" content="Diagnóstico estratégico, posicionamento de marca e mentoria para founders. Porto Alegre e todo o Brasil.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Consultoria de Marketing e Marca","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Consultoria estrat&eacute;gica de marketing e marca: diagn&oacute;stico, posicionamento, mentoria e dire&ccedil;&atilde;o cont&iacute;nua.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Consultoria de Marketing e Marca","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Consultoria estratégica de marketing e marca: diagnóstico, posicionamento, mentoria e direção contínua.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Para quem &eacute; a consultoria da BagiCo?","acceptedAnswer":{"@type":"Answer","text":"Para founders, gestores e empreendedores que precisam de clareza estrat&eacute;gica ou estrutura&ccedil;&atilde;o do marketing."}},{"@type":"Question","name":"Como funciona o diagn&oacute;stico estrat&eacute;gico?","acceptedAnswer":{"@type":"Answer","text":"Sess&atilde;o aprofundada de imers&atilde;o no neg&oacute;cio, seguida de relat&oacute;rio com an&aacute;lise e plano de a&ccedil;&atilde;o pr&aacute;tico."}},{"@type":"Question","name":"Qual a diferen&ccedil;a entre mentoria e consultoria?","acceptedAnswer":{"@type":"Answer","text":"Na mentoria, foco no founder e posicionamento pessoal. Na consultoria, foco no neg&oacute;cio e na marca como um todo."}},{"@type":"Question","name":"Voc&ecirc;s tamb&eacute;m executam o que recomendam?","acceptedAnswer":{"@type":"Answer","text":"Sim. Al&eacute;m de recomendar, executamos — sites, identidade visual, social media e tr&aacute;fego pago."}},{"@type":"Question","name":"Atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. Presencialmente em Porto Alegre e remotamente para todo o Brasil."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Para quem é a consultoria da BagiCo?","acceptedAnswer":{"@type":"Answer","text":"Para founders, gestores e empreendedores que precisam de clareza estratégica ou estruturação do marketing."}},{"@type":"Question","name":"Como funciona o diagnóstico estratégico?","acceptedAnswer":{"@type":"Answer","text":"Sessão aprofundada de imersão no negócio, seguida de relatório com análise e plano de ação prático."}},{"@type":"Question","name":"Qual a diferença entre mentoria e consultoria?","acceptedAnswer":{"@type":"Answer","text":"Na mentoria, foco no founder e posicionamento pessoal. Na consultoria, foco no negócio e na marca como um todo."}},{"@type":"Question","name":"Vocês também executam o que recomendam?","acceptedAnswer":{"@type":"Answer","text":"Sim. Além de recomendar, executamos — sites, identidade visual, social media e tráfego pago."}},{"@type":"Question","name":"Atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. Presencialmente em Porto Alegre e remotamente para todo o Brasil."}}]}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -295,21 +295,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
-          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
-          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
-          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
-          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
+          <a href="/identidade-visual.php"><span>●</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>●</span> Social Media</a>
+          <a href="/sites.php"><span>●</span> Criação de Sites</a>
+          <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
+          <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/ia.php"><span>●</span> IA para meu negócio</a>
+          <a href="/palestras.php"><span>●</span> Palestras</a>
+          <a href="/outros.php"><span>●</span> Outros serviços</a>
         </div>
       </div>
     </li>
@@ -330,31 +330,31 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="mobile-menu" id="mobileMenu">
   <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
-  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
     <a href="/social-media.php">Social Media</a>
-    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
-    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/sites.php">Criação de Sites</a>
+    <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
-    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
-    <a href="/outros.php">Outros servi&ccedil;os</a>
+    <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
-<section class="hero" aria-label="Consultoria Estrat&eacute;gica BagiCo">
+<section class="hero" aria-label="Consultoria Estratégica BagiCo">
   <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 55% at 65% 40%,rgba(192,57,43,.09) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Consultoria Estrat&eacute;gica</div>
-    <h1 class="hero-title">Clareza &eacute; o luxo<br>mais raro do<br><em>mercado<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Consultoria estrat&eacute;gica para neg&oacute;cios que precisam de dire&ccedil;&atilde;o clara, posicionamento s&oacute;lido e um parceiro que entende tanto de estrat&eacute;gia quanto de est&eacute;tica.</p>
+    <div class="hero-badge"><span>●</span> Consultoria Estratégica</div>
+    <h1 class="hero-title">Clareza é o luxo<br>mais raro do<br><em>mercado<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Consultoria estratégica para negócios que precisam de direção clara, posicionamento sólido e um parceiro que entende tanto de estratégia quanto de estética.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
       <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero uma consultoria</a>
@@ -364,34 +364,34 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="modalidades" aria-label="Como atuamos">
-<div class="reveal"><p class="section-label">Como atuamos</p><h2 class="section-title">Consultoria para cada<br><em>est&aacute;gio do neg&oacute;cio</em></h2></div>
+<div class="reveal"><p class="section-label">Como atuamos</p><h2 class="section-title">Consultoria para cada<br><em>estágio do negócio</em></h2></div>
   <div class="cards-grid">    <article class="card reveal">
       <div class="card-num">01</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Diagn&oacute;stico Estrat&eacute;gico</h3>
-      <p class="card-desc">Sess&atilde;o aprofundada de an&aacute;lise do neg&oacute;cio, marca e comunica&ccedil;&atilde;o. Identificamos gargalos e o pr&oacute;ximo passo inteligente.</p>
-      <div class="tags"><span class="tag">An&aacute;lise completa</span><span class="tag">Relat&oacute;rio detalhado</span><span class="tag">Plano de a&ccedil;&atilde;o pr&aacute;tico</span></div>
+      <h3 class="card-title">Diagnóstico Estratégico</h3>
+      <p class="card-desc">Sessão aprofundada de análise do negócio, marca e comunicação. Identificamos gargalos e o próximo passo inteligente.</p>
+      <div class="tags"><span class="tag">Análise completa</span><span class="tag">Relatório detalhado</span><span class="tag">Plano de ação prático</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">02</div>
       <div class="card-line"></div>
       <h3 class="card-title">Mentoria de Posicionamento</h3>
-      <p class="card-desc">Sess&otilde;es para founders que querem autoridade, marca pessoal forte e crescimento estrat&eacute;gico.</p>
-      <div class="tags"><span class="tag">Sess&otilde;es individuais</span><span class="tag">Posicionamento pessoal</span><span class="tag">Estrat&eacute;gia de autoridade</span></div>
+      <p class="card-desc">Sessões para founders que querem autoridade, marca pessoal forte e crescimento estratégico.</p>
+      <div class="tags"><span class="tag">Sessões individuais</span><span class="tag">Posicionamento pessoal</span><span class="tag">Estratégia de autoridade</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">03</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Organiza&ccedil;&atilde;o de Marketing Interno</h3>
-      <p class="card-desc">Estruturamos a &aacute;rea de marketing — processos, ferramentas e indicadores. Para quem quer internalizar com qualidade.</p>
-      <div class="tags"><span class="tag">Estrutura de processos</span><span class="tag">Defini&ccedil;&atilde;o de KPIs</span><span class="tag">Treinamento de equipe</span></div>
+      <h3 class="card-title">Organização de Marketing Interno</h3>
+      <p class="card-desc">Estruturamos a área de marketing — processos, ferramentas e indicadores. Para quem quer internalizar com qualidade.</p>
+      <div class="tags"><span class="tag">Estrutura de processos</span><span class="tag">Definição de KPIs</span><span class="tag">Treinamento de equipe</span></div>
     </article>
     <article class="card reveal">
       <div class="card-num">04</div>
       <div class="card-line"></div>
-      <h3 class="card-title">Dire&ccedil;&atilde;o Estrat&eacute;gica Cont&iacute;nua</h3>
-      <p class="card-desc">O modelo mais pr&oacute;ximo da BagiCo. Poucos clientes, alta dedica&ccedil;&atilde;o e parceria real nas decis&otilde;es.</p>
-      <div class="tags"><span class="tag">Reuni&otilde;es semanais</span><span class="tag">Acesso direto &agrave; equipe</span><span class="tag">Decis&otilde;es de crescimento</span></div>
+      <h3 class="card-title">Direção Estratégica Contínua</h3>
+      <p class="card-desc">O modelo mais próximo da BagiCo. Poucos clientes, alta dedicação e parceria real nas decisões.</p>
+      <div class="tags"><span class="tag">Reuniões semanais</span><span class="tag">Acesso direto à equipe</span><span class="tag">Decisões de crescimento</span></div>
     </article>
 </div>
 </section>
@@ -400,33 +400,33 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
   <div class="diff-grid">    <div class="diff-item reveal">
       <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Vis&atilde;o de fora para dentro</h3>
-      <p class="diff-desc">Quem est&aacute; dentro do neg&oacute;cio n&atilde;o v&ecirc; tudo. Um olhar externo revela o que voc&ecirc; n&atilde;o consegue sozinho.</p>
+      <h3 class="diff-title">Visão de fora para dentro</h3>
+      <p class="diff-desc">Quem está dentro do negócio não vê tudo. Um olhar externo revela o que você não consegue sozinho.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Estrat&eacute;gia e est&eacute;tica juntas</h3>
-      <p class="diff-desc">N&atilde;o somos s&oacute; anal&iacute;ticos. Entendemos de n&uacute;meros e de marca. Uma combina&ccedil;&atilde;o rara no mercado.</p>
+      <h3 class="diff-title">Estratégia e estética juntas</h3>
+      <p class="diff-desc">Não somos só analíticos. Entendemos de números e de marca. Uma combinação rara no mercado.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Foco em resultado real</h3>
-      <p class="diff-desc">Nossas recomenda&ccedil;&otilde;es s&atilde;o pr&aacute;ticas e impl&aacute;ntaveis, n&atilde;o slides bonitos que ficam na gaveta.</p>
+      <p class="diff-desc">Nossas recomendações são práticas e implántaveis, não slides bonitos que ficam na gaveta.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Proximidade real</h3>
-      <p class="diff-desc">No modelo cont&iacute;nuo, somos seu parceiro estrat&eacute;gico, n&atilde;o um fornecedor que responde e-mail em 3 dias.</p>
+      <p class="diff-desc">No modelo contínuo, somos seu parceiro estratégico, não um fornecedor que responde e-mail em 3 dias.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Experi&ecirc;ncia multissetorial</h3>
-      <p class="diff-desc">Agro, Est&eacute;tica, Direito, Tecnologia. Segmentos diferentes, princ&iacute;pios estrat&eacute;gicos universais.</p>
+      <h3 class="diff-title">Experiência multissetorial</h3>
+      <p class="diff-desc">Agro, Estética, Direito, Tecnologia. Segmentos diferentes, princípios estratégicos universais.</p>
     </div>
     <div class="diff-item reveal">
       <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Or&ccedil;amento sob medida</h3>
-      <p class="diff-desc">De um diagn&oacute;stico pontual a uma parceria de longo prazo. O formato se adapta ao seu momento.</p>
+      <h3 class="diff-title">Orçamento sob medida</h3>
+      <p class="diff-desc">De um diagnóstico pontual a uma parceria de longo prazo. O formato se adapta ao seu momento.</p>
     </div>
 </div>
 </section>
@@ -435,40 +435,40 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
   <div class="steps">    <div class="step reveal">
       <span class="step-num">01</span>
-      <div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos onde voc&ecirc; est&aacute; e onde quer chegar. Sem compromisso, sem pitch de venda.</p></div>
+      <div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos onde você está e onde quer chegar. Sem compromisso, sem pitch de venda.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">02</span>
-      <div><h3 class="step-title">Proposta personalizada</h3><p class="step-desc">Desenhamos o formato ideal: diagn&oacute;stico, mentoria ou parceria cont&iacute;nua.</p></div>
+      <div><h3 class="step-title">Proposta personalizada</h3><p class="step-desc">Desenhamos o formato ideal: diagnóstico, mentoria ou parceria contínua.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">03</span>
-      <div><h3 class="step-title">Imers&atilde;o e diagn&oacute;stico</h3><p class="step-desc">Mergulhamos no neg&oacute;cio, marca e comunica&ccedil;&atilde;o. An&aacute;lise profunda antes de qualquer recomenda&ccedil;&atilde;o.</p></div>
+      <div><h3 class="step-title">Imersão e diagnóstico</h3><p class="step-desc">Mergulhamos no negócio, marca e comunicação. Análise profunda antes de qualquer recomendação.</p></div>
     </div>
     <div class="step reveal">
       <span class="step-num">04</span>
-      <div><h3 class="step-title">Dire&ccedil;&atilde;o e acompanhamento</h3><p class="step-desc">Entregamos as recomenda&ccedil;&otilde;es, acompanhamos a implementa&ccedil;&atilde;o e ajustamos a rota.</p></div>
+      <div><h3 class="step-title">Direção e acompanhamento</h3><p class="step-desc">Entregamos as recomendações, acompanhamos a implementação e ajustamos a rota.</p></div>
     </div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="D&uacute;vidas frequentes">
-<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+<section class="section-block dark" aria-label="Dúvidas frequentes">
+<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
   <div class="faq-list reveal">    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Para quem &eacute; a consultoria da BagiCo?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Para founders, gestores e empreendedores que precisam de clareza estrat&eacute;gica ou estrutura&ccedil;&atilde;o do marketing.</p>
+      <div class="faq-question"><span class="faq-q-text">Para quem é a consultoria da BagiCo?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Para founders, gestores e empreendedores que precisam de clareza estratégica ou estruturação do marketing.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Como funciona o diagn&oacute;stico estrat&eacute;gico?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sess&atilde;o aprofundada de imers&atilde;o no neg&oacute;cio, seguida de relat&oacute;rio com an&aacute;lise e plano de a&ccedil;&atilde;o pr&aacute;tico.</p>
+      <div class="faq-question"><span class="faq-q-text">Como funciona o diagnóstico estratégico?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Sessão aprofundada de imersão no negócio, seguida de relatório com análise e plano de ação prático.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Qual a diferen&ccedil;a entre mentoria e consultoria?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Na mentoria, foco no founder e posicionamento pessoal. Na consultoria, foco no neg&oacute;cio e na marca como um todo.</p>
+      <div class="faq-question"><span class="faq-q-text">Qual a diferença entre mentoria e consultoria?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Na mentoria, foco no founder e posicionamento pessoal. Na consultoria, foco no negócio e na marca como um todo.</p>
     </div>
     <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s tamb&eacute;m executam o que recomendam?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim. Al&eacute;m de recomendar, executamos — sites, identidade visual, social media e tr&aacute;fego pago.</p>
+      <div class="faq-question"><span class="faq-q-text">Vocês também executam o que recomendam?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Sim. Além de recomendar, executamos — sites, identidade visual, social media e tráfego pago.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question"><span class="faq-q-text">Atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div>
@@ -476,19 +476,19 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     </div>
 </div>
 </section>
-<section class="cta-section" aria-label="CTA Consultoria Estrat&eacute;gica">
-  <h2 class="cta-title reveal">Vamos construir<br>sua <em>estrat&eacute;gia</em><br>juntos<span style='color:var(--desire)'>.</span></h2>
+<section class="cta-section" aria-label="CTA Consultoria Estratégica">
+  <h2 class="cta-title reveal">Vamos construir<br>sua <em>estratégia</em><br>juntos<span style='color:var(--desire)'>.</span></h2>
   <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Conversa inicial sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
-<footer aria-label="Rodap&eacute; BagiCo">
+<footer aria-label="Rodapé BagiCo">
   <a href="/" class="footer-logo">BagiCo<span>.</span></a>
   <ul class="footer-nav">
     <li><a href="/#manifesto">Sobre</a></li>
-    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#contato">Contato</a></li>
   </ul>
@@ -498,7 +498,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
     <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
-  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+  <p class="footer-copy">© 2025 BagiCo. Todos os direitos reservados. Porto Alegre — Brasil.</p>
 </footer>
 <script>var cursor=document.getElementById('cursor'),ring=document.getElementById('cursorRing'),mx=0,my=0,rx=0,ry=0;
 document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;cursor.style.left=mx+'px';cursor.style.top=my+'px';});
