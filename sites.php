@@ -258,22 +258,25 @@
     .divider { margin: 0 28px; }
   }
 
+
   /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
   .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
-  .nav-dropdown { position: relative; }
-  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
+  .nav-dropdown { position: relative; display: flex; align-items: center; }
+  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; white-space: nowrap; }
   .nav-dropdown-trigger:hover { opacity: 0.8; }
   .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
   .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
-  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 200px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
+  .nav-dropdown-menu { position: absolute; top: calc(100% + 20px); left: 50%; transform: translateX(-50%); padding-top: 0; min-width: 220px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
   .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
+  .nav-dropdown-menu::before { content: ''; display: block; height: 20px; }
   .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
   .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
+
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -283,8 +286,9 @@
 <div class="cursor-ring" id="cursorRing"></div>
 
 <nav aria-label="Menu BagiCo">
-  <a href="/" class="logo" aria-label="BagiCo - P&aacute;gina inicial">BagiCo<span>.</span></a>
+  <a href="/" class="logo" aria-label="BagiCo">BagiCo<span>.</span></a>
   <ul class="nav-links">
+    <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
     <li><a href="/#servicos">Servi&ccedil;os</a></li>
     <li><a href="/#niveis">Modelos</a></li>
@@ -298,6 +302,9 @@
           <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
           <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
           <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
+          <a href="/ia.php"><span>&#9679;</span> IA para meu neg&oacute;cio</a>
+          <a href="/palestras.php"><span>&#9679;</span> Palestras</a>
+          <a href="/outros.php"><span>&#9679;</span> Outros servi&ccedil;os</a>
         </div>
       </div>
     </li>
@@ -552,6 +559,22 @@
       var isOpen = item.classList.contains('open');
       document.querySelectorAll('.faq-item').forEach(function(i) { i.classList.remove('open'); });
       if (!isOpen) item.classList.add('open');
+    });
+  });
+
+  // Esconde pré-visualização de URL no canto do navegador sem afetar funcionalidade
+  document.querySelectorAll('a').forEach(function(a) {
+    var href = a.getAttribute('href');
+    if (!href) return;
+    a.setAttribute('data-href', href);
+    a.removeAttribute('href');
+    a.style.cursor = 'pointer';
+    a.addEventListener('click', function(e) {
+      e.preventDefault();
+      var target = a.getAttribute('target');
+      var url = a.getAttribute('data-href');
+      if (target === '_blank') { window.open(url, '_blank'); }
+      else { window.location.href = url; }
     });
   });
 </script>

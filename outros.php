@@ -3,30 +3,27 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gest&atilde;o de Social Media em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Gest&atilde;o completa de redes sociais em Porto Alegre: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.">
-<meta name="keywords" content="gest&atilde;o de redes sociais Porto Alegre, social media Porto Alegre, Instagram Porto Alegre, conte&uacute;do para redes sociais, ag&ecirc;ncia de social media RS, BagiCo">
+<title>Outros Servi&ccedil;os &#8212; BagiCo</title>
+<meta name="description" content="Cat&aacute;logo completo de servi&ccedil;os da BagiCo: desenvolvimento de software, v&iacute;deo, design gr&aacute;fico, fotografia, conte&uacute;do escrito, e-mail marketing, assessoria de imprensa, eventos e mais.">
+<meta name="keywords" content="servi&ccedil;os de marketing Porto Alegre, desenvolvimento de software Porto Alegre, produ&ccedil;&atilde;o de v&iacute;deo, design gr&aacute;fico, fotografia corporativa, assessoria de imprensa RS, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
-<link rel="canonical" href="https://www.bagico.com.br/social-media">
+<link rel="canonical" href="https://www.bagico.com.br/outros">
 <meta name="geo.region" content="BR-RS">
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.bagico.com.br/social-media">
-<meta property="og:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta property="og:url" content="https://www.bagico.com.br/outros">
+<meta property="og:title" content="Cat&aacute;logo de Servi&ccedil;os &#8212; BagiCo Porto Alegre">
+<meta property="og:description" content="Desenvolvimento de software, v&iacute;deo, design, fotografia, conte&uacute;do, e-mail marketing, PR e muito mais. Tudo em um lugar s&oacute;.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta name="twitter:title" content="Cat&aacute;logo de Servi&ccedil;os &#8212; BagiCo">
+<meta name="twitter:description" content="Cat&aacute;logo completo de servi&ccedil;os: software, v&iacute;deo, design, fotografia, conte&uacute;do e muito mais.">
 <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAEQElEQVR42u2WW08qOxTH27k6wMgwMggoogY0MUEDemJ8IDHEeP3AJzv6BXgxun0gIXgDxQsiw8yAwND2PDThGM3e4NbkxJz+nkqzZtG1/u2/BYDBYDAYDAaDwWAwGAwGg/EHwJGC4L9hhJDvXzSEHwp+Hf9m/KFUf6iAqqqyLGOMIYSEkOfn50/+JcdxkiS5rosQ+nw3+aERHo9nf3/fsizbtg3DSKfTtVqt1+v9qouDGTpYW1sTRbHZbAIABEFIpVKRSERV1ZmZmVgs1mw2f5NqpHYMjTBNs9PpOI7TaDSKxSLGOJPJ0EbSI/HmVAxm6MAwDFVVAQCSJG1vb2OMT09PC4XC8fExhDCVSr1P9aEyhFEUf5203W77/X4AAMbY4/Goqtrr9RqNxiA+GAwihCzLCofDDw8PP378kCQJAJDJZBBCZ2dnNBvGOJ/PJ5NJOhZFUdd1QsjT0xPG+CsVoMryPC8Igq7rfr//9PQUALC0tLS2toYQWlpaWllZoT3e3NwcGxvTNG13dzcQCCiKcnBwkEwmAQCzs7PFYpFmG0hUKpUIIZFIJJvNSpLk9XpzuZyu66PrwI0SRAjRNC0UCiWTyXa7TfvtOM7Z2dnT09PC">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Gest&atilde;o de Redes Sociais","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Gest&atilde;o completa de social media: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quantos posts s&atilde;o publicados por m&ecirc;s?","acceptedAnswer":{"@type":"Answer","text":"Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo."}},{"@type":"Question","name":"Preciso aprovar os conte&uacute;dos antes de publicar?","acceptedAnswer":{"@type":"Answer","text":"Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina."}},{"@type":"Question","name":"Quais plataformas voc&ecirc;s gerenciam?","acceptedAnswer":{"@type":"Answer","text":"Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico."}},{"@type":"Question","name":"Em quanto tempo vejo crescimento?","acceptedAnswer":{"@type":"Answer","text":"Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada."}},{"@type":"Question","name":"Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?","acceptedAnswer":{"@type":"Answer","text":"Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo."}}]}
+{"@context":"https://schema.org","@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","description":"Cat&aacute;logo completo de servi&ccedil;os da BagiCo: desenvolvimento de software, v&iacute;deo, design gr&aacute;fico, fotografia, conte&uacute;do, e-mail marketing, PR e eventos.","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -45,6 +42,21 @@ nav::before{content:'';position:absolute;inset:0;background:linear-gradient(to b
 .nav-links a:hover{color:var(--ivory);}
 .nav-cta{position:relative;z-index:1;font-size:12px;color:var(--ivory);text-decoration:none;letter-spacing:.12em;text-transform:uppercase;border:1px solid rgba(192,57,43,.5);padding:10px 22px;transition:background .3s,border-color .3s;}
 .nav-cta:hover{background:var(--desire);border-color:var(--desire);}
+  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .nav-dropdown { position: relative; }
+  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
+  .nav-dropdown-trigger:hover { opacity: 0.8; }
+  .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
+  .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
+  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 210px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
+  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
+  .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
+  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
+  .nav-dropdown-menu a:last-child { border-bottom: none; }
+  .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
+  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 .hero{min-height:100vh;display:flex;align-items:center;padding:0 60px;position:relative;overflow:hidden;}
 .hero-content{position:relative;z-index:2;max-width:800px;}
 .hero-badge{display:inline-flex;align-items:center;gap:8px;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--desire);border:1px solid rgba(192,57,43,.3);padding:8px 20px;margin-bottom:40px;opacity:0;animation:fadeUp .8s ease .2s forwards;}
@@ -119,7 +131,22 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 .reveal{opacity:0;transform:translateY(32px);transition:opacity .8s ease,transform .8s ease;}
 .reveal.visible{opacity:1;transform:translateY(0);}
 @media(max-width:900px){nav{padding:24px 28px;}.nav-links{display:none;}.hero{padding:120px 28px 80px;}.section-block{padding:80px 28px;}.cards-grid{grid-template-columns:1fr;}.diff-grid{grid-template-columns:1fr;}.cta-section{padding:80px 28px;}footer{padding:40px 28px;flex-direction:column;text-align:center;}.divider{margin:0 28px;}}
-
+  .catalog { padding: 120px 60px; }
+  .catalog.dark { background: var(--carbon); }
+  .catalog-header { margin-bottom: 64px; }
+  .catalog-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: var(--graphite); }
+  .catalog-card { background: var(--noir); padding: 36px 32px; transition: background .3s; }
+  .catalog-card:hover { background: var(--carbon); }
+  .catalog-category { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ivory); margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--graphite); display: flex; align-items: center; gap: 12px; }
+  .catalog-category::before { content: ''; width: 24px; height: 1px; background: var(--desire); flex-shrink: 0; }
+  .catalog-items { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+  .catalog-items li { font-size: 13px; color: var(--ash); display: flex; align-items: flex-start; gap: 10px; line-height: 1.5; }
+  .catalog-items li::before { content: ''; width: 12px; height: 1px; background: var(--desire); margin-top: 9px; flex-shrink: 0; opacity: .6; }
+  .catalog-note { margin-top: 80px; border: 1px solid var(--graphite); padding: 40px; display: flex; gap: 32px; align-items: flex-start; }
+  .catalog-note-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--desire); margin-top: 6px; flex-shrink: 0; }
+  .catalog-note-text { font-size: 14px; color: var(--ash); line-height: 1.8; }
+  .catalog-note-text strong { color: var(--ivory); font-weight: 400; }
+  @media(max-width:900px){ .catalog { padding: 80px 28px; } .catalog-grid { grid-template-columns: 1fr; } }
   /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
@@ -137,7 +164,6 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
-
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -173,139 +199,155 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 </nav>
-<section class="hero" aria-label="Social Media BagiCo">
-  <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 55% 50% at 70% 40%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
+<section class="hero" aria-label="Outros Servi&ccedil;os BagiCo">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 50% at 65% 40%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Social Media</div>
-    <h1 class="hero-title">Redes sociais que<br><em>vendem de verdade<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Gest&atilde;o estrat&eacute;gica com foco em crescimento real, autoridade de marca e gera&ccedil;&atilde;o de leads. Conte&uacute;do que para o scroll e transforma seguidores em clientes.</p>
+    <div class="hero-badge"><span>&#9679;</span> Cat&aacute;logo de Servi&ccedil;os</div>
+    <h1 class="hero-title">Tudo que sua<br>marca precisa<br><em>em um lugar<span class="dot">.</span></em></h1>
+    <p class="hero-sub">Da cria&ccedil;&atilde;o ao desenvolvimento, do conte&uacute;do &agrave; tecnologia. Um cat&aacute;logo amplo de servi&ccedil;os para atender cada est&aacute;gio do seu neg&oacute;cio.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero crescer nas redes</a>
-      <a href="#entregas" class="btn-secondary">Ver o que fazemos</a>
+      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar com a BagiCo</a>
+      <a href="#catalogo" class="btn-secondary">Ver cat&aacute;logo</a>
     </div>
   </div>
 </section>
+<div id="catalogo"></div>
+<style>
+  .catalog { padding: 120px 60px; }
+  .catalog.dark { background: var(--carbon); }
+  .catalog-header { margin-bottom: 64px; }
+  .catalog-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: var(--graphite); }
+  .catalog-card { background: var(--noir); padding: 36px 32px; transition: background .3s; }
+  .catalog-card:hover { background: var(--carbon); }
+  .catalog-category { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ivory); margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--graphite); display: flex; align-items: center; gap: 12px; }
+  .catalog-category::before { content: ''; width: 24px; height: 1px; background: var(--desire); flex-shrink: 0; }
+  .catalog-items { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+  .catalog-items li { font-size: 13px; color: var(--ash); display: flex; align-items: flex-start; gap: 10px; line-height: 1.5; }
+  .catalog-items li::before { content: ''; width: 12px; height: 1px; background: var(--desire); margin-top: 9px; flex-shrink: 0; opacity: .6; }
+  .catalog-note { margin-top: 80px; border: 1px solid var(--graphite); padding: 40px; display: flex; gap: 32px; align-items: flex-start; }
+  .catalog-note-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--desire); margin-top: 6px; flex-shrink: 0; }
+  .catalog-note-text { font-size: 14px; color: var(--ash); line-height: 1.8; }
+  .catalog-note-text strong { color: var(--ivory); font-weight: 400; }
+  @media(max-width:900px){ .catalog { padding: 80px 28px; } .catalog-grid { grid-template-columns: 1fr; } }</style>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block" id="entregas" aria-label="Nossas entregas">
-  <div class="reveal"><p class="section-label">Nossas entregas</p><h2 class="section-title">Social media com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
-  <div class="cards-grid">    <article class="card reveal">
-      <div class="card-num">01</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Planejamento Editorial</h3>
-      <p class="card-desc">Calend&aacute;rio mensal alinhado com objetivos da marca. Nada publicado sem prop&oacute;sito.</p>
-      <div class="tags"><span class="tag">Calend&aacute;rio mensal</span><span class="tag">Pauta estrat&eacute;gica</span><span class="tag">Mix de formatos</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">02</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Produ&ccedil;&atilde;o de Conte&uacute;do</h3>
-      <p class="card-desc">Posts, carros&eacute;is, stories e reels com design premium e copywriting que converte.</p>
-      <div class="tags"><span class="tag">Design de posts</span><span class="tag">Copywriting</span><span class="tag">Roteiros para Reels</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">03</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Gest&atilde;o e Publica&ccedil;&atilde;o</h3>
-      <p class="card-desc">Agendamento, publica&ccedil;&atilde;o e monitoramento. Voc&ecirc; foca no neg&oacute;cio, a gente cuida das redes.</p>
-      <div class="tags"><span class="tag">Publica&ccedil;&atilde;o no hor&aacute;rio ideal</span><span class="tag">Monitoramento</span><span class="tag">Gest&atilde;o de comentarios</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">04</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">An&aacute;lise e Relat&oacute;rios</h3>
-      <p class="card-desc">M&eacute;tricas que importam: alcance, engajamento, crescimento e leads. Decis&otilde;es por dados.</p>
-      <div class="tags"><span class="tag">Relat&oacute;rio mensal</span><span class="tag">M&eacute;tricas de resultado</span><span class="tag">Ajustes estrat&eacute;gicos</span></div>
-    </article>
-</div>
+<section class="catalog dark" aria-label="Cat&aacute;logo completo de servi&ccedil;os BagiCo">
+  <div class="catalog-header reveal">
+    <p class="section-label">Cat&aacute;logo completo</p>
+    <h2 class="section-title">Todos os servi&ccedil;os<br><em>em um lugar s&oacute;</em></h2>
+  </div>
+  <div class="catalog-grid">
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Desenvolvimento de Software</h3>
+      <ul class="catalog-items">
+        <li>Desenvolvimento de sistemas web</li>
+        <li>Desenvolvimento de sistemas locais</li>
+        <li>Desenvolvimento de aplicativos webapp</li>
+        <li>Desenvolvimento de aplicativos m&oacute;veis (iOS e Android)</li>
+        <li>APIs e integra&ccedil;&otilde;es entre sistemas</li>
+        <li>Automa&ccedil;&atilde;o de processos com software</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">V&iacute;deo</h3>
+      <ul class="catalog-items">
+        <li>Capta&ccedil;&atilde;o de v&iacute;deo</li>
+        <li>Roteiriza&ccedil;&atilde;o de v&iacute;deos</li>
+        <li>Edi&ccedil;&atilde;o de v&iacute;deos</li>
+        <li>V&iacute;deos institucionais</li>
+        <li>V&iacute;deos para redes sociais e Reels</li>
+        <li>Motion graphics e anima&ccedil;&atilde;o</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Design Gr&aacute;fico</h3>
+      <ul class="catalog-items">
+        <li>Pe&ccedil;as para impresso</li>
+        <li>Apresenta&ccedil;&otilde;es profissionais</li>
+        <li>Embalagens e r&oacute;tulos</li>
+        <li>Papelaria corporativa</li>
+        <li>Materiais promocionais</li>
+        <li>Sinaliza&ccedil;&atilde;o e banners</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Fotografia</h3>
+      <ul class="catalog-items">
+        <li>Fotografia de produto</li>
+        <li>Fotografia corporativa</li>
+        <li>Fotografia institucional</li>
+        <li>Ensaios para redes sociais</li>
+        <li>Fotografia de eventos</li>
+        <li>Tratamento e edi&ccedil;&atilde;o de imagens</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Produ&ccedil;&atilde;o de Conte&uacute;do Escrito</h3>
+      <ul class="catalog-items">
+        <li>Artigos e blog posts</li>
+        <li>Copywriting para landing pages</li>
+        <li>Roteiros para v&iacute;deos e podcasts</li>
+        <li>E-books e white papers</li>
+        <li>Conte&uacute;do para redes sociais</li>
+        <li>Textos institucionais e apresenta&ccedil;&otilde;es</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">E-mail Marketing</h3>
+      <ul class="catalog-items">
+        <li>Estrat&eacute;gia de e-mail marketing</li>
+        <li>Cria&ccedil;&atilde;o de fluxos de automa&ccedil;&atilde;o</li>
+        <li>Design de templates</li>
+        <li>Cria&ccedil;&atilde;o de campanhas</li>
+        <li>Segmenta&ccedil;&atilde;o de listas</li>
+        <li>An&aacute;lise de resultados</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Assessoria de Imprensa e PR</h3>
+      <ul class="catalog-items">
+        <li>Elabora&ccedil;&atilde;o de releases</li>
+        <li>Relacionamento com ve&iacute;culos de m&iacute;dia</li>
+        <li>Posicionamento na imprensa</li>
+        <li>Gest&atilde;o de crise de imagem</li>
+        <li>Monitoramento de m&iacute;dia</li>
+        <li>Media training</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Eventos</h3>
+      <ul class="catalog-items">
+        <li>Planejamento de eventos corporativos</li>
+        <li>Comunica&ccedil;&atilde;o e divulga&ccedil;&atilde;o de eventos</li>
+        <li>Materiais gr&aacute;ficos para eventos</li>
+        <li>Cober tura fotogr&aacute;fica e videogr&aacute;fica</li>
+        <li>P&oacute;s-evento e conte&uacute;do de repercuss&atilde;o</li>
+        <li>Lan&ccedil;amentos de produtos e marcas</li>
+      </ul>
+    </div>
+    <div class="catalog-card reveal">
+      <h3 class="catalog-category">Outros</h3>
+      <ul class="catalog-items">
+        <li>Naming (cria&ccedil;&atilde;o de nomes de marca)</li>
+        <li>Pesquisa de mercado e benchmarking</li>
+        <li>Planejamento estrat&eacute;gico de comunica&ccedil;&atilde;o</li>
+        <li>Tradu&ccedil;&atilde;o e adapta&ccedil;&atilde;o de conte&uacute;do</li>
+        <li>Podcast — produ&ccedil;&atilde;o e edi&ccedil;&atilde;o</li>
+        <li>Projetos sob consulta</li>
+      </ul>
+    </div>
+  </div>
+  <div class="catalog-note reveal">
+    <div class="catalog-note-dot"></div>
+    <p class="catalog-note-text">N&atilde;o encontrou o que precisava? <strong>Entre em contato.</strong> Atendemos projetos sob consulta e trabalhamos com parceiros especializados para entregar o que seu neg&oacute;cio precisa — mesmo quando n&atilde;o est&aacute; nessa lista.</p>
+  </div>
 </section>
-<div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="Diferenciais BagiCo">
-  <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
-  <div class="diff-grid">    <div class="diff-item reveal">
-      <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Estrat&eacute;gia primeiro</h3>
-      <p class="diff-desc">N&atilde;o publicamos por publicar. Cada post tem objetivo claro na jornada do cliente.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Design premium</h3>
-      <p class="diff-desc">Artes que se destacam no feed. Identidade visual consistente e reconhec&iacute;vel.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Copywriting que converte</h3>
-      <p class="diff-desc">Textos que param o scroll, geram identifica&ccedil;&atilde;o e levam o seguidor ao pr&oacute;ximo passo.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Todas as plataformas</h3>
-      <p class="diff-desc">Instagram, TikTok, LinkedIn, Facebook. Onde seu p&uacute;blico estiver, a BagiCo est&aacute;.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Crescimento org&acirc;nico real</h3>
-      <p class="diff-desc">Foco em seguidores qualificados, n&atilde;o n&uacute;meros vazios. Audi&ecirc;ncia que compra e indica.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Integra&ccedil;&atilde;o com tr&aacute;fego pago</h3>
-      <p class="diff-desc">Social media e an&uacute;ncios trabalhando juntos. Conte&uacute;do org&acirc;nico potencializa os ads.</p>
-    </div>
-</div>
-</section>
-<div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block" aria-label="Como funciona">
-  <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
-  <div class="steps">    <div class="step reveal">
-      <span class="step-num">01</span>
-      <div><h3 class="step-title">Diagn&oacute;stico das redes</h3><p class="step-desc">Auditamos seus perfis, analisamos o que funciona e identificamos oportunidades. Ponto de partida com dados reais.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">02</span>
-      <div><h3 class="step-title">Estrat&eacute;gia e posicionamento</h3><p class="step-desc">Tom de voz, pilares de conte&uacute;do, formatos priorit&aacute;rios e objetivos mensais.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">03</span>
-      <div><h3 class="step-title">Produ&ccedil;&atilde;o e publica&ccedil;&atilde;o</h3><p class="step-desc">Criamos e publicamos dentro do calend&aacute;rio aprovado. Voc&ecirc; revisa se quiser.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">04</span>
-      <div><h3 class="step-title">An&aacute;lise e otimiza&ccedil;&atilde;o</h3><p class="step-desc">Monitoramos e ajustamos mensalmente. O que funciona escala, o que n&atilde;o funciona muda.</p></div>
-    </div>
-</div>
-</section>
-<div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="D&uacute;vidas frequentes">
-  <div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
-  <div class="faq-list reveal">    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quantos posts s&atilde;o publicados por m&ecirc;s?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Preciso aprovar os conte&uacute;dos antes de publicar?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quais plataformas voc&ecirc;s gerenciam?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo crescimento?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo.</p>
-    </div>
-</div>
-</section>
-<section class="cta-section" aria-label="CTA Social Media">
-  <h2 class="cta-title reveal">Suas redes trabalhando<br><em>por voc&ecirc;</em><span style='color:var(--desire)'>.</span></h2>
+<section class="cta-section" aria-label="CTA Outros Servi&ccedil;os">
+  <h2 class="cta-title reveal">Encontrou o que<br>precisava<span style="color:var(--desire)">.</span></h2>
   <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
-    <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
+    <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
 <footer aria-label="Rodap&eacute; BagiCo">
@@ -317,10 +359,10 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <li><a href="/#contato">Contato</a></li>
   </ul>
   <div class="footer-social">
-    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
-    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
-    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
-    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
   <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
 </footer>

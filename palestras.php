@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gest&atilde;o de Social Media em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Gest&atilde;o completa de redes sociais em Porto Alegre: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.">
-<meta name="keywords" content="gest&atilde;o de redes sociais Porto Alegre, social media Porto Alegre, Instagram Porto Alegre, conte&uacute;do para redes sociais, ag&ecirc;ncia de social media RS, BagiCo">
+<title>Palestras de Branding, Marketing e IA em Porto Alegre &#8212; BagiCo</title>
+<meta name="description" content="Palestras sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial para empresas e eventos em Porto Alegre e todo o Brasil. Conte&uacute;do visceral, pr&aacute;tico e aplic&aacute;vel.">
+<meta name="keywords" content="palestras de marketing Porto Alegre, palestra de branding, palestra sobre IA empresas, palestrante de marketing RS, eventos corporativos Porto Alegre, BagiCo palestras">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
-<link rel="canonical" href="https://www.bagico.com.br/social-media">
+<link rel="canonical" href="https://www.bagico.com.br/palestras">
 <meta name="geo.region" content="BR-RS">
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.bagico.com.br/social-media">
-<meta property="og:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta property="og:url" content="https://www.bagico.com.br/palestras">
+<meta property="og:title" content="Palestras de Branding, Marketing e IA &#8212; BagiCo">
+<meta property="og:description" content="Palestras pr&aacute;ticas e viscerais sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial. Para empresas e eventos em todo o Brasil.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta name="twitter:title" content="Palestras de Branding, Marketing e IA &#8212; BagiCo">
+<meta name="twitter:description" content="Palestras pr&aacute;ticas e viscerais sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial. Para empresas e eventos em todo o Brasil.">
 <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAEQElEQVR42u2WW08qOxTH27k6wMgwMggoogY0MUEDemJ8IDHEeP3AJzv6BXgxun0gIXgDxQsiw8yAwND2PDThGM3e4NbkxJz+nkqzZtG1/u2/BYDBYDAYDAaDwWAwGAwGg/EHwJGC4L9hhJDvXzSEHwp+Hf9m/KFUf6iAqqqyLGOMIYSEkOfn50/+JcdxkiS5rosQ+nw3+aERHo9nf3/fsizbtg3DSKfTtVqt1+v9qouDGTpYW1sTRbHZbAIABEFIpVKRSERV1ZmZmVgs1mw2f5NqpHYMjTBNs9PpOI7TaDSKxSLGOJPJ0EbSI/HmVAxm6MAwDFVVAQCSJG1vb2OMT09PC4XC8fExhDCVSr1P9aEyhFEUf5203W77/X4AAMbY4/Goqtrr9RqNxiA+GAwihCzLCofDDw8PP378kCQJAJDJZBBCZ2dnNBvGOJ/PJ5NJOhZFUdd1QsjT0xPG+CsVoMryPC8Igq7rfr//9PQUALC0tLS2toYQWlpaWllZoT3e3NwcGxvTNG13dzcQCCiKcnBwkEwmAQCzs7PFYpFmG0hUKpUIIZFIJJvNSpLk9XpzuZyu66PrwI0SRAjRNC0UCiWTyXa7TfvtOM7Z2dnT09PC">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Gest&atilde;o de Redes Sociais","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Gest&atilde;o completa de social media: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Palestras Corporativas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Palestras sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial para empresas e eventos em Porto Alegre e todo o Brasil.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quantos posts s&atilde;o publicados por m&ecirc;s?","acceptedAnswer":{"@type":"Answer","text":"Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo."}},{"@type":"Question","name":"Preciso aprovar os conte&uacute;dos antes de publicar?","acceptedAnswer":{"@type":"Answer","text":"Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina."}},{"@type":"Question","name":"Quais plataformas voc&ecirc;s gerenciam?","acceptedAnswer":{"@type":"Answer","text":"Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico."}},{"@type":"Question","name":"Em quanto tempo vejo crescimento?","acceptedAnswer":{"@type":"Answer","text":"Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada."}},{"@type":"Question","name":"Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?","acceptedAnswer":{"@type":"Answer","text":"Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quais s&atilde;o os temas dispon&iacute;veis?","acceptedAnswer":{"@type":"Answer","text":"Branding e posicionamento de marca, marketing digital, intelig&ecirc;ncia artificial para neg&oacute;cios e marca pessoal para founders. Temas customizados tamb&eacute;m s&atilde;o poss&iacute;veis."}},{"@type":"Question","name":"As palestras s&atilde;o presenciais ou online?","acceptedAnswer":{"@type":"Answer","text":"Ambas. Realizamos palestras presenciais em Porto Alegre e regi&atilde;o, e online para qualquer localidade do Brasil."}},{"@type":"Question","name":"Qual a dura&ccedil;&atilde;o m&iacute;nima e m&aacute;xima?","acceptedAnswer":{"@type":"Answer","text":"De palestras de 30 minutos at&eacute; workshops de meio dia. O formato &eacute; adaptado &agrave; agenda e necessidade do evento."}},{"@type":"Question","name":"Voc&ecirc;s fazem workshops al&eacute;m de palestras?","acceptedAnswer":{"@type":"Answer","text":"Sim. Al&eacute;m de palestras, oferecemos workshops pr&aacute;ticos onde os participantes trabalham em exerc&iacute;cios aplicados ao seu neg&oacute;cio."}},{"@type":"Question","name":"Como &eacute; feito o or&ccedil;amento?","acceptedAnswer":{"@type":"Answer","text":"O valor varia conforme o formato, dura&ccedil;&atilde;o, localidade e personaliza&ccedil;&atilde;o. Entre em contato para receber uma proposta."}}]}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -45,6 +45,21 @@ nav::before{content:'';position:absolute;inset:0;background:linear-gradient(to b
 .nav-links a:hover{color:var(--ivory);}
 .nav-cta{position:relative;z-index:1;font-size:12px;color:var(--ivory);text-decoration:none;letter-spacing:.12em;text-transform:uppercase;border:1px solid rgba(192,57,43,.5);padding:10px 22px;transition:background .3s,border-color .3s;}
 .nav-cta:hover{background:var(--desire);border-color:var(--desire);}
+  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .nav-dropdown { position: relative; }
+  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
+  .nav-dropdown-trigger:hover { opacity: 0.8; }
+  .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
+  .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
+  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 210px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
+  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
+  .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
+  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
+  .nav-dropdown-menu a:last-child { border-bottom: none; }
+  .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
+  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 .hero{min-height:100vh;display:flex;align-items:center;padding:0 60px;position:relative;overflow:hidden;}
 .hero-content{position:relative;z-index:2;max-width:800px;}
 .hero-badge{display:inline-flex;align-items:center;gap:8px;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--desire);border:1px solid rgba(192,57,43,.3);padding:8px 20px;margin-bottom:40px;opacity:0;animation:fadeUp .8s ease .2s forwards;}
@@ -119,7 +134,6 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 .reveal{opacity:0;transform:translateY(32px);transition:opacity .8s ease,transform .8s ease;}
 .reveal.visible{opacity:1;transform:translateY(0);}
 @media(max-width:900px){nav{padding:24px 28px;}.nav-links{display:none;}.hero{padding:120px 28px 80px;}.section-block{padding:80px 28px;}.cards-grid{grid-template-columns:1fr;}.diff-grid{grid-template-columns:1fr;}.cta-section{padding:80px 28px;}footer{padding:40px 28px;flex-direction:column;text-align:center;}.divider{margin:0 28px;}}
-
   /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
@@ -137,7 +151,6 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
-
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -173,139 +186,65 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 </nav>
-<section class="hero" aria-label="Social Media BagiCo">
-  <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 55% 50% at 70% 40%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
+<section class="hero" aria-label="Palestras BagiCo">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 55% at 68% 38%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Social Media</div>
-    <h1 class="hero-title">Redes sociais que<br><em>vendem de verdade<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Gest&atilde;o estrat&eacute;gica com foco em crescimento real, autoridade de marca e gera&ccedil;&atilde;o de leads. Conte&uacute;do que para o scroll e transforma seguidores em clientes.</p>
+    <div class="hero-badge"><span>&#9679;</span> Palestras</div>
+    <h1 class="hero-title">Conte&uacute;do que<br><em>provoca e transforma<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Palestras pr&aacute;ticas, viscerais e aplic&aacute;veis sobre branding, estrat&eacute;gia de marca, marketing digital e intelig&ecirc;ncia artificial. Para quem quer sair diferente de como entrou.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero crescer nas redes</a>
-      <a href="#entregas" class="btn-secondary">Ver o que fazemos</a>
+      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero uma palestra</a>
+      <a href="#temas" class="btn-secondary">Ver temas</a>
     </div>
   </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block" id="entregas" aria-label="Nossas entregas">
-  <div class="reveal"><p class="section-label">Nossas entregas</p><h2 class="section-title">Social media com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
-  <div class="cards-grid">    <article class="card reveal">
-      <div class="card-num">01</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Planejamento Editorial</h3>
-      <p class="card-desc">Calend&aacute;rio mensal alinhado com objetivos da marca. Nada publicado sem prop&oacute;sito.</p>
-      <div class="tags"><span class="tag">Calend&aacute;rio mensal</span><span class="tag">Pauta estrat&eacute;gica</span><span class="tag">Mix de formatos</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">02</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Produ&ccedil;&atilde;o de Conte&uacute;do</h3>
-      <p class="card-desc">Posts, carros&eacute;is, stories e reels com design premium e copywriting que converte.</p>
-      <div class="tags"><span class="tag">Design de posts</span><span class="tag">Copywriting</span><span class="tag">Roteiros para Reels</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">03</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Gest&atilde;o e Publica&ccedil;&atilde;o</h3>
-      <p class="card-desc">Agendamento, publica&ccedil;&atilde;o e monitoramento. Voc&ecirc; foca no neg&oacute;cio, a gente cuida das redes.</p>
-      <div class="tags"><span class="tag">Publica&ccedil;&atilde;o no hor&aacute;rio ideal</span><span class="tag">Monitoramento</span><span class="tag">Gest&atilde;o de comentarios</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">04</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">An&aacute;lise e Relat&oacute;rios</h3>
-      <p class="card-desc">M&eacute;tricas que importam: alcance, engajamento, crescimento e leads. Decis&otilde;es por dados.</p>
-      <div class="tags"><span class="tag">Relat&oacute;rio mensal</span><span class="tag">M&eacute;tricas de resultado</span><span class="tag">Ajustes estrat&eacute;gicos</span></div>
-    </article>
+<section class="section-block" id="temas" aria-label="Temas que abordamos">
+  <div class="reveal"><p class="section-label">Temas que abordamos</p><h2 class="section-title">Palestras que<br><em>geram impacto real</em></h2></div>
+  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Branding e Posicionamento de Marca</h3><p class="card-desc">Como construir marcas que geram desejo, autoridade e reconhecimento. Da identidade ao posicionamento estrat&eacute;gico — com exemplos reais e aplic&aacute;veis.</p><div class="tags"><span class="tag">Identidade de marca</span><span class="tag">Posicionamento estrat&eacute;gico</span><span class="tag">Casos pr&aacute;ticos</span></div></article>
+<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Marketing Digital na Pr&aacute;tica</h3><p class="card-desc">Estrat&eacute;gias reais de marketing digital: redes sociais, tr&aacute;fego pago, conte&uacute;do e SEO. Sem teoria vazia — s&oacute; o que realmente gera resultado.</p><div class="tags"><span class="tag">Redes sociais</span><span class="tag">Tr&aacute;fego pago</span><span class="tag">Conte&uacute;do estrat&eacute;gico</span></div></article>
+<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA para Neg&oacute;cios</h3><p class="card-desc">Como as empresas est&atilde;o usando intelig&ecirc;ncia artificial para automatizar, prospectar e crescer. Ferramentas, casos de uso e como come&ccedil;ar hoje.</p><div class="tags"><span class="tag">Automa&ccedil;&atilde;o com IA</span><span class="tag">Prospec&ccedil;&atilde;o inteligente</span><span class="tag">Ferramentas pr&aacute;ticas</span></div></article>
+<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Marca Pessoal para Founders</h3><p class="card-desc">Como founders e l&iacute;deres constroem autoridade e posicionamento pessoal que fortalecem o neg&oacute;cio. Presença digital, conte&uacute;do e consist&ecirc;ncia.</p><div class="tags"><span class="tag">Posicionamento pessoal</span><span class="tag">Presen&ccedil;a digital</span><span class="tag">Autoridade de mercado</span></div></article>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="Diferenciais BagiCo">
+<section class="section-block dark" aria-label="Diferenciais">
   <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
-  <div class="diff-grid">    <div class="diff-item reveal">
-      <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Estrat&eacute;gia primeiro</h3>
-      <p class="diff-desc">N&atilde;o publicamos por publicar. Cada post tem objetivo claro na jornada do cliente.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Design premium</h3>
-      <p class="diff-desc">Artes que se destacam no feed. Identidade visual consistente e reconhec&iacute;vel.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Copywriting que converte</h3>
-      <p class="diff-desc">Textos que param o scroll, geram identifica&ccedil;&atilde;o e levam o seguidor ao pr&oacute;ximo passo.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Todas as plataformas</h3>
-      <p class="diff-desc">Instagram, TikTok, LinkedIn, Facebook. Onde seu p&uacute;blico estiver, a BagiCo est&aacute;.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Crescimento org&acirc;nico real</h3>
-      <p class="diff-desc">Foco em seguidores qualificados, n&atilde;o n&uacute;meros vazios. Audi&ecirc;ncia que compra e indica.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Integra&ccedil;&atilde;o com tr&aacute;fego pago</h3>
-      <p class="diff-desc">Social media e an&uacute;ncios trabalhando juntos. Conte&uacute;do org&acirc;nico potencializa os ads.</p>
-    </div>
+  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Conte&uacute;do visceral</h3><p class="diff-desc">N&atilde;o fazemos palestras gen&eacute;ricas. Cada apresenta&ccedil;&atilde;o &eacute; adaptada ao p&uacute;blico e ao contexto do evento — com exemplos reais e linguagem direta.</p></div>
+<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Pr&aacute;tico e aplic&aacute;vel</h3><p class="diff-desc">O objetivo &eacute; que as pessoas saiam com algo que podem usar imediatamente. N&atilde;o s&oacute; inspira&ccedil;&atilde;o — a&ccedil;&atilde;o.</p></div>
+<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Experi&ecirc;ncia real de mercado</h3><p class="diff-desc">Falamos do que vivemos. Cases reais, erros reais, aprendizados reais. Sem teoria de livro didático.</p></div>
+<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Formatos flex&iacute;veis</h3><p class="diff-desc">Palestra, workshop, painel ou keynote. Presencial ou online. Adaptamos o formato &agrave;s necessidades do evento.</p></div>
+<div class="diff-item reveal"><div class="diff-num">05<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Personaliza&ccedil;&atilde;o por setor</h3><p class="diff-desc">Adaptamos o conte&uacute;do para o setor e p&uacute;blico do evento — Agro, Sa&uacute;de, Tecnologia, Varejo, Servi&ccedil;os e mais.</p></div>
+<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Suporte completo ao evento</h3><p class="diff-desc">Auxiliamos na divulga&ccedil;&atilde;o, materiais de apoio e comunica&ccedil;&atilde;o do evento se necess&aacute;rio.</p></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
   <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
-  <div class="steps">    <div class="step reveal">
-      <span class="step-num">01</span>
-      <div><h3 class="step-title">Diagn&oacute;stico das redes</h3><p class="step-desc">Auditamos seus perfis, analisamos o que funciona e identificamos oportunidades. Ponto de partida com dados reais.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">02</span>
-      <div><h3 class="step-title">Estrat&eacute;gia e posicionamento</h3><p class="step-desc">Tom de voz, pilares de conte&uacute;do, formatos priorit&aacute;rios e objetivos mensais.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">03</span>
-      <div><h3 class="step-title">Produ&ccedil;&atilde;o e publica&ccedil;&atilde;o</h3><p class="step-desc">Criamos e publicamos dentro do calend&aacute;rio aprovado. Voc&ecirc; revisa se quiser.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">04</span>
-      <div><h3 class="step-title">An&aacute;lise e otimiza&ccedil;&atilde;o</h3><p class="step-desc">Monitoramos e ajustamos mensalmente. O que funciona escala, o que n&atilde;o funciona muda.</p></div>
-    </div>
+  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Briefing do evento</h3><p class="step-desc">Entendemos o perfil do p&uacute;blico, objetivo do evento, formato e dura&ccedil;&atilde;o desejada. Quanto mais detalhes, melhor a palestra.</p></div></div>
+<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Proposta e personaliza&ccedil;&atilde;o</h3><p class="step-desc">Apresentamos a proposta de conte&uacute;do e adaptamos o tema ao contexto espec&iacute;fico do seu evento e setor.</p></div></div>
+<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Prepara&ccedil;&atilde;o e alinhamento</h3><p class="step-desc">Desenvolvemos o conte&uacute;do, apresenta&ccedil;&atilde;o e materiais. Fazemos um alinhamento final antes do evento.</p></div></div>
+<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Apresenta&ccedil;&atilde;o e follow-up</h3><p class="step-desc">Realizamos a palestra e disponibilizamos materiais de apoio. Feedback e avalia&ccedil;&atilde;o para evolu&ccedil;&atilde;o cont&iacute;nua.</p></div></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="D&uacute;vidas frequentes">
+<section class="section-block dark" aria-label="FAQ">
   <div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
-  <div class="faq-list reveal">    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quantos posts s&atilde;o publicados por m&ecirc;s?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Preciso aprovar os conte&uacute;dos antes de publicar?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quais plataformas voc&ecirc;s gerenciam?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo crescimento?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo.</p>
-    </div>
+  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais s&atilde;o os temas dispon&iacute;veis?</span><span class="faq-icon">+</span></div><p class="faq-answer">Branding e posicionamento de marca, marketing digital, intelig&ecirc;ncia artificial para neg&oacute;cios e marca pessoal para founders. Temas customizados tamb&eacute;m s&atilde;o poss&iacute;veis.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">As palestras s&atilde;o presenciais ou online?</span><span class="faq-icon">+</span></div><p class="faq-answer">Ambas. Realizamos palestras presenciais em Porto Alegre e regi&atilde;o, e online para qualquer localidade do Brasil.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Qual a dura&ccedil;&atilde;o m&iacute;nima e m&aacute;xima?</span><span class="faq-icon">+</span></div><p class="faq-answer">De palestras de 30 minutos at&eacute; workshops de meio dia. O formato &eacute; adaptado &agrave; agenda e necessidade do evento.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem workshops al&eacute;m de palestras?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. Al&eacute;m de palestras, oferecemos workshops pr&aacute;ticos onde os participantes trabalham em exerc&iacute;cios aplicados ao seu neg&oacute;cio.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Como &eacute; feito o or&ccedil;amento?</span><span class="faq-icon">+</span></div><p class="faq-answer">O valor varia conforme o formato, dura&ccedil;&atilde;o, localidade e personaliza&ccedil;&atilde;o. Entre em contato para receber uma proposta.</p></div>
 </div>
 </section>
-<section class="cta-section" aria-label="CTA Social Media">
-  <h2 class="cta-title reveal">Suas redes trabalhando<br><em>por voc&ecirc;</em><span style='color:var(--desire)'>.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+
+<section class="cta-section">
+  <h2 class="cta-title reveal">Vamos levar conte&uacute;do<br>de impacto para<br><em>seu evento<span style='color:var(--desire)'>.</span></em></h2>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Solicite uma proposta sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
-    <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
+    <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
 <footer aria-label="Rodap&eacute; BagiCo">
@@ -317,10 +256,10 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <li><a href="/#contato">Contato</a></li>
   </ul>
   <div class="footer-social">
-    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
-    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
-    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
-    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
   <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
 </footer>

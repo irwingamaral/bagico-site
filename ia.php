@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gest&atilde;o de Social Media em Porto Alegre &#8212; BagiCo</title>
-<meta name="description" content="Gest&atilde;o completa de redes sociais em Porto Alegre: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.">
-<meta name="keywords" content="gest&atilde;o de redes sociais Porto Alegre, social media Porto Alegre, Instagram Porto Alegre, conte&uacute;do para redes sociais, ag&ecirc;ncia de social media RS, BagiCo">
+<title>IA para meu neg&oacute;cio em Porto Alegre &#8212; BagiCo</title>
+<meta name="description" content="Implementa&ccedil;&atilde;o de Intelig&ecirc;ncia Artificial para empresas em Porto Alegre. Imers&atilde;o, diagn&oacute;stico e implementa&ccedil;&atilde;o de ferramentas de IA como n8n, Make, ChatGPT, Elephant.ai e mais.">
+<meta name="keywords" content="IA para empresas Porto Alegre, intelig&ecirc;ncia artificial para neg&oacute;cios, automa&ccedil;&atilde;o com IA, n8n Porto Alegre, ChatGPT empresas, Elephant.ai, implementa&ccedil;&atilde;o de IA RS">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
-<link rel="canonical" href="https://www.bagico.com.br/social-media">
+<link rel="canonical" href="https://www.bagico.com.br/ia">
 <meta name="geo.region" content="BR-RS">
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.bagico.com.br/social-media">
-<meta property="og:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta property="og:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta property="og:url" content="https://www.bagico.com.br/ia">
+<meta property="og:title" content="IA para meu neg&oacute;cio &#8212; BagiCo Porto Alegre">
+<meta property="og:description" content="Imers&atilde;o, diagn&oacute;stico e implementa&ccedil;&atilde;o de ferramentas de IA para empresas. Automatize processos e escale resultados com intelig&ecirc;ncia artificial.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gest&atilde;o de Social Media &#8212; BagiCo Porto Alegre">
-<meta name="twitter:description" content="Estrat&eacute;gia, conte&uacute;do e crescimento nas redes sociais. Instagram, TikTok, LinkedIn e mais.">
+<meta name="twitter:title" content="IA para meu neg&oacute;cio &#8212; BagiCo Porto Alegre">
+<meta name="twitter:description" content="Imers&atilde;o, diagn&oacute;stico e implementa&ccedil;&atilde;o de ferramentas de IA para empresas. Automatize processos e escale resultados com intelig&ecirc;ncia artificial.">
 <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAEQElEQVR42u2WW08qOxTH27k6wMgwMggoogY0MUEDemJ8IDHEeP3AJzv6BXgxun0gIXgDxQsiw8yAwND2PDThGM3e4NbkxJz+nkqzZtG1/u2/BYDBYDAYDAaDwWAwGAwGg/EHwJGC4L9hhJDvXzSEHwp+Hf9m/KFUf6iAqqqyLGOMIYSEkOfn50/+JcdxkiS5rosQ+nw3+aERHo9nf3/fsizbtg3DSKfTtVqt1+v9qouDGTpYW1sTRbHZbAIABEFIpVKRSERV1ZmZmVgs1mw2f5NqpHYMjTBNs9PpOI7TaDSKxSLGOJPJ0EbSI/HmVAxm6MAwDFVVAQCSJG1vb2OMT09PC4XC8fExhDCVSr1P9aEyhFEUf5203W77/X4AAMbY4/Goqtrr9RqNxiA+GAwihCzLCofDDw8PP378kCQJAJDJZBBCZ2dnNBvGOJ/PJ5NJOhZFUdd1QsjT0xPG+CsVoMryPC8Igq7rfr//9PQUALC0tLS2toYQWlpaWllZoT3e3NwcGxvTNG13dzcQCCiKcnBwkEwmAQCzs7PFYpFmG0hUKpUIIZFIJJvNSpLk9XpzuZyu66PrwI0SRAjRNC0UCiWTyXa7TfvtOM7Z2dnT09PC">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Gest&atilde;o de Redes Sociais","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Gest&atilde;o completa de social media: estrat&eacute;gia, produ&ccedil;&atilde;o de conte&uacute;do e crescimento para Instagram, TikTok, LinkedIn e mais.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Implementa&ccedil;&atilde;o de IA para Empresas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Imers&atilde;o nos processos da empresa, diagn&oacute;stico de oportunidades e implementa&ccedil;&atilde;o de ferramentas de IA como n8n, Make, ChatGPT e Elephant.ai.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quantos posts s&atilde;o publicados por m&ecirc;s?","acceptedAnswer":{"@type":"Answer","text":"Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo."}},{"@type":"Question","name":"Preciso aprovar os conte&uacute;dos antes de publicar?","acceptedAnswer":{"@type":"Answer","text":"Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina."}},{"@type":"Question","name":"Quais plataformas voc&ecirc;s gerenciam?","acceptedAnswer":{"@type":"Answer","text":"Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico."}},{"@type":"Question","name":"Em quanto tempo vejo crescimento?","acceptedAnswer":{"@type":"Answer","text":"Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada."}},{"@type":"Question","name":"Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?","acceptedAnswer":{"@type":"Answer","text":"Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Preciso saber de tecnologia para usar IA no meu neg&oacute;cio?","acceptedAnswer":{"@type":"Answer","text":"N&atilde;o. Cuidamos de toda a parte t&eacute;cnica e entregamos solu&ccedil;&otilde;es prontas para usar. O treinamento &eacute; pensado para equipes sem background t&eacute;cnico."}},{"@type":"Question","name":"Quais ferramentas de IA a BagiCo trabalha?","acceptedAnswer":{"@type":"Answer","text":"n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas espec&iacute;ficas conforme o diagn&oacute;stico de cada empresa."}},{"@type":"Question","name":"Os custos das ferramentas est&atilde;o inclu&iacute;dos?","acceptedAnswer":{"@type":"Answer","text":"N&atilde;o. As ferramentas de IA t&ecirc;m planos e custos pr&oacute;prios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementa&ccedil;&atilde;o."}},{"@type":"Question","name":"Em quanto tempo vejo resultado?","acceptedAnswer":{"@type":"Answer","text":"Depende da complexidade da implementa&ccedil;&atilde;o. Automa&ccedil;&otilde;es simples podem estar funcionando em dias. Implementa&ccedil;&otilde;es mais complexas levam de 2 a 6 semanas."}},{"@type":"Question","name":"Voc&ecirc;s atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. A imers&atilde;o pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil."}}]}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -45,6 +45,21 @@ nav::before{content:'';position:absolute;inset:0;background:linear-gradient(to b
 .nav-links a:hover{color:var(--ivory);}
 .nav-cta{position:relative;z-index:1;font-size:12px;color:var(--ivory);text-decoration:none;letter-spacing:.12em;text-transform:uppercase;border:1px solid rgba(192,57,43,.5);padding:10px 22px;transition:background .3s,border-color .3s;}
 .nav-cta:hover{background:var(--desire);border-color:var(--desire);}
+  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .nav-dropdown { position: relative; }
+  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
+  .nav-dropdown-trigger:hover { opacity: 0.8; }
+  .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
+  .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
+  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 210px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
+  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
+  .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
+  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; border-bottom: 1px solid var(--graphite); transition: color 0.2s, background 0.2s; }
+  .nav-dropdown-menu a:last-child { border-bottom: none; }
+  .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
+  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 .hero{min-height:100vh;display:flex;align-items:center;padding:0 60px;position:relative;overflow:hidden;}
 .hero-content{position:relative;z-index:2;max-width:800px;}
 .hero-badge{display:inline-flex;align-items:center;gap:8px;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--desire);border:1px solid rgba(192,57,43,.3);padding:8px 20px;margin-bottom:40px;opacity:0;animation:fadeUp .8s ease .2s forwards;}
@@ -119,7 +134,6 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 .reveal{opacity:0;transform:translateY(32px);transition:opacity .8s ease,transform .8s ease;}
 .reveal.visible{opacity:1;transform:translateY(0);}
 @media(max-width:900px){nav{padding:24px 28px;}.nav-links{display:none;}.hero{padding:120px 28px 80px;}.section-block{padding:80px 28px;}.cards-grid{grid-template-columns:1fr;}.diff-grid{grid-template-columns:1fr;}.cta-section{padding:80px 28px;}footer{padding:40px 28px;flex-direction:column;text-align:center;}.divider{margin:0 28px;}}
-
   /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
@@ -137,7 +151,6 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
-
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -173,139 +186,65 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 </nav>
-<section class="hero" aria-label="Social Media BagiCo">
-  <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 55% 50% at 70% 40%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
+<section class="hero" aria-label="IA para meu neg&oacute;cio BagiCo">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 65% 55% at 70% 40%,rgba(192,57,43,.09) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>&#9679;</span> Social Media</div>
-    <h1 class="hero-title">Redes sociais que<br><em>vendem de verdade<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Gest&atilde;o estrat&eacute;gica com foco em crescimento real, autoridade de marca e gera&ccedil;&atilde;o de leads. Conte&uacute;do que para o scroll e transforma seguidores em clientes.</p>
+    <div class="hero-badge"><span>&#9679;</span> IA para meu neg&oacute;cio</div>
+    <h1 class="hero-title">Intelig&ecirc;ncia Artificial<br>a servi&ccedil;o do<br><em>seu neg&oacute;cio<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Mapeamos seus processos, identificamos onde a IA gera mais valor e implementamos as ferramentas certas. Do diagn&oacute;stico &agrave; automa&ccedil;&atilde;o funcionando — com suporte real em cada etapa.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero crescer nas redes</a>
-      <a href="#entregas" class="btn-secondary">Ver o que fazemos</a>
+      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero implementar IA</a>
+      <a href="#como-atuamos" class="btn-secondary">Como funciona</a>
     </div>
   </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block" id="entregas" aria-label="Nossas entregas">
-  <div class="reveal"><p class="section-label">Nossas entregas</p><h2 class="section-title">Social media com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
-  <div class="cards-grid">    <article class="card reveal">
-      <div class="card-num">01</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Planejamento Editorial</h3>
-      <p class="card-desc">Calend&aacute;rio mensal alinhado com objetivos da marca. Nada publicado sem prop&oacute;sito.</p>
-      <div class="tags"><span class="tag">Calend&aacute;rio mensal</span><span class="tag">Pauta estrat&eacute;gica</span><span class="tag">Mix de formatos</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">02</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Produ&ccedil;&atilde;o de Conte&uacute;do</h3>
-      <p class="card-desc">Posts, carros&eacute;is, stories e reels com design premium e copywriting que converte.</p>
-      <div class="tags"><span class="tag">Design de posts</span><span class="tag">Copywriting</span><span class="tag">Roteiros para Reels</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">03</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">Gest&atilde;o e Publica&ccedil;&atilde;o</h3>
-      <p class="card-desc">Agendamento, publica&ccedil;&atilde;o e monitoramento. Voc&ecirc; foca no neg&oacute;cio, a gente cuida das redes.</p>
-      <div class="tags"><span class="tag">Publica&ccedil;&atilde;o no hor&aacute;rio ideal</span><span class="tag">Monitoramento</span><span class="tag">Gest&atilde;o de comentarios</span></div>
-    </article>
-    <article class="card reveal">
-      <div class="card-num">04</div>
-      <div class="card-line"></div>
-      <h3 class="card-title">An&aacute;lise e Relat&oacute;rios</h3>
-      <p class="card-desc">M&eacute;tricas que importam: alcance, engajamento, crescimento e leads. Decis&otilde;es por dados.</p>
-      <div class="tags"><span class="tag">Relat&oacute;rio mensal</span><span class="tag">M&eacute;tricas de resultado</span><span class="tag">Ajustes estrat&eacute;gicos</span></div>
-    </article>
+<section class="section-block" id="como-atuamos" aria-label="O que fazemos">
+  <div class="reveal"><p class="section-label">O que fazemos</p><h2 class="section-title">IA aplicada com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
+  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Imers&atilde;o e Diagn&oacute;stico</h3><p class="card-desc">Mergulhamos nos fluxos de trabalho da sua empresa para entender processos, gargalos e oportunidades. Nenhuma implementa&ccedil;&atilde;o antes de entender o contexto.</p><div class="tags"><span class="tag">An&aacute;lise de processos</span><span class="tag">Mapeamento de gargalos</span><span class="tag">Relat&oacute;rio de oportunidades</span></div></article>
+<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Automa&ccedil;&atilde;o de Fluxos</h3><p class="card-desc">Implementamos automa&ccedil;&otilde;es com n8n, Make e Zapier para eliminar tarefas manuais repetitivas e conectar ferramentas que j&aacute; existem na sua opera&ccedil;&atilde;o.</p><div class="tags"><span class="tag">n8n e Make</span><span class="tag">Integra&ccedil;&otilde;es entre ferramentas</span><span class="tag">Fluxos sem interven&ccedil;&atilde;o manual</span></div></article>
+<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA Generativa e LLMs</h3><p class="card-desc">Integra&ccedil;&atilde;o de ChatGPT e outros modelos de linguagem para criar assistentes, automatizar conte&uacute;do, responder clientes e otimizar decis&otilde;es internas.</p><div class="tags"><span class="tag">ChatGPT e GPT-4</span><span class="tag">Assistentes personalizados</span><span class="tag">Automa&ccedil;&atilde;o de conte&uacute;do</span></div></article>
+<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Prospec&ccedil;&atilde;o Inteligente</h3><p class="card-desc">Implementa&ccedil;&atilde;o do Elephant.ai e outras ferramentas de IA para prospec&ccedil;&atilde;o ativa — encontrando leads qualificados e automatizando abordagens comerciais.</p><div class="tags"><span class="tag">Elephant.ai</span><span class="tag">Qualifica&ccedil;&atilde;o autom&aacute;tica de leads</span><span class="tag">Sequ&ecirc;ncias de prospec&ccedil;&atilde;o</span></div></article>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="Diferenciais BagiCo">
+<section class="section-block dark" aria-label="Diferenciais">
   <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
-  <div class="diff-grid">    <div class="diff-item reveal">
-      <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Estrat&eacute;gia primeiro</h3>
-      <p class="diff-desc">N&atilde;o publicamos por publicar. Cada post tem objetivo claro na jornada do cliente.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Design premium</h3>
-      <p class="diff-desc">Artes que se destacam no feed. Identidade visual consistente e reconhec&iacute;vel.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Copywriting que converte</h3>
-      <p class="diff-desc">Textos que param o scroll, geram identifica&ccedil;&atilde;o e levam o seguidor ao pr&oacute;ximo passo.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Todas as plataformas</h3>
-      <p class="diff-desc">Instagram, TikTok, LinkedIn, Facebook. Onde seu p&uacute;blico estiver, a BagiCo est&aacute;.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Crescimento org&acirc;nico real</h3>
-      <p class="diff-desc">Foco em seguidores qualificados, n&atilde;o n&uacute;meros vazios. Audi&ecirc;ncia que compra e indica.</p>
-    </div>
-    <div class="diff-item reveal">
-      <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
-      <h3 class="diff-title">Integra&ccedil;&atilde;o com tr&aacute;fego pago</h3>
-      <p class="diff-desc">Social media e an&uacute;ncios trabalhando juntos. Conte&uacute;do org&acirc;nico potencializa os ads.</p>
-    </div>
+  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Imers&atilde;o antes de tudo</h3><p class="diff-desc">N&atilde;o indicamos ferramentas sem entender seu neg&oacute;cio. O diagn&oacute;stico &eacute; o que garante que a IA v&aacute; onde realmente importa.</p></div>
+<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Implementa&ccedil;&atilde;o real</h3><p class="diff-desc">N&atilde;o s&oacute; recomendamos — implementamos. Samos do diagn&oacute;stico &agrave; ferramenta funcionando na sua opera&ccedil;&atilde;o.</p></div>
+<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Foco em resultado</h3><p class="diff-desc">Cada implementa&ccedil;&atilde;o tem um objetivo claro: reduzir tempo, aumentar escala ou melhorar convers&atilde;o. Sem IA por modismo.</p></div>
+<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Custos transparentes</h3><p class="diff-desc">As ferramentas de IA t&ecirc;m custos pr&oacute;prios arcados pelo cliente. Apresentamos cada custo antes de qualquer implementa&ccedil;&atilde;o.</p></div>
+<div class="diff-item reveal"><div class="diff-num">05<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Treinamento da equipe</h3><p class="diff-desc">Entregamos a ferramenta funcionando e treinamos sua equipe para usar com autonomia. O resultado fica na sua empresa.</p></div>
+<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Atualiza&ccedil;&atilde;o cont&iacute;nua</h3><p class="diff-desc">O ecossistema de IA muda rapidamente. Acompanhamos as evolu&ccedil;&otilde;es e sugerimos otimiza&ccedil;&otilde;es ao longo do tempo.</p></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
   <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
-  <div class="steps">    <div class="step reveal">
-      <span class="step-num">01</span>
-      <div><h3 class="step-title">Diagn&oacute;stico das redes</h3><p class="step-desc">Auditamos seus perfis, analisamos o que funciona e identificamos oportunidades. Ponto de partida com dados reais.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">02</span>
-      <div><h3 class="step-title">Estrat&eacute;gia e posicionamento</h3><p class="step-desc">Tom de voz, pilares de conte&uacute;do, formatos priorit&aacute;rios e objetivos mensais.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">03</span>
-      <div><h3 class="step-title">Produ&ccedil;&atilde;o e publica&ccedil;&atilde;o</h3><p class="step-desc">Criamos e publicamos dentro do calend&aacute;rio aprovado. Voc&ecirc; revisa se quiser.</p></div>
-    </div>
-    <div class="step reveal">
-      <span class="step-num">04</span>
-      <div><h3 class="step-title">An&aacute;lise e otimiza&ccedil;&atilde;o</h3><p class="step-desc">Monitoramos e ajustamos mensalmente. O que funciona escala, o que n&atilde;o funciona muda.</p></div>
-    </div>
+  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos seu neg&oacute;cio, desafios e objetivos. Identificamos se e onde a IA faz sentido para a sua realidade.</p></div></div>
+<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Imers&atilde;o nos processos</h3><p class="step-desc">Mapeamos seus fluxos de trabalho em detalhe — do comercial ao operacional. Onde est&atilde;o os gargalos, o tempo perdido e as oportunidades.</p></div></div>
+<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Proposta de implementa&ccedil;&atilde;o</h3><p class="step-desc">Apresentamos as ferramentas recomendadas, o que cada uma resolve, o investimento e o cronograma de implementa&ccedil;&atilde;o.</p></div></div>
+<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Implementa&ccedil;&atilde;o e treinamento</h3><p class="step-desc">Configuramos, integramos e testamos cada ferramenta. Treinamos sua equipe e entregamos documenta&ccedil;&atilde;o de uso.</p></div></div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="D&uacute;vidas frequentes">
+<section class="section-block dark" aria-label="FAQ">
   <div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
-  <div class="faq-list reveal">    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quantos posts s&atilde;o publicados por m&ecirc;s?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Depende do pacote. Definimos juntos a cad&ecirc;ncia ideal para cada plataforma e objetivo.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Preciso aprovar os conte&uacute;dos antes de publicar?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Sim, se preferir. Montamos um fluxo de aprova&ccedil;&atilde;o adaptado &agrave; sua rotina.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Quais plataformas voc&ecirc;s gerenciam?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Instagram, TikTok, LinkedIn, Facebook e YouTube. Priorizamos com base no seu p&uacute;blico.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo crescimento?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Resultados consistentes aparecem a partir do segundo ou terceiro m&ecirc;s, quando a estrat&eacute;gia est&aacute; calibrada.</p>
-    </div>
-    <div class="faq-item">
-      <div class="faq-question"><span class="faq-q-text">Voc&ecirc;s fazem fotografia e v&iacute;deo tamb&eacute;m?</span><span class="faq-icon">+</span></div>
-      <p class="faq-answer">Podemos incluir produ&ccedil;&atilde;o audiovisual ou trabalhar com materiais seus. Adaptamos ao escopo.</p>
-    </div>
+  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Preciso saber de tecnologia para usar IA no meu neg&oacute;cio?</span><span class="faq-icon">+</span></div><p class="faq-answer">N&atilde;o. Cuidamos de toda a parte t&eacute;cnica e entregamos solu&ccedil;&otilde;es prontas para usar. O treinamento &eacute; pensado para equipes sem background t&eacute;cnico.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais ferramentas de IA a BagiCo trabalha?</span><span class="faq-icon">+</span></div><p class="faq-answer">n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas espec&iacute;ficas conforme o diagn&oacute;stico de cada empresa.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Os custos das ferramentas est&atilde;o inclu&iacute;dos?</span><span class="faq-icon">+</span></div><p class="faq-answer">N&atilde;o. As ferramentas de IA t&ecirc;m planos e custos pr&oacute;prios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementa&ccedil;&atilde;o.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Em quanto tempo vejo resultado?</span><span class="faq-icon">+</span></div><p class="faq-answer">Depende da complexidade da implementa&ccedil;&atilde;o. Automa&ccedil;&otilde;es simples podem estar funcionando em dias. Implementa&ccedil;&otilde;es mais complexas levam de 2 a 6 semanas.</p></div>
+<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Voc&ecirc;s atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. A imers&atilde;o pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil.</p></div>
 </div>
 </section>
-<section class="cta-section" aria-label="CTA Social Media">
-  <h2 class="cta-title reveal">Suas redes trabalhando<br><em>por voc&ecirc;</em><span style='color:var(--desire)'>.</span></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Or&ccedil;amento personalizado, sem compromisso.</p>
+
+<section class="cta-section">
+  <h2 class="cta-title reveal">Vamos colocar a IA<br>para trabalhar pelo<br><em>seu neg&oacute;cio<span style='color:var(--desire)'>.</span></em></h2>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Diagn&oacute;stico inicial sem compromisso.</p>
   <div class="cta-actions reveal">
     <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
-    <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
+    <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
 <footer aria-label="Rodap&eacute; BagiCo">
@@ -317,10 +256,10 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <li><a href="/#contato">Contato</a></li>
   </ul>
   <div class="footer-social">
-    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
-    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
-    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
-    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
   <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
 </footer>
