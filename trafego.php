@@ -293,6 +293,112 @@
     .servicos { padding-left: 28px; padding-right: 28px; }
     .divider { margin-left: 28px; margin-right: 28px; }
   }
+
+  /* =============================================
+     MENU MOBILE
+     ============================================= */
+  .mobile-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    padding: 4px;
+  }
+  .mobile-toggle span {
+    display: block;
+    width: 24px;
+    height: 1.5px;
+    background: var(--ivory);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  .mobile-toggle.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+  .mobile-toggle.open span:nth-child(2) { opacity: 0; }
+  .mobile-toggle.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+  .mobile-menu {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: var(--noir);
+    z-index: 99;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 100px 40px 60px;
+    overflow-y: auto;
+  }
+  .mobile-menu.open { display: flex; }
+  .mobile-menu a, .mobile-menu .mobile-section-title {
+    font-family: var(--serif);
+    font-size: 32px;
+    font-weight: 300;
+    color: var(--ivory);
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    margin-bottom: 24px;
+    transition: color 0.2s;
+  }
+  .mobile-menu a:hover { color: var(--ash); }
+  .mobile-menu .mobile-section-title {
+    font-size: 12px;
+    font-family: var(--sans);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--desire);
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-weight: 400;
+  }
+  .mobile-menu .mobile-sub-links {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 32px;
+    padding-left: 0;
+  }
+  .mobile-menu .mobile-sub-links a {
+    font-family: var(--sans);
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ash);
+    margin-bottom: 0;
+  }
+  .mobile-menu .mobile-sub-links a:hover { color: var(--ivory); }
+  .mobile-menu .mobile-cta {
+    margin-top: 40px;
+    background: var(--desire);
+    color: var(--ivory) !important;
+    font-family: var(--sans) !important;
+    font-size: 12px !important;
+    letter-spacing: 0.15em !important;
+    text-transform: uppercase;
+    padding: 16px 32px;
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  .mobile-menu .mobile-suite {
+    font-family: var(--sans) !important;
+    font-size: 12px !important;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ash) !important;
+    border: 1px solid var(--graphite);
+    padding: 12px 24px;
+    margin-top: 16px;
+    margin-bottom: 0;
+  }
+  /* CURSOR — desativar em touch mobile, manter em tablet/desktop */
+  @media (hover: none) and (pointer: coarse) {
+    .cursor, .cursor-ring { display: none !important; }
+    body { cursor: auto; }
+  }
+  @media (max-width: 900px) {
+    .mobile-toggle { display: flex; }
+    .nav-links, .nav-actions { display: none !important; }
+  }
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -329,6 +435,30 @@
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
+<!-- MENU MOBILE -->
+<button class="mobile-toggle" id="mobileToggle" aria-label="Abrir menu">
+  <span></span><span></span><span></span>
+</button>
+<div class="mobile-menu" id="mobileMenu">
+  <a href="/">Home</a>
+  <a href="/#manifesto">Sobre</a>
+  <a href="/#servicos">Servi&ccedil;os</a>
+  <a href="/#niveis">Modelos</a>
+  <a href="/#valores">Valores</a>
+  <span class="mobile-section-title">Elevar minha marca</span>
+  <div class="mobile-sub-links">
+    <a href="/identidade-visual.php">Identidade Visual</a>
+    <a href="/social-media.php">Social Media</a>
+    <a href="/sites.php">Cria&ccedil;&atilde;o de Sites</a>
+    <a href="/trafego.php">Tr&aacute;fego Pago</a>
+    <a href="/consultoria.php">Consultoria</a>
+    <a href="/ia.php">IA para meu neg&oacute;cio</a>
+    <a href="/palestras.php">Palestras</a>
+    <a href="/outros.php">Outros servi&ccedil;os</a>
+  </div>
+  <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
+  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+</div>
 </nav>
 
 <!-- HERO -->
