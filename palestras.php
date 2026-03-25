@@ -157,28 +157,22 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
-  /* CONTAINER GLOBAL — espaçamento lateral consistente */
-  body { max-width: 1600px; margin: 0 auto; }
-  nav { max-width: 1600px; left: 50%; transform: translateX(-50%); }
+  /* CONTAINER GLOBAL — padding lateral no conteúdo, nav e footer livres */
   .hero, .section-block, .catalog, .cta-section, .proof-bar,
   .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-  .servicos, .diff-grid-wrap { padding-left: 100px; padding-right: 100px; }
+  .servicos { padding-left: 100px; padding-right: 100px; }
   .divider { margin-left: 100px; margin-right: 100px; }
-  footer { padding-left: 100px; padding-right: 100px; }
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
     .servicos { padding-left: 60px; padding-right: 60px; }
     .divider { margin-left: 60px; margin-right: 60px; }
-    footer { padding-left: 60px; padding-right: 60px; }
   }
   @media (max-width: 900px) {
-    nav { padding: 24px 28px; }
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
     .servicos { padding-left: 28px; padding-right: 28px; }
     .divider { margin-left: 28px; margin-right: 28px; }
-    footer { padding-left: 28px; padding-right: 28px; }
   }
 </style>
 <?php include 'tags.php'; ?>

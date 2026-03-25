@@ -25,7 +25,7 @@
 <!-- GEO -->
 <meta name="geo.region" content="BR-RS">
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
-<link rel="icon" type="image/png" href="data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/wAARCAEAAQADASIAAhEBAxEB/8QAGwABAQEAAwEBAAAAAAAAAAAAAAQCAwUBBgf/xAA0EAACAQMDAgQEBQQDAQAAAAAAAQIDBAUREiExBhNBUWEicYGRFDKhwdEjUrHhFUJi/8QAGgEBAQADAQEAAAAAAAAAAAAAAAECBAUDB//EACQRAQACAgICAgMBAQAAAAAAAAABAgMRBBIhMUEiUROBYf/aAAwDAQACEQMRAD8A8iAAAAAAAAAAAAAAAAAAAAA">
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAEQElEQVR42u2WW08qOxTH27k6wMgwMggoogY0MUEDemJ8IDHEeP3AJzv6BXgxun0gIXgDxQsiw8yAwND2PDThGM3e4NbkxJz+nkqzZtG1/u2/BYDBYDAYDAaDwWAwGAwGg/EHwJGC4L9hhJDvXzSEHwp+Hf9m/KFUf6iAqqqyLGOMIYSEkOfn50/+JcdxkiS5rosQ+nw3+aERHo9nf3/fsizbtg3DSKfTtVqt1+v9qouDGTpYW1sTRbHZbAIABEFIpVKRSERV1ZmZmVgs1mw2f5NqpHYMjTBNs9PpOI7TaDSKxSLGOJPJ0EbSI/HmVAxm6MAwDFVVAQCSJG1vb2OMT09PC4XC8fExhDCVSr1P9aEyhFEUf5203W77/X4AAMbY4/Goqtrr9RqNxiA+GAwihCzLCofDDw8PP378kCQJAJDJZBBCZ2dnNBvGOJ/PJ5NJOhZFUdd1QsjT0xPG+CsVoMryPC8Igq7rfr//9PQUALC0tLS2toYQWlpaWllZoT3e3NwcGxvTNG13dzcQCCiKcnBwkEwmAQCzs7PFYpFmG0hUKpUIIZFIJJvNSpLk9XpzuZyu66PrwI0SRAjRNC0UCiWTyXa7TfvtOM7Z2dnT09PC">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -176,28 +176,22 @@
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
 
-  /* CONTAINER GLOBAL — espaçamento lateral consistente */
-  body { max-width: 1600px; margin: 0 auto; }
-  nav { max-width: 1600px; left: 50%; transform: translateX(-50%); }
+  /* CONTAINER GLOBAL — padding lateral no conteúdo, nav e footer livres */
   .hero, .section-block, .catalog, .cta-section, .proof-bar,
   .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-  .servicos, .diff-grid-wrap { padding-left: 100px; padding-right: 100px; }
+  .servicos { padding-left: 100px; padding-right: 100px; }
   .divider { margin-left: 100px; margin-right: 100px; }
-  footer { padding-left: 100px; padding-right: 100px; }
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
     .servicos { padding-left: 60px; padding-right: 60px; }
     .divider { margin-left: 60px; margin-right: 60px; }
-    footer { padding-left: 60px; padding-right: 60px; }
   }
   @media (max-width: 900px) {
-    nav { padding: 24px 28px; }
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
     .servicos { padding-left: 28px; padding-right: 28px; }
     .divider { margin-left: 28px; margin-right: 28px; }
-    footer { padding-left: 28px; padding-right: 28px; }
   }
 </style>
 <?php include 'tags.php'; ?>
