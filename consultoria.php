@@ -125,23 +125,21 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     font-size: 12px; font-weight: 400; color: var(--desire);
     letter-spacing: 0.12em; text-transform: uppercase;
     cursor: pointer; display: flex; align-items: center; gap: 6px;
-    transition: opacity 0.3s;
+    transition: opacity 0.3s; user-select: none;
   }
   .nav-dropdown-trigger:hover { opacity: 0.8; }
-  .nav-dropdown-trigger::after { content: '▾'; font-size: 9px; transition: transform 0.3s; }
+  .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
   .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
   .nav-dropdown-menu {
-    position: absolute; top: calc(100% + 16px); left: 50%;
-    transform: translateX(-50%) translateY(8px);
-    background: var(--carbon); border: 1px solid var(--graphite);
+    position: absolute; top: 100%; left: 50%;
+    transform: translateX(-50%);
+    padding-top: 16px;
     min-width: 200px; z-index: 200;
     opacity: 0; pointer-events: none;
-    transition: opacity 0.25s ease, transform 0.25s ease;
+    transition: opacity 0.25s ease;
   }
-  .nav-dropdown:hover .nav-dropdown-menu {
-    opacity: 1; pointer-events: all;
-    transform: translateX(-50%) translateY(0);
-  }
+  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
+  .nav-dropdown-menu-inner { background: var(--carbon); border: 1px solid var(--graphite); }
   .nav-dropdown-menu a {
     display: block; padding: 13px 18px;
     font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
@@ -169,19 +167,15 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
-      <div class="nav-dropdown-menu">
-        <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
-        <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
-        <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
-        <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
-        <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
+            <div class="nav-dropdown-menu">
+        <div class="nav-dropdown-menu-inner">
+          <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
+          <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
+          <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
+          <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
+          <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
+        </div>
       </div>
-    </li>
-  </ul>
-  <div style="display:flex;align-items:center;gap:12px;position:relative;z-index:1;">
-    <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
-  </div>
 </nav>
 <section class="hero" aria-label="Consultoria Estrat&eacute;gica BagiCo">
   <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 55% at 65% 40%,rgba(192,57,43,.09) 0%,transparent 60%);"></div>
