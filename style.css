@@ -124,17 +124,34 @@ nav::before {
 [data-theme="light"] nav::before {
   background: linear-gradient(to bottom, rgba(242,241,237,0.98) 0%, transparent 100%);
 }
-/* Tema claro — nav links com contraste adequado */
-[data-theme="light"] .nav-links a { color: #3a3a32; }
+/* Tema claro — nav com contraste adequado */
+[data-theme="light"] .nav-links a { color: #2a2a22; }
 [data-theme="light"] .nav-links a:hover { color: #0a0a0a; }
-[data-theme="light"] .logo { color: #3a3a32; }
-[data-theme="light"] .nav-suite-link { color: #3a3a32; border-color: #c0bfb8; }
-[data-theme="light"] .nav-suite-link:hover { color: #0a0a0a; border-color: #3a3a32; }
-[data-theme="light"] .nav-cta { color: #0a0a0a; border-color: rgba(192,57,43,0.7); }
-[data-theme="light"] .nav-dropdown-trigger { color: var(--desire); }
-[data-theme="light"] .theme-toggle { color: #3a3a32; border-color: #c0bfb8; }
+[data-theme="light"] .logo { color: #2a2a22; }
+[data-theme="light"] .nav-suite-link { color: #2a2a22; border-color: #b8b7b0; }
+[data-theme="light"] .nav-suite-link:hover { color: #0a0a0a; border-color: #2a2a22; }
+/* Fale conosco — vermelho com texto branco */
+[data-theme="light"] .nav-cta {
+  background: var(--desire);
+  color: #ffffff !important;
+  border-color: var(--desire);
+}
+[data-theme="light"] .nav-cta:hover {
+  background: var(--ember);
+  color: #ffffff !important;
+  border-color: var(--ember);
+}
+/* Dropdown trigger — vermelho legível sobre fundo claro */
+[data-theme="light"] .nav-dropdown-trigger {
+  color: var(--desire);
+  background: transparent;
+  padding: 4px 0;
+}
+[data-theme="light"] .nav-dropdown-trigger:hover { opacity: 0.75; }
+/* Toggle tema */
+[data-theme="light"] .theme-toggle { color: #2a2a22; border-color: #b8b7b0; }
 [data-theme="light"] .theme-toggle:hover { color: var(--desire); border-color: var(--desire); }
-[data-theme="light"] .mobile-toggle { border-color: #c0bfb8; }
+[data-theme="light"] .mobile-toggle { border-color: #b8b7b0; }
 .logo {
   font-family: var(--serif); font-size: 22px; font-weight: 400;
   color: var(--text-secondary); letter-spacing: -0.5px;
@@ -296,12 +313,22 @@ nav::before {
    TIPOGRAFIA E COMPONENTES BASE
    ============================================= */
 .btn-primary {
-  background: var(--desire); color: #f5f5f5 !important; text-decoration: none;
+  background: var(--desire) !important;
+  color: #ffffff !important;
+  text-decoration: none;
   font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase;
   padding: 16px 36px; transition: background 0.3s, transform 0.2s;
   display: inline-block;
 }
-.btn-primary:hover { background: var(--ember); transform: translateY(-1px); color: #f5f5f5 !important; }
+.btn-primary:hover {
+  background: var(--ember) !important;
+  color: #ffffff !important;
+  transform: translateY(-1px);
+}
+.btn-primary:focus,
+.btn-primary:active {
+  color: #ffffff !important;
+}
 .btn-secondary {
   color: var(--text-secondary); text-decoration: none;
   font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase;
@@ -633,18 +660,7 @@ footer {
    ============================================= */
 
 /* Botões vermelhos — texto sempre claro em ambos os temas */
-.btn-primary,
-.btn-primary:hover,
-.btn-primary:focus {
-  color: #f5f5f5 !important;
-}
-[data-theme="light"] .btn-primary {
-  color: #f5f5f5 !important;
-}
-[data-theme="light"] .btn-primary:hover {
-  background: var(--ember);
-  color: #f5f5f5 !important;
-}
+
 
 /* NAV — contraste adequado no tema claro */
 [data-theme="light"] .nav-links a {
@@ -784,4 +800,170 @@ footer {
 [data-theme="light"] .mobile-cta {
   color: #f5f5f5 !important;
   background: var(--desire) !important;
+}
+
+/* =============================================
+   TEMA CLARO — correções finais completas
+   ============================================= */
+
+/* Background geral — sem manchas vermelhas */
+[data-theme="light"] body {
+  background: #f2f1ed !important;
+}
+
+/* Hero — fundo neutro sem gradiente vermelho */
+[data-theme="light"] .hero {
+  background: #f2f1ed !important;
+}
+[data-theme="light"] .hero-bg {
+  background: none !important;
+}
+/* Gradientes inline (style="background:radial-gradient...") */
+[data-theme="light"] .hero > div[style],
+[data-theme="light"] section.hero > div[style] {
+  background: radial-gradient(
+    ellipse 60% 50% at 72% 42%,
+    rgba(200,198,192,0.20) 0%,
+    transparent 65%
+  ) !important;
+}
+
+/* Seções com fundo escuro — ficam bege mais escuro */
+[data-theme="light"] .section-block.dark,
+[data-theme="light"] .catalog.dark,
+[data-theme="light"] .plataformas,
+[data-theme="light"] .diferenciais {
+  background: #e8e7e1 !important;
+}
+
+/* Remover qualquer sombra/overlay escuro em cards e hovers */
+[data-theme="light"] .card:hover {
+  background: #e4e3de !important;
+}
+[data-theme="light"] .card::before {
+  background: var(--desire);
+}
+
+/* Proof bar */
+[data-theme="light"] .proof-bar {
+  background: #e8e7e1 !important;
+  border-color: #d0cfc8 !important;
+}
+
+/* Stats — mantém escuro pois tem texto claro */
+[data-theme="light"] .stats {
+  background: #252520 !important;
+}
+
+/* CTA section — fundo neutro */
+[data-theme="light"] .cta-section {
+  background: #f2f1ed !important;
+}
+[data-theme="light"] .cta-section::before {
+  background: radial-gradient(
+    ellipse 80% 60% at 50% 50%,
+    rgba(180,178,172,0.15) 0%,
+    transparent 70%
+  ) !important;
+}
+
+/* Divisores — cinza claro */
+[data-theme="light"] .divider::before,
+[data-theme="light"] .divider::after {
+  background: #d0cfc8 !important;
+}
+
+/* Tags */
+[data-theme="light"] .tag {
+  background: transparent;
+  border-color: #c8c7c0 !important;
+  color: #5a5a52 !important;
+}
+
+/* Diff items — hover com borda vermelha */
+[data-theme="light"] .diff-item {
+  border-top-color: #c8c7c0 !important;
+}
+[data-theme="light"] .diff-item:hover {
+  border-top-color: var(--desire) !important;
+}
+
+/* FAQ */
+[data-theme="light"] .faq-item {
+  border-color: #d0cfc8 !important;
+}
+[data-theme="light"] .faq-answer {
+  color: #5a5a52 !important;
+}
+
+/* Cards grid borda */
+[data-theme="light"] .cards-grid {
+  background: #c8c7c0 !important;
+}
+[data-theme="light"] .card {
+  background: #f2f1ed !important;
+}
+
+/* Número grande do card — cinza claro */
+[data-theme="light"] .card-num {
+  color: #d8d7d0 !important;
+}
+
+/* Botão secundário no tema claro */
+[data-theme="light"] .btn-secondary {
+  color: #2a2a22 !important;
+  border-color: #b8b7b0 !important;
+}
+[data-theme="light"] .btn-secondary:hover {
+  color: #0a0a0a !important;
+  border-color: #2a2a22 !important;
+  background: transparent !important;
+}
+
+/* Nav — fundo do dropdown */
+[data-theme="light"] .nav-dropdown-menu-inner {
+  background: #ffffff !important;
+  border-color: #c0bfb8 !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.10) !important;
+}
+[data-theme="light"] .nav-dropdown-menu a {
+  color: #2a2a22 !important;
+  border-bottom-color: #e8e7e1 !important;
+  background: #ffffff !important;
+}
+[data-theme="light"] .nav-dropdown-menu a:hover {
+  color: #0a0a0a !important;
+  background: #f0efe9 !important;
+}
+
+/* Mobile menu */
+[data-theme="light"] .mobile-menu {
+  background: #f2f1ed !important;
+}
+[data-theme="light"] .mobile-menu a {
+  color: #0a0a0a !important;
+}
+[data-theme="light"] .mobile-sub-links a {
+  color: #5a5a52 !important;
+}
+[data-theme="light"] .mobile-cta {
+  background: var(--desire) !important;
+  color: #ffffff !important;
+}
+[data-theme="light"] .mobile-suite {
+  color: #2a2a22 !important;
+  border-color: #b8b7b0 !important;
+  background: transparent !important;
+}
+
+/* Footer */
+[data-theme="light"] footer {
+  background: #e8e7e1 !important;
+  border-top-color: #d0cfc8 !important;
+}
+[data-theme="light"] .footer-logo,
+[data-theme="light"] .footer-nav a,
+[data-theme="light"] .footer-social a,
+[data-theme="light"] .footer-copy {
+  color: #5a5a52 !important;
 }
