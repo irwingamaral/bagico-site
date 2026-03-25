@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- SEO PRIMARIO -->
+<title>BagiCo. &#8212; Ag&ecirc;ncia de Branding e Estrat&eacute;gia em Porto Alegre</title>
+<meta name="description" content="BagiCo &eacute; uma ag&ecirc;ncia boutique de branding, estrat&eacute;gia e criatividade em Porto Alegre. Transformamos neg&oacute;cios em marcas ic&ocirc;nicas com intelig&ecirc;ncia estrat&eacute;gica e curadoria art&iacute;stica. Atendemos todo o Brasil de forma remota.">
+<meta name="keywords" content="ag&ecirc;ncia de branding Porto Alegre, estrat&eacute;gia de marca, consultoria de marketing, posicionamento de marca, ag&ecirc;ncia boutique, branding RS, identidade visual, marketing digital Porto Alegre, BagiCo">
+<meta name="author" content="BagiCo">
+<meta name="robots" content="index, follow">
+<meta name="language" content="pt-BR">
+<link rel="canonical" href="https://bagico.com.br">
+
+<!-- GEO / LOCALIZACAO -->
+<meta name="geo.region" content="BR-RS">
+<meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
+
+<!-- OPEN GRAPH (redes sociais) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bagico.com.br">
+<meta property="og:title" content="BagiCo. &#8212; Ag&ecirc;ncia de Branding e Estrat&eacute;gia">
+<meta property="og:description" content="Ag&ecirc;ncia boutique de branding e estrat&eacute;gia em Porto Alegre. Transformamos neg&oacute;cios em marcas ic&ocirc;nicas. Engineering Desire.">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="BagiCo">
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="BagiCo. &#8212; Engineering Desire">
+<meta name="twitter:description" content="Ag&ecirc;ncia boutique de branding e estrat&eacute;gia em Porto Alegre. Transformamos neg&oacute;cios em marcas ic&ocirc;nicas.">
+
+<!-- FAVICON (logo BagiCo em base64) -->
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAEQElEQVR42u2WW08qOxTH27k6wMgwMggoogY0MUEDemJ8IDHEeP3AJzv6BXgxun0gIXgDxQsiw8yAwND2PDThGM3e4NbkxJz+nkqzZtG1/u2/BYDBYDAYDAaDwWAwGAwGg/EHwJGC4L9hhJDvXzSEHwp+Hf9m/KFUf6iAqqqyLGOMIYSEkOfn50/+JcdxkiS5rosQ+nw3+aERHo9nf3/fsizbtg3DSKfTtVqt1+v9qouDGTpYW1sTRbHZbAIABEFIpVKRSERV1ZmZmVgs1mw2f5NqpHYMjTBNs9PpOI7TaDSKxSLGOJPJ0EbSI/HmVAxm6MAwDFVVAQCSJG1vb2OMT09PC4XC8fExhDCVSr1P9aEyhFEUf5203W77/X4AAMbY4/Goqtrr9RqNxiA+GAwihCzLCofDDw8PP378kCQJAJDJZBBCZ2dnNBvGOJ/PJ5NJOhZFUdd1QsjT0xPG+CsVoMryPC8Igq7rfr//9PQUALC0tLS2toYQWlpaWllZoT3e3NwcGxvTNG13dzcQCCiKcnBwkEwmAQCzs7PFYpFmG0hUKpUIIZFIJJvNSpLk9XpzuZyu66PrwI0SRAjRNC0UCiWTyXa7TfvtOM7Z2dnT01OpVFpYWKBLVFX15ubm8vJSluVarWbbNkKI4zhav+M4r/cb7b0sy9lstlAoVCqVy8vLm5ubbDbLcdyIfs2N6Bv1er1arebz+Xq9vre3J4piuVxuNpuGYQSDQSr6m1Po8/kAANRqaIAkSe/7Gg6HAQD39/f08+vra4/Ho2kaDwA/ggjch+wcQlgqlXw+XyAQCAaDW1tbgiDYtk332Pn5ebfbjUajsVjMsqxyuUzV43meEGLb9vT0NCGE5qE9FkVRkqTXfkoIAYQIgoAAQCOIMLwAjDHGGCFEXUJRFJ7nu93uxsbG3d3d3d1dp9MhhCCEfD5ftVqllnV0dOS67qD3AICTk5PFxUVd1zHGhBCM8djY2Nzc3MPDgyzLqqrS/LquI0KsRmPP41mUpKFX1fB7wO/3Ly8v12q1TqczPj6eTqdvb28vLi6i0ahhGI7jhEKhWCz2+PgoCMLq6qqmaZFIZH5+vtVqvby8pFKpfr9fqVRM0+z1euvr65IkiaIYDofj8fjV1ZVlWRjjhYWF5+dnr9ebSaePf/4E9frf4UkBgqOXDg8A+cxNrGmaqqqu62KMBUFot9umaQIARFFMJBKEkHK5PDk56bqu4ziJRMJxHAihruu6rh8eHlJXfXx8pPtEVdV4PE43XqVS6fV61JQmJib8fj+EsF6vm6bJQfiXLFf7qNJ34W8L+Mq30M7OTigUGvzM5XL0Dhn64fu7/CufEvAdA4Mb2A5dKM/zU1NT3W5XUZR4PH59fe04zvsaBvxqnuYf0V7g14rj9XoVRen3+61Wix7ib/zM/vxT+T8r47suncFgMBgMBoPBYDAYDAbjf8Q/DZQaULLFmHQAAAAASUVORK5CYII=">
+
+
+<!-- SCHEMA.ORG — DADOS ESTRUTURADOS PARA GOOGLE E IAs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MarketingAgency",
+  "name": "BagiCo",
+  "alternateName": "BagiCo Agência de Branding",
+  "description": "Agência boutique de branding, estratégia e criatividade em Porto Alegre. Transformamos negócios em marcas icônicas com inteligência estratégica e curadoria artística.",
+  "slogan": "Engineering Desire",
+  "url": "https://bagico.com.br",
+  "logo": "https://bagico.com.br/logo.png",
+  "foundingDate": "2022",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Porto Alegre",
+    "addressRegion": "RS",
+    "addressCountry": "BR"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Porto Alegre"
+    },
+    {
+      "@type": "Country",
+      "name": "Brasil"
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+55-51-993535790",
+    "contactType": "customer service",
+    "availableLanguage": "Portuguese"
+  },
+  "sameAs": [
+    "https://instagram.com/bagico.agencia",
+    "https://facebook.com/bagicoagencia",
+    "https://www.linkedin.com/company/bagico",
+    "https://tiktok.com/@bagico.agencia"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Serviços BagiCo",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Estratégia de Marca",
+          "description": "Posicionamento, arquitetura de comunicação e direção estratégica de marca."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Direção de Presença",
+          "description": "Planejamento editorial, direção criativa e curadoria de narrativa."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Crescimento Estruturado",
+          "description": "Funil de conteúdo, estratégia de lançamentos e construção de autoridade."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Consultoria Boutique",
+          "description": "Diagnóstico estratégico, mentoria de posicionamento e direção de marca para founders."
+        }
+      }
+    ]
+  },
+  "knowsAbout": [
+    "Branding",
+    "Estratégia de marca",
+    "Marketing digital",
+    "Posicionamento de marca",
+    "Identidade visual",
+    "Consultoria de marketing"
+  ]
+}
+</script>
+
+<!-- FAQ SCHEMA para AEO / Featured Snippets -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "O que é a BagiCo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A BagiCo é uma agência boutique de branding e estratégia de marca sediada em Porto Alegre, RS. Atendemos empresas em todo o Brasil de forma presencial e remota, com foco em posicionamento, identidade e crescimento estruturado de marcas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quais serviços a BagiCo oferece?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A BagiCo oferece estratégia de marca, direção de presença digital, crescimento estruturado e consultoria boutique para founders e empresas que buscam construir marcas icônicas e relevantes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "A BagiCo atende fora de Porto Alegre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sim. A BagiCo atende presencialmente em Porto Alegre e região, e remotamente para todo o Brasil."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como contratar a BagiCo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Você pode entrar em contato com a BagiCo pelo WhatsApp no número +55 51 993535790 ou acessar o site bagico.com.br para iniciar uma conversa."
+      }
+    }
+  ]
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --noir: #0a0a0a;
+    --carbon: #161616;
+    --graphite: #1e1e1e;
+    --ash: #8a8a8a;
+    --ivory: #f5f5f5;
+    --desire: #C0392B;
+    --ember: #6b1c14;
+    --serif: 'Cormorant Garamond', Georgia, serif;
+    --sans: 'DM Sans', sans-serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body { background: var(--noir); color: var(--ivory); font-family: var(--sans); font-weight: 300; overflow-x: hidden; cursor: none; }
+  .cursor { position: fixed; width: 8px; height: 8px; background: var(--desire); border-radius: 50%; pointer-events: none; z-index: 9999; transition: transform 0.15s ease; transform: translate(-50%, -50%); }
+  .cursor-ring { position: fixed; width: 32px; height: 32px; border: 1px solid rgba(192,57,43,0.4); border-radius: 50%; pointer-events: none; z-index: 9998; transition: transform 0.4s ease, width 0.3s ease, height 0.3s ease; transform: translate(-50%, -50%); }
+  nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; padding: 28px 60px; display: flex; align-items: center; justify-content: space-between; }
+  nav::before { content: ''; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(10,10,10,0.95) 0%, transparent 100%); pointer-events: none; }
+  .logo { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ash); letter-spacing: -0.5px; position: relative; z-index: 1; text-decoration: none; }
+  .logo span { color: var(--desire); }
+  .nav-links { display: flex; gap: 40px; list-style: none; position: relative; z-index: 1; }
+  .nav-links a { font-size: 12px; font-weight: 400; color: var(--ash); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s ease; }
+  .nav-links a:hover { color: var(--ivory); }
+  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
+  .nav-cta { font-size: 12px; font-weight: 400; color: var(--ivory); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s ease, border-color 0.3s ease; }
+  .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+  .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 60px; position: relative; overflow: hidden; }
+  .hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 80% 50%, rgba(192,57,43,0.07) 0%, transparent 60%), radial-gradient(ellipse 40% 40% at 20% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); }
+  .hero-line { position: absolute; top: 0; bottom: 0; left: 50%; width: 1px; background: linear-gradient(to bottom, transparent, rgba(138,138,138,0.08) 30%, rgba(138,138,138,0.08) 70%, transparent); }
+  .hero-content { position: relative; z-index: 2; max-width: 900px; }
+  .hero-eyebrow { font-size: 11px; font-weight: 400; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 32px; opacity: 0; animation: fadeUp 1s ease 0.3s forwards; }
+  .hero-title { font-family: var(--serif); font-size: clamp(60px, 9vw, 130px); font-weight: 300; line-height: 0.9; color: var(--ivory); margin-bottom: 40px; opacity: 0; animation: fadeUp 1s ease 0.5s forwards; }
+  .hero-title em { font-style: italic; color: var(--ash); }
+  .hero-title .dot { color: var(--desire); }
+  .hero-sub { font-size: 16px; font-weight: 300; color: var(--ash); line-height: 1.8; max-width: 480px; margin-bottom: 56px; opacity: 0; animation: fadeUp 1s ease 0.7s forwards; }
+  .hero-actions { display: flex; align-items: center; gap: 40px; opacity: 0; animation: fadeUp 1s ease 0.9s forwards; }
+  .btn-primary { background: var(--desire); color: var(--ivory); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 16px 36px; transition: background 0.3s ease, transform 0.2s ease; display: inline-block; }
+  .btn-primary:hover { background: var(--ember); transform: translateY(-1px); }
+  .btn-ghost { color: var(--ash); text-decoration: none; font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; display: flex; align-items: center; gap: 10px; transition: color 0.3s ease; }
+  .btn-ghost:hover { color: var(--ivory); }
+  .btn-ghost::after { content: ''; width: 32px; height: 1px; background: currentColor; transition: width 0.3s ease; }
+  .btn-ghost:hover::after { width: 48px; }
+  .hero-scroll { position: absolute; bottom: 48px; left: 60px; display: flex; align-items: center; gap: 16px; opacity: 0; animation: fadeUp 1s ease 1.2s forwards; }
+  .hero-scroll span { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ash); opacity: 0.5; }
+  .scroll-line { width: 40px; height: 1px; background: var(--ash); opacity: 0.3; position: relative; overflow: hidden; }
+  .scroll-line::after { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: var(--desire); animation: scrollLine 2s ease-in-out infinite 1.5s; }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--graphite); }
+  .stat-item { background: var(--carbon); padding: 48px 40px; text-align: center; }
+  .stat-num { font-family: var(--serif); font-size: 56px; font-weight: 300; color: var(--ivory); line-height: 1; margin-bottom: 8px; }
+  .stat-num span { color: var(--desire); }
+  .stat-label { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); opacity: 0.7; }
+  .manifesto { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; border-top: 1px solid var(--graphite); }
+  .manifesto-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 24px; }
+  .manifesto-title { font-family: var(--serif); font-size: clamp(36px, 4vw, 58px); font-weight: 300; line-height: 1.15; color: var(--ivory); }
+  .manifesto-title em { font-style: italic; color: var(--ash); }
+  .manifesto-body { font-size: 15px; font-weight: 300; color: var(--ash); line-height: 1.9; margin-bottom: 32px; }
+  .manifesto-body strong { color: var(--ivory); font-weight: 400; }
+  .manifesto-quote { border-left: 2px solid var(--desire); padding-left: 24px; font-family: var(--serif); font-size: 20px; font-style: italic; color: var(--ash); line-height: 1.6; }
+  .services { padding: 160px 60px; }
+  .section-header { display: flex; align-items: flex-end; justify-content: space-between; margin-bottom: 80px; }
+  .section-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 16px; }
+  .section-title { font-family: var(--serif); font-size: clamp(32px, 3.5vw, 52px); font-weight: 300; color: var(--ivory); line-height: 1.1; }
+  .section-title em { font-style: italic; color: var(--ash); }
+  .section-link { font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); text-decoration: none; display: flex; align-items: center; gap: 12px; transition: color 0.3s; }
+  .section-link:hover { color: var(--ivory); }
+  .services-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--graphite); }
+  .service-card { background: var(--noir); padding: 56px 48px; position: relative; overflow: hidden; transition: background 0.4s ease; }
+  .service-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: var(--desire); transform: scaleX(0); transform-origin: left; transition: transform 0.4s ease; }
+  .service-card:hover { background: var(--carbon); }
+  .service-card:hover::before { transform: scaleX(1); }
+  .service-num { font-family: var(--serif); font-size: 72px; font-weight: 300; color: var(--graphite); line-height: 1; position: absolute; top: 32px; right: 40px; transition: color 0.4s ease; }
+  .service-card:hover .service-num { color: rgba(192,57,43,0.15); }
+  .service-icon { width: 40px; height: 1px; background: var(--desire); margin-bottom: 32px; }
+  .service-title { font-family: var(--serif); font-size: 28px; font-weight: 400; color: var(--ivory); margin-bottom: 16px; line-height: 1.2; }
+  .service-body { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; margin-bottom: 28px; }
+  .service-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); border: 1px solid var(--graphite); padding: 5px 12px; }
+  .levels { padding: 160px 60px; background: var(--carbon); }
+  .levels-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 80px; }
+  .level-card { border: 1px solid var(--graphite); padding: 48px 36px; transition: border-color 0.3s ease; }
+  .level-card:hover { border-color: rgba(192,57,43,0.4); }
+  .level-card.featured { border-color: rgba(192,57,43,0.3); background: linear-gradient(135deg, rgba(192,57,43,0.05) 0%, transparent 60%); }
+  .level-badge { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--desire); margin-bottom: 20px; }
+  .level-name { font-family: var(--serif); font-size: 32px; font-weight: 400; color: var(--ivory); margin-bottom: 8px; }
+  .level-sub { font-size: 13px; color: var(--ash); margin-bottom: 32px; font-style: italic; font-family: var(--serif); }
+  .level-desc { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; margin-bottom: 36px; }
+  .level-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+  .level-list li { font-size: 13px; color: var(--ash); display: flex; align-items: flex-start; gap: 12px; font-weight: 300; }
+  .level-list li::before { content: ''; width: 16px; height: 1px; background: var(--desire); margin-top: 10px; flex-shrink: 0; }
+  .values { padding: 160px 60px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: start; }
+  .values-left { position: sticky; top: 120px; }
+  .values-list { display: flex; flex-direction: column; gap: 0; }
+  .value-item { padding: 40px 0; border-bottom: 1px solid var(--graphite); display: grid; grid-template-columns: 48px 1fr; gap: 24px; align-items: start; }
+  .value-item:first-child { border-top: 1px solid var(--graphite); }
+  .value-num { font-family: var(--serif); font-size: 13px; color: var(--desire); margin-top: 4px; }
+  .value-title { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--ivory); margin-bottom: 10px; }
+  .value-body { font-size: 14px; font-weight: 300; color: var(--ash); line-height: 1.8; }
+  .cta-section { padding: 160px 60px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--graphite); }
+  .cta-section::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(192,57,43,0.06) 0%, transparent 70%); }
+  .cta-title { font-family: var(--serif); font-size: clamp(48px, 7vw, 100px); font-weight: 300; color: var(--ivory); line-height: 1; margin-bottom: 24px; position: relative; z-index: 1; }
+  .cta-title em { font-style: italic; color: var(--ash); }
+  .cta-sub { font-size: 15px; color: var(--ash); margin-bottom: 56px; font-weight: 300; position: relative; z-index: 1; }
+  .cta-actions { display: flex; justify-content: center; gap: 24px; position: relative; z-index: 1; }
+  footer { padding: 56px 60px; border-top: 1px solid var(--graphite); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
+  .footer-logo { font-family: var(--serif); font-size: 18px; font-weight: 400; color: var(--ash); text-decoration: none; }
+  .footer-logo span { color: var(--desire); }
+  .footer-copy { font-size: 11px; color: var(--ash); opacity: 0.4; letter-spacing: 0.05em; }
+  .footer-nav { display: flex; gap: 32px; list-style: none; }
+  .footer-nav a { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; opacity: 0.5; transition: opacity 0.3s; }
+  .footer-nav a:hover { opacity: 1; }
+  .footer-social { display: flex; gap: 20px; align-items: center; }
+  .footer-social a { color: var(--ash); opacity: 0.5; transition: opacity 0.3s, color 0.3s; display: flex; align-items: center; }
+  .footer-social a:hover { opacity: 1; color: var(--ivory); }
+  .divider { display: flex; align-items: center; gap: 16px; margin: 0 60px; }
+  .divider::before, .divider::after { content: ''; flex: 1; height: 1px; background: var(--graphite); }
+  .divider-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--desire); }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes scrollLine { 0% { left: -100%; } 100% { left: 100%; } }
+  .reveal { opacity: 0; transform: translateY(32px); transition: opacity 0.8s ease, transform 0.8s ease; }
+  .reveal.visible { opacity: 1; transform: translateY(0); }
+  @media (max-width: 900px) {
+    nav { padding: 24px 28px; }
+    .nav-links { display: none; }
+    .nav-suite-link { display: none; }
+    .hero { padding: 120px 28px 80px; }
+    .manifesto { padding: 80px 28px; grid-template-columns: 1fr; gap: 48px; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .services { padding: 80px 28px; }
+    .services-grid { grid-template-columns: 1fr; }
+    .levels { padding: 80px 28px; }
+    .levels-grid { grid-template-columns: 1fr; }
+    .values { padding: 80px 28px; grid-template-columns: 1fr; }
+    .values-left { position: static; }
+    .cta-section { padding: 80px 28px; }
+    footer { padding: 40px 28px; flex-direction: column; text-align: center; }
+    .divider { margin: 0 28px; }
+  }
+
+  .nav-dropdown { position: relative; }
+  .nav-dropdown-trigger {
+    font-size: 12px; font-weight: 400; color: var(--desire);
+    text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase;
+    cursor: pointer; display: flex; align-items: center; gap: 6px;
+    border: 1px solid rgba(192,57,43,0.4); padding: 8px 18px;
+    transition: background 0.3s, border-color 0.3s; position: relative; z-index: 1;
+  }
+  .nav-dropdown-trigger:hover { background: rgba(192,57,43,0.08); border-color: var(--desire); }
+  .nav-dropdown-trigger::after { content: '▾'; font-size: 10px; transition: transform 0.3s; }
+  .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
+  .nav-dropdown-menu {
+    position: absolute; top: calc(100% + 8px); right: 0;
+    background: var(--carbon); border: 1px solid var(--graphite);
+    min-width: 220px; z-index: 200;
+    opacity: 0; pointer-events: none;
+    transform: translateY(8px);
+    transition: opacity 0.25s ease, transform 0.25s ease;
+  }
+  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; transform: translateY(0); }
+  .nav-dropdown-menu a {
+    display: block; padding: 14px 20px;
+    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--ash); text-decoration: none;
+    border-bottom: 1px solid var(--graphite);
+    transition: color 0.2s, background 0.2s;
+  }
+  .nav-dropdown-menu a:last-child { border-bottom: none; }
+  .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
+  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; }
+</style>
+<?php include 'tags.php'; ?>
+</head>
+<body>
+
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
+<nav>
+  <a href="/" class="logo" aria-label="BagiCo - P&aacute;gina inicial">BagiCo<span>.</span></a>
+  <ul class="nav-links">
+    <li><a href="/#manifesto">Sobre</a></li>
+    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#niveis">Modelos</a></li>
+    <li><a href="/#valores">Valores</a></li>
+  </ul>
+  <div style="display:flex;align-items:center;gap:12px;position:relative;z-index:1;">
+    <div class="nav-dropdown">
+      <span class="nav-dropdown-trigger">Elevar minha marca</span>
+      <div class="nav-dropdown-menu">
+        <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
+        <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
+        <a href="/sites.php"><span>&#9679;</span> Cria&ccedil;&atilde;o de Sites</a>
+        <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
+        <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
+      </div>
+    </div>
+    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+  </div>
+</nav>
+
+<!-- HERO — H1 principal para SEO -->
+<section class="hero" aria-label="Hero BagiCo">
+  <div class="hero-bg"></div>
+  <div class="hero-line"></div>
+  <div class="hero-content">
+    <p class="hero-eyebrow">Ag&ecirc;ncia de Branding em Porto Alegre</p>
+    <h1 class="hero-title">Arquitetos<br>de <em>desejo<span class="dot">.</span></em></h1>
+    <p class="hero-sub">Transformamos estrat&eacute;gia em presen&ccedil;a &mdash; e presen&ccedil;a em crescimento. Somos a fus&atilde;o da mente anal&iacute;tica com a alma art&iacute;stica.</p>
+    <div class="hero-actions">
+      <a href="#niveis" class="btn-primary">Nossos modelos</a>
+      <a href="#manifesto" class="btn-ghost">Nossa hist&oacute;ria</a>
+    </div>
+  </div>
+  <div class="hero-scroll">
+    <div class="scroll-line"></div>
+    <span>Role para baixo</span>
+  </div>
+</section>
+
+<div class="stats" aria-label="N&uacute;meros BagiCo">
+  <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="3">0</span><span style="color:var(--desire)">+</span></div><div class="stat-label">Anos de mercado</div></div>
+  <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="74">0</span><span style="color:var(--desire)">+</span></div><div class="stat-label">Marcas transformadas</div></div>
+  <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="1">0</span><span style="color:var(--desire)">.</span></div><div class="stat-label">Identidade &uacute;nica</div></div>
+  <div class="stat-item reveal"><div class="stat-num"><span class="counter" data-target="0">0</span></div><div class="stat-label">Entregas medianas</div></div>
+</div>
+
+<!-- MANIFESTO — conteúdo rico para IAs e Google -->
+<section class="manifesto" id="manifesto" aria-label="Sobre a BagiCo">
+  <div class="reveal">
+    <p class="manifesto-label">Nossa origem</p>
+    <h2 class="manifesto-title">A fus&atilde;o entre<br>arte <em>e</em> ci&ecirc;ncia</h2>
+  </div>
+  <div class="reveal">
+    <p class="manifesto-body">A BagiCo nasceu de uma recusa em escolher. <strong>Recusa em escolher entre beleza e resultado. Entre estrat&eacute;gia e emo&ccedil;&atilde;o. Entre o dado e o desejo.</strong></p>
+    <p class="manifesto-body">Nosso nome honra o legado de Braudelina Bagisteiro do Amaral &mdash; uma mulher que forjou dignidade atrav&eacute;s da resili&ecirc;ncia. &ldquo;Bagi&rdquo; &eacute; nossa raiz humana. &ldquo;Co&rdquo; &eacute; nossa evolu&ccedil;&atilde;o: de Comunica&ccedil;&atilde;o para Conex&atilde;o, de Companhia para C&oacute;digo.</p>
+    <blockquote class="manifesto-quote">&ldquo;N&atilde;o estamos aqui para fazer o b&aacute;sico bem feito. Estamos aqui para compor o legado da sua marca.&rdquo;</blockquote>
+  </div>
+</section>
+
+<div class="divider"><div class="divider-dot"></div></div>
+
+<section class="services" id="servicos" aria-label="Servi&ccedil;os da BagiCo">
+  <div class="section-header reveal">
+    <div>
+      <p class="section-label">O que fazemos</p>
+      <h2 class="section-title">Servi&ccedil;os que<br><em>transformam</em></h2>
+    </div>
+    <a href="https://wa.me/5551993535790" target="_blank" class="section-link">Fale conosco</a>
+  </div>
+  <div class="services-grid">
+    <article class="service-card reveal">
+      <div class="service-num">01</div>
+      <div class="service-icon"></div>
+      <h3 class="service-title">Estrat&eacute;gia de Marca</h3>
+      <p class="service-body">Decodificamos a complexidade do seu neg&oacute;cio e transformamos em narrativa de autoridade. Posicionamento, arquitetura e dire&ccedil;&atilde;o estrat&eacute;gica que geram resultado.</p>
+      <div class="service-tags"><span class="tag">Posicionamento</span><span class="tag">Arquitetura de comunica&ccedil;&atilde;o</span><span class="tag">Jornada do cliente</span></div>
+    </article>
+    <article class="service-card reveal">
+      <div class="service-num">02</div>
+      <div class="service-icon"></div>
+      <h3 class="service-title">Dire&ccedil;&atilde;o de Presen&ccedil;a</h3>
+      <p class="service-body">Planejamento editorial, dire&ccedil;&atilde;o criativa e curadoria de narrativa. Sua marca come&ccedil;a a parecer grande &mdash; porque &eacute;.</p>
+      <div class="service-tags"><span class="tag">Planejamento editorial</span><span class="tag">Dire&ccedil;&atilde;o criativa</span><span class="tag">Calend&aacute;rio de conte&uacute;do</span></div>
+    </article>
+    <article class="service-card reveal">
+      <div class="service-num">03</div>
+      <div class="service-icon"></div>
+      <h3 class="service-title">Crescimento Estruturado</h3>
+      <p class="service-body">Funil de conte&uacute;do, estrat&eacute;gia de lan&ccedil;amentos e constru&ccedil;&atilde;o de autoridade. Escalamos sua presen&ccedil;a com dire&ccedil;&atilde;o &mdash; sem ru&iacute;do, sem desperd&iacute;cio.</p>
+      <div class="service-tags"><span class="tag">Estrat&eacute;gia de lan&ccedil;amentos</span><span class="tag">Funil de conte&uacute;do</span><span class="tag">Constru&ccedil;&atilde;o de autoridade</span></div>
+    </article>
+    <article class="service-card reveal">
+      <div class="service-num">04</div>
+      <div class="service-icon"></div>
+      <h3 class="service-title">Consultoria Boutique</h3>
+      <p class="service-body">Diagn&oacute;stico estrat&eacute;gico, mentoria de posicionamento e dire&ccedil;&atilde;o de marca para founders. O mais pr&oacute;ximo que uma ag&ecirc;ncia pode chegar do seu neg&oacute;cio.</p>
+      <div class="service-tags"><span class="tag">Diagn&oacute;stico estrat&eacute;gico</span><span class="tag">Mentoria</span><span class="tag">Dire&ccedil;&atilde;o para founders</span></div>
+    </article>
+  </div>
+</section>
+
+<div class="divider"><div class="divider-dot"></div></div>
+
+<section class="levels" id="niveis" aria-label="Modelos de atua&ccedil;&atilde;o BagiCo">
+  <div class="section-header reveal">
+    <div>
+      <p class="section-label">Modelos de atua&ccedil;&atilde;o</p>
+      <h2 class="section-title">Escolha seu<br><em>n&iacute;vel de profundidade</em></h2>
+    </div>
+  </div>
+  <div class="levels-grid">
+    <div class="level-card reveal">
+      <p class="level-badge">N&iacute;vel 01 &mdash; Funda&ccedil;&atilde;o</p>
+      <h3 class="level-name">BagiCo Base</h3>
+      <p class="level-sub">Arquitetura de Marca</p>
+      <p class="level-desc">Para marcas confusas, come&ccedil;ando ou reposicionando. A sensa&ccedil;&atilde;o: organizar o que est&aacute; solto.</p>
+      <ul class="level-list">
+        <li>Diagn&oacute;stico estrat&eacute;gico</li>
+        <li>Clareza de p&uacute;blico</li>
+        <li>Proposta de valor</li>
+        <li>Tom de voz</li>
+        <li>Pilares de conte&uacute;do</li>
+        <li>Estrutura de presen&ccedil;a digital</li>
+      </ul>
+    </div>
+    <div class="level-card featured reveal">
+      <p class="level-badge">N&iacute;vel 02 &mdash; Crescimento</p>
+      <h3 class="level-name">BagiCo Growth</h3>
+      <p class="level-sub">Dire&ccedil;&atilde;o de Presen&ccedil;a</p>
+      <p class="level-desc">Para marcas que existem mas n&atilde;o escalam. A sensa&ccedil;&atilde;o: marca come&ccedil;a a parecer grande.</p>
+      <ul class="level-list">
+        <li>Estrat&eacute;gia mensal</li>
+        <li>Planejamento editorial</li>
+        <li>Dire&ccedil;&atilde;o criativa</li>
+        <li>Ajuste de posicionamento</li>
+        <li>Estrutura de narrativa de marca</li>
+        <li>Acompanhamento de m&eacute;tricas</li>
+      </ul>
+    </div>
+    <div class="level-card reveal">
+      <p class="level-badge">N&iacute;vel 03 &mdash; Expans&atilde;o</p>
+      <h3 class="level-name">BagiCo Partnership</h3>
+      <p class="level-sub">Dire&ccedil;&atilde;o Estrat&eacute;gica Cont&iacute;nua</p>
+      <p class="level-desc">Poucos clientes. Alta proximidade. O modelo boutique real.</p>
+      <ul class="level-list">
+        <li>Planejamento estrat&eacute;gico cont&iacute;nuo</li>
+        <li>Reuni&otilde;es semanais</li>
+        <li>Dire&ccedil;&atilde;o de lan&ccedil;amentos</li>
+        <li>Posicionamento do founder</li>
+        <li>Estrat&eacute;gia de autoridade</li>
+        <li>Decis&otilde;es de crescimento</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<div class="divider"><div class="divider-dot"></div></div>
+
+<section class="values" id="valores" aria-label="Valores da BagiCo">
+  <div class="values-left reveal">
+    <p class="section-label">Nossa ess&ecirc;ncia</p>
+    <h2 class="section-title">O que nos<br><em>define</em></h2>
+    <p style="font-size:14px;color:var(--ash);line-height:1.9;margin-top:24px;font-weight:300;">A BagiCo n&atilde;o aceita o morno. Cada entrega carrega a mesma assinatura: intensa, estruturada e culturalmente relevante.</p>
+  </div>
+  <div class="values-list">
+    <div class="value-item reveal">
+      <span class="value-num">01</span>
+      <div>
+        <h3 class="value-title">Visceralidade</h3>
+        <p class="value-body">N&atilde;o fazemos nada morno. Ou &eacute; intenso, ou n&atilde;o &eacute; BagiCo. Cada projeto precisa provocar algo &mdash; no cliente, no mercado, nas pessoas.</p>
+      </div>
+    </div>
+    <div class="value-item reveal">
+      <span class="value-num">02</span>
+      <div>
+        <h3 class="value-title">Estrutura</h3>
+        <p class="value-body">A criatividade precisa de caos, mas a entrega precisa de ordem. Somos t&atilde;o disciplinados na execu&ccedil;&atilde;o quanto ousados na cria&ccedil;&atilde;o.</p>
+      </div>
+    </div>
+    <div class="value-item reveal">
+      <span class="value-num">03</span>
+      <div>
+        <h3 class="value-title">Est&eacute;tica como Linguagem</h3>
+        <p class="value-body">O belo n&atilde;o &eacute; futilidade &mdash; &eacute; estrat&eacute;gia de poder. A forma como uma marca se apresenta comunica antes de qualquer palavra.</p>
+      </div>
+    </div>
+    <div class="value-item reveal">
+      <span class="value-num">04</span>
+      <div>
+        <h3 class="value-title">Heritage &mdash; Legado</h3>
+        <p class="value-body">Honramos de onde viemos para saber onde vamos chegar. Constru&iacute;mos marcas que valorizam com o tempo &mdash; n&atilde;o campanhas descart&aacute;veis.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA com FAQ visível para AEO -->
+<section class="cta-section" id="contato" aria-label="Contato BagiCo">
+  <h2 class="cta-title reveal">Pronto para<br><em>Engineering</em><br>Desire<span style="color:var(--desire)">.</span></h2>
+  <p class="cta-sub reveal">Porto Alegre e todo o Brasil. Seleto. Intenso. Sem concess&otilde;es.</p>
+  <div class="cta-actions reveal">
+    <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Iniciar conversa no WhatsApp</a>
+  </div>
+</section>
+
+<footer aria-label="Rodap&eacute; BagiCo">
+  <a href="/" class="footer-logo">BagiCo<span>.</span></a>
+  <ul class="footer-nav">
+    <li><a href="/#manifesto">Sobre</a></li>
+    <li><a href="/#servicos">Servi&ccedil;os</a></li>
+    <li><a href="/#niveis">Modelos</a></li>
+    <li><a href="/#contato">Contato</a></li>
+  </ul>
+  <div class="footer-social">
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg>
+    </a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg>
+    </a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+    </a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+    </a>
+  </div>
+  <p class="footer-copy">&copy; 2025 BagiCo. Todos os direitos reservados. Porto Alegre &mdash; Brasil.</p>
+</footer>
+
+<script>
+  var cursor = document.getElementById('cursor');
+  var ring = document.getElementById('cursorRing');
+  var mx = 0, my = 0, rx = 0, ry = 0;
+  document.addEventListener('mousemove', function(e) {
+    mx = e.clientX; my = e.clientY;
+    cursor.style.left = mx + 'px';
+    cursor.style.top = my + 'px';
+  });
+  function animateRing() {
+    rx += (mx - rx) * 0.12;
+    ry += (my - ry) * 0.12;
+    ring.style.left = rx + 'px';
+    ring.style.top = ry + 'px';
+    requestAnimationFrame(animateRing);
+  }
+  animateRing();
+  document.querySelectorAll('a, button').forEach(function(el) {
+    el.addEventListener('mouseenter', function() { cursor.style.transform = 'translate(-50%,-50%) scale(2.5)'; ring.style.width = '48px'; ring.style.height = '48px'; });
+    el.addEventListener('mouseleave', function() { cursor.style.transform = 'translate(-50%,-50%) scale(1)'; ring.style.width = '32px'; ring.style.height = '32px'; });
+  });
+  var reveals = document.querySelectorAll('.reveal');
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry, i) {
+      if (entry.isIntersecting) {
+        setTimeout(function() { entry.target.classList.add('visible'); }, i * 80);
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+  reveals.forEach(function(el) { observer.observe(el); });
+
+  // CONTADOR ANIMADO
+  function animateCounter(el) {
+    var target = parseInt(el.getAttribute('data-target'));
+    if (target === 0) return;
+    var duration = 1800;
+    var start = null;
+    function step(timestamp) {
+      if (!start) start = timestamp;
+      var progress = Math.min((timestamp - start) / duration, 1);
+      var ease = progress < 0.5 ? 2 * progress * progress : -1 + (4 - 2 * progress) * progress;
+      el.textContent = Math.floor(ease * target);
+      if (progress < 1) requestAnimationFrame(step);
+      else el.textContent = target;
+    }
+    requestAnimationFrame(step);
+  }
+
+  var counterObserver = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        animateCounter(entry.target);
+        counterObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.5 });
+
+  document.querySelectorAll('.counter').forEach(function(el) {
+    counterObserver.observe(el);
+  });
+
+</script>
+</body>
+</html>
