@@ -152,28 +152,31 @@
     footer { padding: 32px 28px; flex-direction: column; text-align: center; }
   }
 
+
   .nav-dropdown { position: relative; }
   .nav-dropdown-trigger {
     font-size: 12px; font-weight: 400; color: var(--desire);
-    text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase;
+    letter-spacing: 0.12em; text-transform: uppercase;
     cursor: pointer; display: flex; align-items: center; gap: 6px;
-    border: 1px solid rgba(192,57,43,0.4); padding: 8px 18px;
-    transition: background 0.3s, border-color 0.3s; position: relative; z-index: 1;
+    transition: opacity 0.3s;
   }
-  .nav-dropdown-trigger:hover { background: rgba(192,57,43,0.08); border-color: var(--desire); }
-  .nav-dropdown-trigger::after { content: '▾'; font-size: 10px; transition: transform 0.3s; }
+  .nav-dropdown-trigger:hover { opacity: 0.8; }
+  .nav-dropdown-trigger::after { content: '▾'; font-size: 9px; transition: transform 0.3s; }
   .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
   .nav-dropdown-menu {
-    position: absolute; top: calc(100% + 8px); right: 0;
+    position: absolute; top: calc(100% + 16px); left: 50%;
+    transform: translateX(-50%) translateY(8px);
     background: var(--carbon); border: 1px solid var(--graphite);
-    min-width: 220px; z-index: 200;
+    min-width: 200px; z-index: 200;
     opacity: 0; pointer-events: none;
-    transform: translateY(8px);
     transition: opacity 0.25s ease, transform 0.25s ease;
   }
-  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; transform: translateY(0); }
+  .nav-dropdown:hover .nav-dropdown-menu {
+    opacity: 1; pointer-events: all;
+    transform: translateX(-50%) translateY(0);
+  }
   .nav-dropdown-menu a {
-    display: block; padding: 14px 20px;
+    display: block; padding: 13px 18px;
     font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
     color: var(--ash); text-decoration: none;
     border-bottom: 1px solid var(--graphite);
@@ -181,7 +184,9 @@
   }
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
-  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; }
+  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -198,9 +203,7 @@
     <li><a href="/#servicos">Servi&ccedil;os</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
-  </ul>
-  <div style="display:flex;align-items:center;gap:12px;position:relative;z-index:1;">
-    <div class="nav-dropdown">
+    <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
         <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
@@ -209,7 +212,10 @@
         <a href="/trafego.php"><span>&#9679;</span> Tr&aacute;fego Pago</a>
         <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
       </div>
-    </div>
+    </li>
+  </ul>
+  <div style="display:flex;align-items:center;gap:12px;position:relative;z-index:1;">
+    <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 </nav>
