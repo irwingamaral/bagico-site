@@ -157,11 +157,20 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
-  /* CONTAINER GLOBAL — padding lateral no conteúdo, nav e footer livres */
-  .hero, .section-block, .catalog, .cta-section, .proof-bar,
-  .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-  .servicos { padding-left: 100px; padding-right: 100px; }
-  .divider { margin-left: 100px; margin-right: 100px; }
+  /* ESPAÇAMENTO LATERAL — background estica até a borda, conteúdo tem respiro */
+  .hero { padding-left: 80px; padding-right: 80px; }
+  .section-block { padding-left: 80px; padding-right: 80px; }
+  .catalog { padding-left: 80px; padding-right: 80px; }
+  .cta-section { padding-left: 80px; padding-right: 80px; }
+  .proof-bar { padding-left: 80px; padding-right: 80px; }
+  .tipos { padding-left: 80px; padding-right: 80px; }
+  .diferenciais { padding-left: 80px; padding-right: 80px; }
+  .processo { padding-left: 80px; padding-right: 80px; }
+  .faq { padding-left: 80px; padding-right: 80px; }
+  .plataformas { padding-left: 80px; padding-right: 80px; }
+  .como { padding-left: 80px; padding-right: 80px; }
+  .servicos { padding-left: 80px; padding-right: 80px; }
+  .divider { margin-left: 80px; margin-right: 80px; }
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
@@ -224,7 +233,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="como-atuamos" aria-label="O que fazemos">
-  <div class="reveal"><p class="section-label">O que fazemos</p><h2 class="section-title">IA aplicada com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
+<div class="reveal"><p class="section-label">O que fazemos</p><h2 class="section-title">IA aplicada com<br><em>inten&ccedil;&atilde;o estrat&eacute;gica</em></h2></div>
   <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Imers&atilde;o e Diagn&oacute;stico</h3><p class="card-desc">Mergulhamos nos fluxos de trabalho da sua empresa para entender processos, gargalos e oportunidades. Nenhuma implementa&ccedil;&atilde;o antes de entender o contexto.</p><div class="tags"><span class="tag">An&aacute;lise de processos</span><span class="tag">Mapeamento de gargalos</span><span class="tag">Relat&oacute;rio de oportunidades</span></div></article>
 <article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Automa&ccedil;&atilde;o de Fluxos</h3><p class="card-desc">Implementamos automa&ccedil;&otilde;es com n8n, Make e Zapier para eliminar tarefas manuais repetitivas e conectar ferramentas que j&aacute; existem na sua opera&ccedil;&atilde;o.</p><div class="tags"><span class="tag">n8n e Make</span><span class="tag">Integra&ccedil;&otilde;es entre ferramentas</span><span class="tag">Fluxos sem interven&ccedil;&atilde;o manual</span></div></article>
 <article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA Generativa e LLMs</h3><p class="card-desc">Integra&ccedil;&atilde;o de ChatGPT e outros modelos de linguagem para criar assistentes, automatizar conte&uacute;do, responder clientes e otimizar decis&otilde;es internas.</p><div class="tags"><span class="tag">ChatGPT e GPT-4</span><span class="tag">Assistentes personalizados</span><span class="tag">Automa&ccedil;&atilde;o de conte&uacute;do</span></div></article>
@@ -233,7 +242,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="Diferenciais">
-  <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
+<div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
   <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Imers&atilde;o antes de tudo</h3><p class="diff-desc">N&atilde;o indicamos ferramentas sem entender seu neg&oacute;cio. O diagn&oacute;stico &eacute; o que garante que a IA v&aacute; onde realmente importa.</p></div>
 <div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Implementa&ccedil;&atilde;o real</h3><p class="diff-desc">N&atilde;o s&oacute; recomendamos — implementamos. Samos do diagn&oacute;stico &agrave; ferramenta funcionando na sua opera&ccedil;&atilde;o.</p></div>
 <div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Foco em resultado</h3><p class="diff-desc">Cada implementa&ccedil;&atilde;o tem um objetivo claro: reduzir tempo, aumentar escala ou melhorar convers&atilde;o. Sem IA por modismo.</p></div>
@@ -244,7 +253,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
-  <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
+<div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
   <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos seu neg&oacute;cio, desafios e objetivos. Identificamos se e onde a IA faz sentido para a sua realidade.</p></div></div>
 <div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Imers&atilde;o nos processos</h3><p class="step-desc">Mapeamos seus fluxos de trabalho em detalhe — do comercial ao operacional. Onde est&atilde;o os gargalos, o tempo perdido e as oportunidades.</p></div></div>
 <div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Proposta de implementa&ccedil;&atilde;o</h3><p class="step-desc">Apresentamos as ferramentas recomendadas, o que cada uma resolve, o investimento e o cronograma de implementa&ccedil;&atilde;o.</p></div></div>
@@ -253,7 +262,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="FAQ">
-  <div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
   <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Preciso saber de tecnologia para usar IA no meu neg&oacute;cio?</span><span class="faq-icon">+</span></div><p class="faq-answer">N&atilde;o. Cuidamos de toda a parte t&eacute;cnica e entregamos solu&ccedil;&otilde;es prontas para usar. O treinamento &eacute; pensado para equipes sem background t&eacute;cnico.</p></div>
 <div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais ferramentas de IA a BagiCo trabalha?</span><span class="faq-icon">+</span></div><p class="faq-answer">n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas espec&iacute;ficas conforme o diagn&oacute;stico de cada empresa.</p></div>
 <div class="faq-item"><div class="faq-question"><span class="faq-q-text">Os custos das ferramentas est&atilde;o inclu&iacute;dos?</span><span class="faq-icon">+</span></div><p class="faq-answer">N&atilde;o. As ferramentas de IA t&ecirc;m planos e custos pr&oacute;prios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementa&ccedil;&atilde;o.</p></div>

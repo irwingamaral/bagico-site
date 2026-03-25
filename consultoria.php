@@ -144,11 +144,20 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
 
-  /* CONTAINER GLOBAL — padding lateral no conteúdo, nav e footer livres */
-  .hero, .section-block, .catalog, .cta-section, .proof-bar,
-  .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-  .servicos { padding-left: 100px; padding-right: 100px; }
-  .divider { margin-left: 100px; margin-right: 100px; }
+  /* ESPAÇAMENTO LATERAL — background estica até a borda, conteúdo tem respiro */
+  .hero { padding-left: 80px; padding-right: 80px; }
+  .section-block { padding-left: 80px; padding-right: 80px; }
+  .catalog { padding-left: 80px; padding-right: 80px; }
+  .cta-section { padding-left: 80px; padding-right: 80px; }
+  .proof-bar { padding-left: 80px; padding-right: 80px; }
+  .tipos { padding-left: 80px; padding-right: 80px; }
+  .diferenciais { padding-left: 80px; padding-right: 80px; }
+  .processo { padding-left: 80px; padding-right: 80px; }
+  .faq { padding-left: 80px; padding-right: 80px; }
+  .plataformas { padding-left: 80px; padding-right: 80px; }
+  .como { padding-left: 80px; padding-right: 80px; }
+  .servicos { padding-left: 80px; padding-right: 80px; }
+  .divider { margin-left: 80px; margin-right: 80px; }
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
@@ -211,7 +220,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="modalidades" aria-label="Como atuamos">
-  <div class="reveal"><p class="section-label">Como atuamos</p><h2 class="section-title">Consultoria para cada<br><em>est&aacute;gio do neg&oacute;cio</em></h2></div>
+<div class="reveal"><p class="section-label">Como atuamos</p><h2 class="section-title">Consultoria para cada<br><em>est&aacute;gio do neg&oacute;cio</em></h2></div>
   <div class="cards-grid">    <article class="card reveal">
       <div class="card-num">01</div>
       <div class="card-line"></div>
@@ -244,7 +253,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="Diferenciais BagiCo">
-  <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
+<div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
   <div class="diff-grid">    <div class="diff-item reveal">
       <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
       <h3 class="diff-title">Vis&atilde;o de fora para dentro</h3>
@@ -279,7 +288,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
-  <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
+<div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
   <div class="steps">    <div class="step reveal">
       <span class="step-num">01</span>
       <div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos onde voc&ecirc; est&aacute; e onde quer chegar. Sem compromisso, sem pitch de venda.</p></div>
@@ -300,7 +309,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="D&uacute;vidas frequentes">
-  <div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
   <div class="faq-list reveal">    <div class="faq-item">
       <div class="faq-question"><span class="faq-q-text">Para quem &eacute; a consultoria da BagiCo?</span><span class="faq-icon">+</span></div>
       <p class="faq-answer">Para founders, gestores e empreendedores que precisam de clareza estrat&eacute;gica ou estrutura&ccedil;&atilde;o do marketing.</p>

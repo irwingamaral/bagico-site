@@ -157,11 +157,20 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
-  /* CONTAINER GLOBAL — padding lateral no conteúdo, nav e footer livres */
-  .hero, .section-block, .catalog, .cta-section, .proof-bar,
-  .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-  .servicos { padding-left: 100px; padding-right: 100px; }
-  .divider { margin-left: 100px; margin-right: 100px; }
+  /* ESPAÇAMENTO LATERAL — background estica até a borda, conteúdo tem respiro */
+  .hero { padding-left: 80px; padding-right: 80px; }
+  .section-block { padding-left: 80px; padding-right: 80px; }
+  .catalog { padding-left: 80px; padding-right: 80px; }
+  .cta-section { padding-left: 80px; padding-right: 80px; }
+  .proof-bar { padding-left: 80px; padding-right: 80px; }
+  .tipos { padding-left: 80px; padding-right: 80px; }
+  .diferenciais { padding-left: 80px; padding-right: 80px; }
+  .processo { padding-left: 80px; padding-right: 80px; }
+  .faq { padding-left: 80px; padding-right: 80px; }
+  .plataformas { padding-left: 80px; padding-right: 80px; }
+  .como { padding-left: 80px; padding-right: 80px; }
+  .servicos { padding-left: 80px; padding-right: 80px; }
+  .divider { margin-left: 80px; margin-right: 80px; }
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
@@ -224,7 +233,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" id="temas" aria-label="Temas que abordamos">
-  <div class="reveal"><p class="section-label">Temas que abordamos</p><h2 class="section-title">Palestras que<br><em>geram impacto real</em></h2></div>
+<div class="reveal"><p class="section-label">Temas que abordamos</p><h2 class="section-title">Palestras que<br><em>geram impacto real</em></h2></div>
   <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Branding e Posicionamento de Marca</h3><p class="card-desc">Como construir marcas que geram desejo, autoridade e reconhecimento. Da identidade ao posicionamento estrat&eacute;gico — com exemplos reais e aplic&aacute;veis.</p><div class="tags"><span class="tag">Identidade de marca</span><span class="tag">Posicionamento estrat&eacute;gico</span><span class="tag">Casos pr&aacute;ticos</span></div></article>
 <article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Marketing Digital na Pr&aacute;tica</h3><p class="card-desc">Estrat&eacute;gias reais de marketing digital: redes sociais, tr&aacute;fego pago, conte&uacute;do e SEO. Sem teoria vazia — s&oacute; o que realmente gera resultado.</p><div class="tags"><span class="tag">Redes sociais</span><span class="tag">Tr&aacute;fego pago</span><span class="tag">Conte&uacute;do estrat&eacute;gico</span></div></article>
 <article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA para Neg&oacute;cios</h3><p class="card-desc">Como as empresas est&atilde;o usando intelig&ecirc;ncia artificial para automatizar, prospectar e crescer. Ferramentas, casos de uso e como come&ccedil;ar hoje.</p><div class="tags"><span class="tag">Automa&ccedil;&atilde;o com IA</span><span class="tag">Prospec&ccedil;&atilde;o inteligente</span><span class="tag">Ferramentas pr&aacute;ticas</span></div></article>
@@ -233,7 +242,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="Diferenciais">
-  <div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
+<div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
   <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Conte&uacute;do visceral</h3><p class="diff-desc">N&atilde;o fazemos palestras gen&eacute;ricas. Cada apresenta&ccedil;&atilde;o &eacute; adaptada ao p&uacute;blico e ao contexto do evento — com exemplos reais e linguagem direta.</p></div>
 <div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Pr&aacute;tico e aplic&aacute;vel</h3><p class="diff-desc">O objetivo &eacute; que as pessoas saiam com algo que podem usar imediatamente. N&atilde;o s&oacute; inspira&ccedil;&atilde;o — a&ccedil;&atilde;o.</p></div>
 <div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Experi&ecirc;ncia real de mercado</h3><p class="diff-desc">Falamos do que vivemos. Cases reais, erros reais, aprendizados reais. Sem teoria de livro didático.</p></div>
@@ -244,7 +253,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block" aria-label="Como funciona">
-  <div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
+<div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
   <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Briefing do evento</h3><p class="step-desc">Entendemos o perfil do p&uacute;blico, objetivo do evento, formato e dura&ccedil;&atilde;o desejada. Quanto mais detalhes, melhor a palestra.</p></div></div>
 <div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Proposta e personaliza&ccedil;&atilde;o</h3><p class="step-desc">Apresentamos a proposta de conte&uacute;do e adaptamos o tema ao contexto espec&iacute;fico do seu evento e setor.</p></div></div>
 <div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Prepara&ccedil;&atilde;o e alinhamento</h3><p class="step-desc">Desenvolvemos o conte&uacute;do, apresenta&ccedil;&atilde;o e materiais. Fazemos um alinhamento final antes do evento.</p></div></div>
@@ -253,7 +262,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
 <section class="section-block dark" aria-label="FAQ">
-  <div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
+<div class="reveal"><p class="section-label">D&uacute;vidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
   <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais s&atilde;o os temas dispon&iacute;veis?</span><span class="faq-icon">+</span></div><p class="faq-answer">Branding e posicionamento de marca, marketing digital, intelig&ecirc;ncia artificial para neg&oacute;cios e marca pessoal para founders. Temas customizados tamb&eacute;m s&atilde;o poss&iacute;veis.</p></div>
 <div class="faq-item"><div class="faq-question"><span class="faq-q-text">As palestras s&atilde;o presenciais ou online?</span><span class="faq-icon">+</span></div><p class="faq-answer">Ambas. Realizamos palestras presenciais em Porto Alegre e regi&atilde;o, e online para qualquer localidade do Brasil.</p></div>
 <div class="faq-item"><div class="faq-question"><span class="faq-q-text">Qual a dura&ccedil;&atilde;o m&iacute;nima e m&aacute;xima?</span><span class="faq-icon">+</span></div><p class="faq-answer">De palestras de 30 minutos at&eacute; workshops de meio dia. O formato &eacute; adaptado &agrave; agenda e necessidade do evento.</p></div>

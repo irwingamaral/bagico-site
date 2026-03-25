@@ -282,11 +282,20 @@
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 
 
-  /* CONTAINER GLOBAL — padding lateral no conteúdo, nav e footer livres */
-  .hero, .section-block, .catalog, .cta-section, .proof-bar,
-  .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-  .servicos { padding-left: 100px; padding-right: 100px; }
-  .divider { margin-left: 100px; margin-right: 100px; }
+  /* ESPAÇAMENTO LATERAL — background estica até a borda, conteúdo tem respiro */
+  .hero { padding-left: 80px; padding-right: 80px; }
+  .section-block { padding-left: 80px; padding-right: 80px; }
+  .catalog { padding-left: 80px; padding-right: 80px; }
+  .cta-section { padding-left: 80px; padding-right: 80px; }
+  .proof-bar { padding-left: 80px; padding-right: 80px; }
+  .tipos { padding-left: 80px; padding-right: 80px; }
+  .diferenciais { padding-left: 80px; padding-right: 80px; }
+  .processo { padding-left: 80px; padding-right: 80px; }
+  .faq { padding-left: 80px; padding-right: 80px; }
+  .plataformas { padding-left: 80px; padding-right: 80px; }
+  .como { padding-left: 80px; padding-right: 80px; }
+  .servicos { padding-left: 80px; padding-right: 80px; }
+  .divider { margin-left: 80px; margin-right: 80px; }
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
