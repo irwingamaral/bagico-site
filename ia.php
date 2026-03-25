@@ -447,6 +447,8 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
   document.querySelectorAll('a').forEach(function(a) {
     var href = a.getAttribute('href');
     if (!href) return;
+    // Ignora links do menu mobile e do nav para não conflitar com o menu
+    if (a.closest('.mobile-menu') || a.closest('nav')) return;
     a.setAttribute('data-href', href);
     a.removeAttribute('href');
     a.style.cursor = 'pointer';
