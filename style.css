@@ -296,12 +296,12 @@ nav::before {
    TIPOGRAFIA E COMPONENTES BASE
    ============================================= */
 .btn-primary {
-  background: var(--desire); color: #f5f5f5; text-decoration: none;
+  background: var(--desire); color: #f5f5f5 !important; text-decoration: none;
   font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase;
   padding: 16px 36px; transition: background 0.3s, transform 0.2s;
   display: inline-block;
 }
-.btn-primary:hover { background: var(--ember); transform: translateY(-1px); }
+.btn-primary:hover { background: var(--ember); transform: translateY(-1px); color: #f5f5f5 !important; }
 .btn-secondary {
   color: var(--text-secondary); text-decoration: none;
   font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase;
@@ -536,4 +536,94 @@ footer {
   .cards-grid { grid-template-columns: 1fr; }
   .diff-grid { grid-template-columns: 1fr; }
   footer { padding: 40px 28px; flex-direction: column; text-align: center; }
+}
+
+/* =============================================
+   AJUSTES TEMA CLARO — manchas de fundo, stats, contraste
+   ============================================= */
+
+/* Manchas de radial-gradient no hero — no tema claro ficam cinza */
+[data-theme="light"] .hero-bg,
+[data-theme="light"] .hero > div[style*="radial-gradient"] {
+  background: radial-gradient(ellipse 60% 50% at 70% 40%, rgba(180,178,172,0.18) 0%, transparent 60%),
+              radial-gradient(ellipse 40% 40% at 15% 75%, rgba(180,178,172,0.10) 0%, transparent 50%) !important;
+}
+
+/* Stats bar — no tema claro fundo cinza escuro fica estranho */
+[data-theme="light"] .stats {
+  background: #2a2a24 !important;
+}
+[data-theme="light"] .stats .stat-num,
+[data-theme="light"] .stats .stat-label {
+  color: #f5f5f5 !important;
+}
+
+/* Seção dark (surface) no tema claro — cinza mais escuro que o fundo */
+[data-theme="light"] .section-block.dark,
+[data-theme="light"] .catalog.dark,
+[data-theme="light"] .plataformas {
+  background: #e2e1dc !important;
+}
+
+/* =============================================
+   DROPDOWN — hover com fundo e texto contrastante
+   ============================================= */
+[data-theme="light"] .nav-dropdown-menu-inner {
+  background: #ffffff;
+  border-color: #c0bfb8;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+[data-theme="light"] .nav-dropdown-menu a {
+  color: #3a3a32;
+  border-bottom-color: #e0dfd8;
+}
+[data-theme="light"] .nav-dropdown-menu a:hover {
+  color: #0a0a0a;
+  background: #f0efe9;
+}
+[data-theme="light"] .nav-dropdown-menu a span {
+  color: var(--desire);
+}
+
+/* =============================================
+   MOBILE MENU — tema claro com contraste
+   ============================================= */
+[data-theme="light"] .mobile-menu {
+  background: #f2f1ed;
+}
+[data-theme="light"] .mobile-menu a {
+  color: #0a0a0a;
+}
+[data-theme="light"] .mobile-menu a:hover {
+  color: #5a5a52;
+}
+[data-theme="light"] .mobile-sub-links a {
+  color: #5a5a52 !important;
+}
+[data-theme="light"] .mobile-suite {
+  color: #3a3a32 !important;
+  border-color: #c0bfb8 !important;
+}
+
+/* =============================================
+   CTA section — radial no tema claro fica cinza
+   ============================================= */
+[data-theme="light"] .cta-section::before {
+  background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(180,178,172,0.15) 0%, transparent 70%);
+}
+
+/* =============================================
+   CARDS — bordas e números no tema claro
+   ============================================= */
+[data-theme="light"] .cards-grid {
+  background: #c0bfb8;
+}
+[data-theme="light"] .card {
+  background: #f2f1ed;
+}
+[data-theme="light"] .card:hover {
+  background: #e8e7e2;
+}
+[data-theme="light"] .card-num {
+  color: #d0cfc8;
 }
