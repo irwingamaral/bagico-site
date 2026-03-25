@@ -367,17 +367,24 @@
   .mobile-toggle {
     display: none;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     gap: 5px;
     cursor: pointer;
     position: relative;
-    z-index: 1;
-    padding: 4px;
+    z-index: 101;
+    padding: 10px;
+    width: 44px;
+    height: 44px;
+    border: 1px solid var(--graphite);
+    background: transparent;
+    flex-shrink: 0;
   }
   .mobile-toggle span {
     display: block;
-    width: 24px;
+    width: 20px;
     height: 1.5px;
-    background: var(--ivory);
+    background: var(--desire);
     transition: transform 0.3s ease, opacity 0.3s ease;
   }
   .mobile-toggle.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
@@ -497,6 +504,7 @@
         </div>
       </div>
     </li>
+    <li><a href="/blog">Blog</a></li>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
@@ -523,6 +531,7 @@
     <a href="/palestras.php">Palestras</a>
     <a href="/outros.php">Outros servi&ccedil;os</a>
   </div>
+  <a href="/blog">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
@@ -808,6 +817,36 @@
       else { window.location.href = url; }
     });
   });
+
+  // ---- Menu mobile ----
+  (function() {
+    var toggle = document.getElementById('mobileToggle');
+    var menu = document.getElementById('mobileMenu');
+    if (!toggle || !menu) return;
+    toggle.addEventListener('click', function(e) {
+      e.stopPropagation();
+      var isOpen = menu.classList.contains('open');
+      menu.classList.toggle('open');
+      toggle.classList.toggle('open');
+      document.body.style.overflow = isOpen ? '' : 'hidden';
+    });
+    // Fechar ao clicar em link do menu
+    menu.querySelectorAll('a').forEach(function(a) {
+      a.addEventListener('click', function() {
+        menu.classList.remove('open');
+        toggle.classList.remove('open');
+        document.body.style.overflow = '';
+      });
+    });
+    // Fechar ao clicar fora
+    document.addEventListener('click', function(e) {
+      if (menu.classList.contains('open') && !menu.contains(e.target) && e.target !== toggle) {
+        menu.classList.remove('open');
+        toggle.classList.remove('open');
+        document.body.style.overflow = '';
+      }
+    });
+  })();
 </script>
 </body>
 </html>
