@@ -244,6 +244,11 @@
   }
 
 
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+
+  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
   .nav-dropdown { position: relative; }
   .nav-dropdown-trigger {
     font-size: 12px; font-weight: 400; color: var(--desire);
@@ -274,8 +279,6 @@
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
-  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
-  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -293,7 +296,7 @@
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
-            <div class="nav-dropdown-menu">
+      <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
           <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
           <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
@@ -302,6 +305,12 @@
           <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
         </div>
       </div>
+    </li>
+  </ul>
+  <div class="nav-actions">
+    <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
+    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+  </div>
 </nav>
 
 <!-- HERO -->

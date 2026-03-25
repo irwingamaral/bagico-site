@@ -58,101 +58,11 @@
   .nav-links { display: flex; gap: 40px; list-style: none; position: relative; z-index: 1; }
   .nav-links a { font-size: 12px; font-weight: 400; color: var(--ash); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s ease; }
   .nav-links a:hover { color: var(--ivory); }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
+
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
-  .nav-cta { font-size: 12px; font-weight: 400; color: var(--ivory); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s ease, border-color 0.3s ease; }
-  .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
-  .nav-suite-active { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.3); padding: 10px 22px; }
-
-  /* MAIN */
-  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 140px 60px 80px; position: relative; overflow: hidden; text-align: center; }
-
-  /* BG */
-  .bg-glow { position: absolute; inset: 0; background: radial-gradient(ellipse 70% 60% at 50% 40%, rgba(192,57,43,0.08) 0%, transparent 65%), radial-gradient(ellipse 40% 40% at 20% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); pointer-events: none; }
-  .bg-grid { position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; mask-image: radial-gradient(ellipse 80% 80% at 50% 50%, black 20%, transparent 100%); }
-
-  /* BADGE */
-  .badge { display: inline-flex; align-items: center; gap: 8px; font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); border: 1px solid rgba(192,57,43,0.3); padding: 8px 20px; margin-bottom: 40px; opacity: 0; animation: fadeUp 0.8s ease 0.2s forwards; }
-  .badge-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--desire); animation: pulse 2s ease-in-out infinite; }
-
-  /* TITULO */
-  .suite-eyebrow { font-size: 11px; letter-spacing: 0.3em; text-transform: uppercase; color: var(--ash); margin-bottom: 20px; opacity: 0; animation: fadeUp 0.8s ease 0.3s forwards; }
-  .suite-title { font-family: var(--serif); font-size: clamp(52px, 8vw, 110px); font-weight: 300; line-height: 0.95; color: var(--ivory); margin-bottom: 16px; opacity: 0; animation: fadeUp 0.8s ease 0.4s forwards; }
-  .suite-title em { font-style: italic; color: var(--ash); }
-  .suite-title .dot { color: var(--desire); }
-  .suite-subtitle { font-family: var(--serif); font-size: clamp(18px, 2.5vw, 28px); font-weight: 300; font-style: italic; color: var(--ash); margin-bottom: 32px; opacity: 0; animation: fadeUp 0.8s ease 0.5s forwards; }
-  .suite-desc { font-size: 15px; font-weight: 300; color: var(--ash); line-height: 1.8; max-width: 560px; margin: 0 auto 56px; opacity: 0; animation: fadeUp 0.8s ease 0.6s forwards; }
-  .suite-desc strong { color: var(--ivory); font-weight: 400; }
-
-  /* BOTAO LISTA DE ESPERA */
-  .waitlist-btn { display: inline-flex; align-items: center; gap: 12px; background: transparent; border: 1px solid rgba(192,57,43,0.5); color: var(--ivory); font-family: var(--sans); font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 16px 36px; cursor: pointer; transition: background 0.3s ease, border-color 0.3s ease, transform 0.2s ease; opacity: 0; animation: fadeUp 0.8s ease 0.7s forwards; }
-  .waitlist-btn:hover { background: var(--desire); border-color: var(--desire); transform: translateY(-1px); }
-  .waitlist-btn svg { transition: transform 0.3s ease; }
-  .waitlist-btn:hover svg { transform: translateX(4px); }
-
-  /* MODAL OVERLAY */
-  .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.85); z-index: 200; display: flex; align-items: center; justify-content: center; padding: 20px; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; backdrop-filter: blur(4px); }
-  .modal-overlay.active { opacity: 1; pointer-events: all; }
-
-  /* MODAL */
-  .modal { background: var(--carbon); border: 1px solid var(--graphite); padding: 56px 48px; max-width: 560px; width: 100%; position: relative; transform: translateY(24px); transition: transform 0.3s ease; }
-  .modal-overlay.active .modal { transform: translateY(0); }
-  .modal-close { position: absolute; top: 24px; right: 24px; background: none; border: none; color: var(--ash); font-size: 20px; cursor: pointer; line-height: 1; transition: color 0.2s; font-family: var(--sans); }
-  .modal-close:hover { color: var(--ivory); }
-  .modal-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 16px; }
-  .modal-title { font-family: var(--serif); font-size: 32px; font-weight: 300; color: var(--ivory); margin-bottom: 8px; line-height: 1.1; }
-  .modal-sub { font-size: 13px; color: var(--ash); margin-bottom: 40px; line-height: 1.6; }
-
-  /* FORM */
-  .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
-  .form-full { grid-column: span 2; }
-  .form-group { display: flex; flex-direction: column; gap: 8px; }
-  .form-label { font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ash); }
-  .form-input { background: var(--graphite); border: 1px solid rgba(255,255,255,0.06); color: var(--ivory); font-family: var(--sans); font-size: 13px; font-weight: 300; padding: 12px 16px; outline: none; transition: border-color 0.3s ease; }
-  .form-input::placeholder { color: rgba(138,138,138,0.4); }
-  .form-input:focus { border-color: rgba(192,57,43,0.5); }
-  .form-actions { display: flex; gap: 12px; margin-top: 32px; }
-  .btn-submit { flex: 1; background: var(--desire); color: var(--ivory); border: none; font-family: var(--sans); font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 14px 24px; cursor: pointer; transition: background 0.3s ease, transform 0.2s ease; }
-  .btn-submit:hover { background: var(--ember); transform: translateY(-1px); }
-  .btn-submit:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
-  .btn-clear { background: transparent; color: var(--ash); border: 1px solid var(--graphite); font-family: var(--sans); font-size: 12px; font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; padding: 14px 24px; cursor: pointer; transition: color 0.3s ease, border-color 0.3s ease; }
-  .btn-clear:hover { color: var(--ivory); border-color: var(--ash); }
-
-  /* FEEDBACK */
-  .form-feedback { display: none; text-align: center; padding: 24px 0 0; }
-  .form-feedback.success { display: block; }
-  .feedback-icon { font-size: 32px; margin-bottom: 12px; }
-  .feedback-title { font-family: var(--serif); font-size: 22px; color: var(--ivory); margin-bottom: 8px; }
-  .feedback-sub { font-size: 13px; color: var(--ash); line-height: 1.6; }
-  .form-error { font-size: 12px; color: var(--desire); margin-top: 12px; display: none; }
-  .form-error.visible { display: block; }
-
-  /* FOOTER */
-  footer { padding: 40px 60px; border-top: 1px solid var(--graphite); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
-  .footer-logo { font-family: var(--serif); font-size: 18px; font-weight: 400; color: var(--ash); text-decoration: none; }
-  .footer-logo span { color: var(--desire); }
-  .footer-copy { font-size: 11px; color: var(--ash); opacity: 0.4; letter-spacing: 0.05em; }
-  .footer-nav { display: flex; gap: 32px; list-style: none; }
-  .footer-nav a { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); text-decoration: none; opacity: 0.5; transition: opacity 0.3s; }
-  .footer-nav a:hover { opacity: 1; }
-  .footer-social { display: flex; gap: 20px; align-items: center; }
-  .footer-social a { color: var(--ash); opacity: 0.5; transition: opacity 0.3s, color 0.3s; display: flex; align-items: center; }
-  .footer-social a:hover { opacity: 1; color: var(--ivory); }
-
-  /* ANIMATIONS */
-  @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-  @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.8); } }
-
-  @media (max-width: 900px) {
-    nav { padding: 24px 28px; }
-    .nav-links { display: none; }
-    main { padding: 120px 28px 60px; }
-    .modal { padding: 40px 28px; }
-    .form-grid { grid-template-columns: 1fr; }
-    .form-full { grid-column: span 1; }
-    footer { padding: 32px 28px; flex-direction: column; text-align: center; }
-  }
-
-
+  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
+  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
   .nav-dropdown { position: relative; }
   .nav-dropdown-trigger {
     font-size: 12px; font-weight: 400; color: var(--desire);
@@ -183,8 +93,6 @@
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--ivory); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
-  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--ash); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--graphite); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
-  .nav-suite-link:hover { color: var(--ivory); border-color: var(--ash); }
 </style>
 <?php include 'tags.php'; ?>
 </head>
@@ -203,7 +111,7 @@
     <li><a href="/#valores">Valores</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
-            <div class="nav-dropdown-menu">
+      <div class="nav-dropdown-menu">
         <div class="nav-dropdown-menu-inner">
           <a href="/identidade-visual.php"><span>&#9679;</span> Identidade Visual</a>
           <a href="/social-media.php"><span>&#9679;</span> Social Media</a>
@@ -212,6 +120,12 @@
           <a href="/consultoria.php"><span>&#9679;</span> Consultoria</a>
         </div>
       </div>
+    </li>
+  </ul>
+  <div class="nav-actions">
+    <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
+    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+  </div>
 </nav>
 
 <!-- MAIN -->
