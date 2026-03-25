@@ -576,13 +576,20 @@ footer {
               radial-gradient(ellipse 40% 40% at 15% 75%, rgba(180,178,172,0.10) 0%, transparent 50%) !important;
 }
 
-/* Stats bar — no tema claro fundo cinza escuro fica estranho */
+/* Stats — tema claro: faixa clara e tipografia cinza-chumbo (inclui spans + e .) */
 [data-theme="light"] .stats {
-  background: #2a2a24 !important;
+  background: #d0cfc8 !important;
+}
+[data-theme="light"] .stats .stat-item {
+  background: #f2f1ed !important;
 }
 [data-theme="light"] .stats .stat-num,
+[data-theme="light"] .stats .stat-num span,
 [data-theme="light"] .stats .stat-label {
-  color: #f5f5f5 !important;
+  color: #3d3d3d !important;
+}
+[data-theme="light"] .stats .stat-label {
+  opacity: 0.9 !important;
 }
 
 /* Seção dark (surface) no tema claro — cinza mais escuro que o fundo */
@@ -848,11 +855,6 @@ footer {
 [data-theme="light"] .proof-bar {
   background: #e8e7e1 !important;
   border-color: #d0cfc8 !important;
-}
-
-/* Stats — mantém escuro pois tem texto claro */
-[data-theme="light"] .stats {
-  background: #252520 !important;
 }
 
 /* CTA section — fundo neutro */
