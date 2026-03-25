@@ -28,6 +28,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Preciso saber de tecnologia para usar IA no meu neg&oacute;cio?","acceptedAnswer":{"@type":"Answer","text":"N&atilde;o. Cuidamos de toda a parte t&eacute;cnica e entregamos solu&ccedil;&otilde;es prontas para usar. O treinamento &eacute; pensado para equipes sem background t&eacute;cnico."}},{"@type":"Question","name":"Quais ferramentas de IA a BagiCo trabalha?","acceptedAnswer":{"@type":"Answer","text":"n8n, Make, Zapier, ChatGPT, GPT-4, Elephant.ai e outras ferramentas espec&iacute;ficas conforme o diagn&oacute;stico de cada empresa."}},{"@type":"Question","name":"Os custos das ferramentas est&atilde;o inclu&iacute;dos?","acceptedAnswer":{"@type":"Answer","text":"N&atilde;o. As ferramentas de IA t&ecirc;m planos e custos pr&oacute;prios arcados pelo cliente. Apresentamos todos os custos antes de qualquer implementa&ccedil;&atilde;o."}},{"@type":"Question","name":"Em quanto tempo vejo resultado?","acceptedAnswer":{"@type":"Answer","text":"Depende da complexidade da implementa&ccedil;&atilde;o. Automa&ccedil;&otilde;es simples podem estar funcionando em dias. Implementa&ccedil;&otilde;es mais complexas levam de 2 a 6 semanas."}},{"@type":"Question","name":"Voc&ecirc;s atendem fora de Porto Alegre?","acceptedAnswer":{"@type":"Answer","text":"Sim. A imers&atilde;o pode ser feita presencialmente em Porto Alegre ou remotamente para todo o Brasil."}}]}
 </script>
+<link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -332,6 +333,10 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
+<button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
+  <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+  <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
 <button class="mobile-toggle" id="mobileToggle" aria-label="Abrir menu">
   <span></span><span></span><span></span>
 </button>
@@ -489,6 +494,26 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
         document.body.style.overflow = '';
       }
     });
+  })();
+
+  // ---- Tema claro/escuro ----
+  (function() {
+    var root = document.documentElement;
+    var btn = document.getElementById('themeToggle');
+    // Verificar preferência salva
+    var saved = localStorage.getItem('bagico-theme');
+    // Verificar preferência do sistema
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var theme = saved || (prefersDark ? 'dark' : 'light');
+    root.setAttribute('data-theme', theme);
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = root.getAttribute('data-theme');
+        var next = current === 'dark' ? 'light' : 'dark';
+        root.setAttribute('data-theme', next);
+        localStorage.setItem('bagico-theme', next);
+      });
+    }
   })();
 </script>
 </body>

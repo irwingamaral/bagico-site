@@ -28,6 +28,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quais s&atilde;o os temas dispon&iacute;veis?","acceptedAnswer":{"@type":"Answer","text":"Branding e posicionamento de marca, marketing digital, intelig&ecirc;ncia artificial para neg&oacute;cios e marca pessoal para founders. Temas customizados tamb&eacute;m s&atilde;o poss&iacute;veis."}},{"@type":"Question","name":"As palestras s&atilde;o presenciais ou online?","acceptedAnswer":{"@type":"Answer","text":"Ambas. Realizamos palestras presenciais em Porto Alegre e regi&atilde;o, e online para qualquer localidade do Brasil."}},{"@type":"Question","name":"Qual a dura&ccedil;&atilde;o m&iacute;nima e m&aacute;xima?","acceptedAnswer":{"@type":"Answer","text":"De palestras de 30 minutos at&eacute; workshops de meio dia. O formato &eacute; adaptado &agrave; agenda e necessidade do evento."}},{"@type":"Question","name":"Voc&ecirc;s fazem workshops al&eacute;m de palestras?","acceptedAnswer":{"@type":"Answer","text":"Sim. Al&eacute;m de palestras, oferecemos workshops pr&aacute;ticos onde os participantes trabalham em exerc&iacute;cios aplicados ao seu neg&oacute;cio."}},{"@type":"Question","name":"Como &eacute; feito o or&ccedil;amento?","acceptedAnswer":{"@type":"Answer","text":"O valor varia conforme o formato, dura&ccedil;&atilde;o, localidade e personaliza&ccedil;&atilde;o. Entre em contato para receber uma proposta."}}]}
 </script>
+<link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -332,6 +333,10 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
     <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
+<button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
+  <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+  <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
 <button class="mobile-toggle" id="mobileToggle" aria-label="Abrir menu">
   <span></span><span></span><span></span>
 </button>
@@ -489,6 +494,26 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
         document.body.style.overflow = '';
       }
     });
+  })();
+
+  // ---- Tema claro/escuro ----
+  (function() {
+    var root = document.documentElement;
+    var btn = document.getElementById('themeToggle');
+    // Verificar preferência salva
+    var saved = localStorage.getItem('bagico-theme');
+    // Verificar preferência do sistema
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var theme = saved || (prefersDark ? 'dark' : 'light');
+    root.setAttribute('data-theme', theme);
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = root.getAttribute('data-theme');
+        var next = current === 'dark' ? 'light' : 'dark';
+        root.setAttribute('data-theme', next);
+        localStorage.setItem('bagico-theme', next);
+      });
+    }
   })();
 </script>
 </body>
