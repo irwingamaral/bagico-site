@@ -658,7 +658,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="faq-q-text">Vocês criam os criativos dos anúncios?</span>
         <span class="faq-icon">+</span>
       </div>
-      <p class="faq-answer">Sim. A BagiCo cria os textos, imagens e vídeos dos anúncios. Nosso diferencial é que críativos e estratégia são criados pela mesma equipe, garantindo consistência de mensagem.</p>
+      <p class="faq-answer">Sim. A BagiCo cria os textos, imagens e vídeos dos anúncios. Nosso diferencial é que criativos e estratégia são criados pela mesma equipe, garantindo consistência de mensagem.</p>
     </div>
     <div class="faq-item">
       <div class="faq-question">
