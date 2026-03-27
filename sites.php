@@ -139,7 +139,7 @@
   nav::before { content: ''; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(10,10,10,0.95) 0%, transparent 100%); pointer-events: none; }
   .logo { font-family: var(--serif); font-size: 22px; font-weight: 400; color: var(--text-secondary); letter-spacing: -0.5px; position: relative; z-index: 1; text-decoration: none; }
   .logo span { color: var(--desire); }
-  .nav-links a { font-size: 12px; color: var(--text-secondary); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s; }
+  .nav-links a { font-size: 12px; font-weight: 400; color: var(--text-secondary); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s ease; }
   .nav-links a:hover { color: var(--text-primary); }
   .nav-cta { position: relative; z-index: 1; font-size: 12px; color: var(--text-primary); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s, border-color 0.3s; }
   .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
