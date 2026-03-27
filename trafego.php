@@ -140,7 +140,7 @@
   .nav-links a:hover { color: var(--text-primary); }
   .nav-cta { position: relative; z-index: 1; font-size: 12px; color: var(--text-primary); text-decoration: none; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.5); padding: 10px 22px; transition: background 0.3s, border-color 0.3s; }
   .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
-  .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 60px; position: relative; overflow: hidden; }
+  .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 96px; position: relative; overflow: hidden; }
   .hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 70% 40%, rgba(192,57,43,0.09) 0%, transparent 60%), radial-gradient(ellipse 40% 40% at 10% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); }
   .hero-content { position: relative; z-index: 2; max-width: 800px; }
   .hero-badge { display: inline-flex; align-items: center; gap: 8px; font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); border: 1px solid rgba(192,57,43,0.3); padding: 8px 20px; margin-bottom: 40px; opacity: 0; animation: fadeUp 0.8s ease 0.2s forwards; }
@@ -165,7 +165,7 @@
   .plataforma-tipo { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-secondary); opacity: 0.6; }
 
   /* COMO FUNCIONA */
-  .como { padding: 120px 60px; }
+  .como { padding: 120px 96px; }
   .section-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 16px; }
   .section-title { font-family: var(--serif); font-size: clamp(32px, 3.5vw, 52px); font-weight: 300; color: var(--text-primary); line-height: 1.1; margin-bottom: 64px; }
   .section-title em { font-style: italic; color: var(--text-secondary); }
@@ -184,7 +184,7 @@
   .resultado-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
 
   /* SERVICOS INCLUSOS */
-  .servicos { padding: 120px 60px; background: var(--surface); }
+  .servicos { padding: 120px 96px; background: var(--surface); }
   .servicos-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 64px; }
   .servico-card { border: 1px solid var(--border); padding: 40px 32px; transition: border-color 0.3s; }
   .servico-card:hover { border-color: rgba(192,57,43,0.4); }
@@ -193,7 +193,7 @@
   .servico-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.8; }
 
   /* FAQ */
-  .faq { padding: 120px 60px; }
+  .faq { padding: 120px 96px; }
   .faq-list { margin-top: 64px; }
   .faq-item { border-bottom: 1px solid var(--border); }
   .faq-item:first-child { border-top: 1px solid var(--border); }
@@ -205,7 +205,7 @@
   .faq-item.open .faq-answer { max-height: 200px; padding-bottom: 28px; }
 
   /* CTA */
-  .cta { padding: 140px 60px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--border); }
+  .cta { padding: 140px 96px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--border); }
   .cta::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(192,57,43,0.07) 0%, transparent 70%); }
   .cta-title { font-family: var(--serif); font-size: clamp(44px, 6vw, 88px); font-weight: 300; color: var(--text-primary); line-height: 1; margin-bottom: 20px; position: relative; z-index: 1; }
   .cta-title em { font-style: italic; color: var(--text-secondary); }
@@ -221,7 +221,7 @@
   .footer-social a { color: var(--text-secondary); opacity: 0.5; transition: opacity 0.3s; display: flex; }
   .footer-social a:hover { opacity: 1; }
   .footer-copy { font-size: 11px; color: var(--text-secondary); opacity: 0.4; }
-  .divider { display: flex; align-items: center; gap: 16px; margin: 0 60px; }
+  .divider { display: flex; align-items: center; gap: 16px; margin: 0 96px; }
   .divider::before, .divider::after { content: ''; flex: 1; height: 1px; background: var(--graphite); }
   .divider-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--desire); }
   @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }

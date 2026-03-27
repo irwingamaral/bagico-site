@@ -145,7 +145,7 @@
   .nav-cta:hover { background: var(--desire); border-color: var(--desire); }
 
   /* HERO */
-  .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 60px; position: relative; overflow: hidden; }
+  .hero { min-height: 100vh; display: flex; align-items: center; padding: 0 96px; position: relative; overflow: hidden; }
   .hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 70% 50%, rgba(192,57,43,0.08) 0%, transparent 60%), radial-gradient(ellipse 40% 40% at 20% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); }
   .hero-content { position: relative; z-index: 2; max-width: 800px; }
   .hero-badge { display: inline-flex; align-items: center; gap: 8px; font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); border: 1px solid rgba(192,57,43,0.3); padding: 8px 20px; margin-bottom: 40px; opacity: 0; animation: fadeUp 0.8s ease 0.2s forwards; }
@@ -168,7 +168,7 @@
   .proof-text a:hover { border-color: var(--desire); }
 
   /* TIPOS DE SITES */
-  .tipos { padding: 120px 60px; }
+  .tipos { padding: 120px 96px; }
   .section-label { font-size: 10px; letter-spacing: 0.25em; text-transform: uppercase; color: var(--desire); margin-bottom: 16px; }
   .section-title { font-family: var(--serif); font-size: clamp(32px, 3.5vw, 52px); font-weight: 300; color: var(--text-primary); line-height: 1.1; margin-bottom: 64px; }
   .section-title em { font-style: italic; color: var(--text-secondary); }
@@ -185,7 +185,7 @@
   .tag { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-secondary); border: 1px solid var(--border); padding: 4px 10px; }
 
   /* DIFERENCIAIS */
-  .diferenciais { padding: 120px 60px; background: var(--surface); }
+  .diferenciais { padding: 120px 96px; background: var(--surface); }
   .diff-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; margin-top: 64px; }
   .diff-item { border-top: 1px solid var(--border); padding-top: 32px; }
   .diff-num { font-family: var(--serif); font-size: 40px; font-weight: 300; color: var(--desire); margin-bottom: 16px; line-height: 1; }
@@ -193,7 +193,7 @@
   .diff-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.8; }
 
   /* PROCESSO */
-  .processo { padding: 120px 60px; }
+  .processo { padding: 120px 96px; }
   .processo-list { display: flex; flex-direction: column; gap: 0; margin-top: 64px; }
   .processo-item { display: grid; grid-template-columns: 80px 1fr; gap: 32px; padding: 40px 0; border-bottom: 1px solid var(--border); align-items: start; }
   .processo-item:first-child { border-top: 1px solid var(--border); }
@@ -202,7 +202,7 @@
   .processo-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.8; }
 
   /* FAQ */
-  .faq { padding: 120px 60px; background: var(--surface); }
+  .faq { padding: 120px 96px; background: var(--surface); }
   .faq-list { margin-top: 64px; display: flex; flex-direction: column; gap: 0; }
   .faq-item { border-bottom: 1px solid var(--border); }
   .faq-item:first-child { border-top: 1px solid var(--border); }
@@ -214,7 +214,7 @@
   .faq-item.open .faq-answer { max-height: 200px; padding-bottom: 28px; }
 
   /* CTA FINAL */
-  .cta { padding: 140px 60px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--border); }
+  .cta { padding: 140px 96px; text-align: center; position: relative; overflow: hidden; border-top: 1px solid var(--border); }
   .cta::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(192,57,43,0.07) 0%, transparent 70%); }
   .cta-title { font-family: var(--serif); font-size: clamp(44px, 6vw, 88px); font-weight: 300; color: var(--text-primary); line-height: 1; margin-bottom: 20px; position: relative; z-index: 1; }
   .cta-title em { font-style: italic; color: var(--text-secondary); }
@@ -234,7 +234,7 @@
   .footer-copy { font-size: 11px; color: var(--text-secondary); opacity: 0.4; }
 
   /* DIVIDER */
-  .divider { display: flex; align-items: center; gap: 16px; margin: 0 60px; }
+  .divider { display: flex; align-items: center; gap: 16px; margin: 0 96px; }
   .divider::before, .divider::after { content: ''; flex: 1; height: 1px; background: var(--graphite); }
   .divider-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--desire); }
 

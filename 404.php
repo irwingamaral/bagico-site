@@ -138,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 <style>
-  .error-page{min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;padding:120px 60px;}
+  .error-page{min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;padding:120px 96px;}
   .error-page::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 60% 50% at 50% 50%,rgba(192,57,43,.06) 0%,transparent 65%);}
   .error-content{text-align:center;position:relative;z-index:2;}
   .error-code{font-family:var(--serif);font-size:clamp(140px,20vw,280px);font-weight:300;line-height:1;color:var(--graphite);display:block;margin-bottom:-20px;opacity:0;animation:fadeUp .8s ease .1s forwards;}

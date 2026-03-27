@@ -64,7 +64,7 @@
   .nav-suite-active { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid rgba(192,57,43,0.3); padding: 10px 22px; }
 
   /* MAIN */
-  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 140px 60px 80px; position: relative; overflow: hidden; text-align: center; }
+  main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 140px 96px 80px; position: relative; overflow: hidden; text-align: center; }
 
   /* BG */
   .bg-glow { position: absolute; inset: 0; background: radial-gradient(ellipse 70% 60% at 50% 40%, rgba(192,57,43,0.08) 0%, transparent 65%), radial-gradient(ellipse 40% 40% at 20% 80%, rgba(192,57,43,0.04) 0%, transparent 50%); pointer-events: none; }
@@ -194,8 +194,8 @@
   @media (max-width: 1200px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
     .tipos, .diferenciais, .processo, .faq, .plataformas, .como,
-    .servicos { padding-left: 60px; padding-right: 60px; }
-    .divider { margin-left: 60px; margin-right: 60px; }
+    .servicos { padding-left: 96px; padding-right: 96px; }
+    .divider { margin-left: 96px; margin-right: 96px; }
   }
   @media (max-width: 900px) {
     .hero, .section-block, .catalog, .cta-section, .proof-bar,
