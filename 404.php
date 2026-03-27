@@ -106,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20com%20voc%C3%AAs." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 </nav>
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20com%20voc%C3%AAs." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 <style>
   .error-page{min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;padding:120px 96px;}
@@ -159,7 +159,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="error-sub">A página que você procura não existe ou foi movida.<span class="error-dot"></span>Mas a BagiCo continua aqui.</p>
     <div class="error-actions">
       <a href="/" class="btn-primary">Voltar ao início</a>
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-secondary">Falar conosco</a>
+      <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20com%20voc%C3%AAs." target="_blank" class="btn-secondary">Falar conosco</a>
     </div>
   </div>
 </section>

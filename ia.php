@@ -335,7 +335,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20IA%20para%20Neg%C3%B3cios%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -364,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20IA%20para%20Neg%C3%B3cios%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
 <section class="hero" aria-label="IA para meu negócio BagiCo">
@@ -375,7 +375,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="hero-sub">Mapeamos seus processos, identificamos onde a IA gera mais valor e implementamos as ferramentas certas. Do diagnóstico à automação funcionando — com suporte real em cada etapa.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero implementar IA</a>
+      <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20IA%20para%20Neg%C3%B3cios%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Quero implementar IA</a>
       <a href="#como-atuamos" class="btn-secondary">Como funciona</a>
     </div>
   </div>
@@ -424,7 +424,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h2 class="cta-title reveal">Vamos colocar a IA<br>para trabalhar pelo<br><em>seu negócio<span style='color:var(--desire)'>.</span></em></h2>
   <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Diagnóstico inicial sem compromisso.</p>
   <div class="cta-actions reveal">
-    <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20IA%20para%20Neg%C3%B3cios%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>

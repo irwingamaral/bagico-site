@@ -106,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Blog%20da%20BagiCo%20e%20quero%20saber%20mais%20novidades." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 </nav>
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -135,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Blog%20da%20BagiCo%20e%20quero%20saber%20mais%20novidades." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 <style>
   .soon-page{min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;padding:120px 96px;}
@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h1 class="soon-title">Algo grande<br>está <em>chegando<span class="dot">.</span></em></h1>
     <p class="soon-sub">Estamos construindo algo que vai transformar a forma como você vê sua marca. Em breve, tudo será revelado.</p>
     <div class="soon-divider"></div>
-    <p class="soon-contact">Quer ser o primeiro a saber? <a href="https://wa.me/5551993535790" target="_blank">Fale com a gente.</a></p>
+    <p class="soon-contact">Quer ser o primeiro a saber? <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Blog%20da%20BagiCo%20e%20quero%20saber%20mais%20novidades." target="_blank">Fale com a gente.</a></p>
   </div>
 </section>
 <footer>

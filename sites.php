@@ -462,7 +462,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Cria%C3%A7%C3%A3o%20de%20Sites%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -491,7 +491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Cria%C3%A7%C3%A3o%20de%20Sites%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
 
@@ -510,7 +510,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="hero-sub">Sites institucionais, landing pages e e-commerce com design sob medida, alto desempenho e foco total em conversão. Orçamentos personalizados para cada projeto.</p>
     <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Quero um orçamento</a>
+      <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Cria%C3%A7%C3%A3o%20de%20Sites%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Quero um orçamento</a>
       <a href="#tipos" class="btn-secondary">Ver o que fazemos</a>
     </div>
   </div>
@@ -692,7 +692,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h2 class="cta-title reveal">Vamos construir<br>seu site<span style="color:var(--desire)">.</span></h2>
   <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Orçamento personalizado, sem compromisso.</p>
   <div class="cta-actions reveal">
-    <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Falar no WhatsApp</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Cria%C3%A7%C3%A3o%20de%20Sites%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Falar no WhatsApp</a>
     <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>

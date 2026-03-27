@@ -357,7 +357,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20da%20BagiCo%20Suite%20e%20quero%20saber%20mais." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -386,7 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20da%20BagiCo%20Suite%20e%20quero%20saber%20mais." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
 

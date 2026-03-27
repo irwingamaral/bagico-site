@@ -514,7 +514,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790" target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20sobre%20os%20servi%C3%A7os." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -543,7 +543,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790" target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20sobre%20os%20servi%C3%A7os." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
 
@@ -594,7 +594,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <p class="section-label">O que fazemos</p>
       <h2 class="section-title">Serviços que<br><em>transformam</em></h2>
     </div>
-    <a href="https://wa.me/5551993535790" target="_blank" class="section-link">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20sobre%20os%20servi%C3%A7os." target="_blank" class="section-link">Fale conosco</a>
   </div>
   <div class="services-grid">
     <article class="service-card reveal">
@@ -728,7 +728,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h2 class="cta-title reveal">Pronto para<br><em>Engineering</em><br>Desire<span style="color:var(--desire)">.</span></h2>
   <p class="cta-sub reveal">Porto Alegre e todo o Brasil. Seleto. Intenso. Sem concessões.</p>
   <div class="cta-actions reveal">
-    <a href="https://wa.me/5551993535790" target="_blank" class="btn-primary">Iniciar conversa no WhatsApp</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20sobre%20os%20servi%C3%A7os." target="_blank" class="btn-primary">Iniciar conversa no WhatsApp</a>
   </div>
 </section>
 
