@@ -347,6 +347,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <a href="/sites.php"><span>●</span> Criação de Sites</a>
           <a href="/trafego.php"><span>●</span> Tráfego Pago</a>
           <a href="/consultoria.php"><span>●</span> Consultoria</a>
+          <a href="/mentoria.php"><span>●</span> Mentoria</a>
           <a href="/ia.php"><span>●</span> IA para meu negócio</a>
           <a href="/palestras.php"><span>●</span> Palestras</a>
           <a href="/outros.php"><span>●</span> Outros serviços</a>
@@ -380,6 +381,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/sites.php">Criação de Sites</a>
     <a href="/trafego.php">Tráfego Pago</a>
     <a href="/consultoria.php">Consultoria</a>
+    <a href="/mentoria.php">Mentoria</a>
     <a href="/ia.php">IA para meu negócio</a>
     <a href="/palestras.php">Palestras</a>
     <a href="/outros.php">Outros serviços</a>

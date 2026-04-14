@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Palestras de Branding, Marketing e IA em Porto Alegre — BagiCo</title>
-<meta name="description" content="Palestras sobre branding, estratégia de marca, marketing digital e inteligência artificial para empresas e eventos em todo o Brasil. Conteúdo visceral, prático e aplicável.">
-<meta name="keywords" content="palestras de marketing Porto Alegre, palestra de branding, palestra sobre IA empresas, palestrante de marketing RS, eventos corporativos Porto Alegre, BagiCo palestras">
+<title>Mentoria para Profissionais de Marketing e Comunicação — BagiCo Porto Alegre</title>
+<meta name="description" content="Mentoria estratégica para profissionais de marketing, comunicação e negócios que sentem estagnação: evoluir na carreira CLT, crescer como freelancer ou escalar a empresa própria. Porto Alegre e Brasil.">
+<meta name="keywords" content="mentoria marketing, mentoria comunicação, mentoria carreira marketing, desenvolvimento profissional marketing, mentoria para empreendedores, mentoria estratégica Porto Alegre, crescimento na carreira comunicação, BagiCo">
 <meta name="author" content="BagiCo">
 <meta name="robots" content="index, follow">
 <meta name="language" content="pt-BR">
-<link rel="canonical" href="https://www.bagico.com.br/palestras">
+<link rel="canonical" href="https://www.bagico.com.br/mentoria">
 <meta name="geo.region" content="BR-RS">
 <meta name="geo.placename" content="Porto Alegre, Rio Grande do Sul, Brasil">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.bagico.com.br/palestras">
-<meta property="og:title" content="Palestras de Branding, Marketing e IA — BagiCo">
-<meta property="og:description" content="Palestras práticas e viscerais sobre branding, estratégia de marca, marketing digital e inteligência artificial. Para empresas e eventos em todo o Brasil.">
+<meta property="og:url" content="https://www.bagico.com.br/mentoria">
+<meta property="og:title" content="Mentoria para Marketing, Comunicação e Crescimento Profissional — BagiCo">
+<meta property="og:description" content="Sair da estagnação: mentoria para quem quer evoluir na carreira ou no negócio próprio, com foco em estratégia, posicionamento e decisões de alto impacto.">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="BagiCo">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Palestras de Branding, Marketing e IA — BagiCo">
-<meta name="twitter:description" content="Palestras práticas e viscerais sobre branding, estratégia de marca, marketing digital e inteligência artificial. Para empresas e eventos em todo o Brasil.">
+<meta name="twitter:title" content="Mentoria BagiCo — Marketing, Comunicação e Carreira">
+<meta name="twitter:description" content="Mentoria estratégica para profissionais que querem crescer na carreira ou escalar o próprio negócio. Porto Alegre e todo o Brasil.">
 <link rel="icon" type="image/png" href="/img/bagico_favicon.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Palestras Corporativas","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Palestras sobre branding, estratégia de marca, marketing digital e inteligência artificial para empresas e eventos em todo o Brasil.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}]}
+{"@context":"https://schema.org","@type":"Service","name":"Mentoria estratégica para profissionais de marketing e comunicação","serviceType":"Mentoria e coaching de carreira estratégica","provider":{"@type":"MarketingAgency","name":"BagiCo","url":"https://www.bagico.com.br","telephone":"+55-51-993535790","address":{"@type":"PostalAddress","addressLocality":"Porto Alegre","addressRegion":"RS","addressCountry":"BR"}},"description":"Mentoria para profissionais de marketing, comunicação e negócios em busca de crescimento na carreira ou na empresa própria, com clareza estratégica e accountability.","areaServed":[{"@type":"City","name":"Porto Alegre"},{"@type":"Country","name":"Brasil"}],"audience":{"@type":"Audience","audienceType":"Profissionais de marketing, comunicação e empreendedores"}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quais são os temas disponíveis?","acceptedAnswer":{"@type":"Answer","text":"Branding e posicionamento de marca, marketing digital, inteligência artificial para negócios e marca pessoal para founders. Temas customizados também são possíveis."}},{"@type":"Question","name":"As palestras são presenciais ou online?","acceptedAnswer":{"@type":"Answer","text":"Ambas. Realizamos palestras presenciais em Porto Alegre e região, e online para qualquer localidade do Brasil."}},{"@type":"Question","name":"Qual a duração mínima e máxima?","acceptedAnswer":{"@type":"Answer","text":"De palestras de 30 minutos até workshops de meio dia. O formato é adaptado à agenda e necessidade do evento."}},{"@type":"Question","name":"Vocês fazem workshops além de palestras?","acceptedAnswer":{"@type":"Answer","text":"Sim. Além de palestras, oferecemos workshops práticos onde os participantes trabalham em exercícios aplicados ao seu negócio."}},{"@type":"Question","name":"Como é feito o orçamento?","acceptedAnswer":{"@type":"Answer","text":"O valor varia conforme o formato, duração, localidade e personalização. Entre em contato para receber uma proposta."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Para quem é a mentoria da BagiCo?","acceptedAnswer":{"@type":"Answer","text":"Para profissionais de marketing, comunicação, social media e áreas próximas que sentem estagnação — seja em carreira assinada, como autônomos ou donos de negócio — e querem um plano claro para crescer com mais direção e confiança."}},{"@type":"Question","name":"Qual a diferença entre mentoria BagiCo e consultoria para empresas?","acceptedAnswer":{"@type":"Answer","text":"A mentoria coloca você no centro: carreira, posicionamento pessoal, decisões de transição e crescimento do seu papel ou do seu negócio. A consultoria empresarial foca na marca e no marketing da empresa como um todo."}},{"@type":"Question","name":"A mentoria funciona online?","acceptedAnswer":{"@type":"Answer","text":"Sim. Atendemos remotamente para todo o Brasil e também presencialmente em Porto Alegre quando faz sentido para o processo."}},{"@type":"Question","name":"Com que frequência são as sessões?","acceptedAnswer":{"@type":"Answer","text":"O ritmo é combinado no diagnóstico inicial — em geral encontros quinzenais ou mensais, com suporte pontual entre sessões, conforme o pacote escolhido."}},{"@type":"Question","name":"A BagiCo ajuda quem quer sair do CLT e empreender?","acceptedAnswer":{"@type":"Answer","text":"Sim. Trabalhamos transição de carreira, precificação, posicionamento, oferta e narrativa para quem está construindo caminho próprio em marketing ou comunicação."}},{"@type":"Question","name":"Como contratar a mentoria?","acceptedAnswer":{"@type":"Answer","text":"O primeiro passo é uma conversa pelo WhatsApp +55 51 993535790 para alinhar objetivos e indicar o formato ideal de acompanhamento."}}]}
 </script>
 <link rel="stylesheet" href="/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,28 +46,13 @@ nav::before{content:'';position:absolute;inset:0;background:linear-gradient(to b
 .nav-links a:hover{color:var(--text-primary);}
 .nav-cta{position:relative;z-index:1;font-size:12px;color:var(--text-primary);text-decoration:none;letter-spacing:.12em;text-transform:uppercase;border:1px solid rgba(192,57,43,.5);padding:10px 22px;transition:background .3s,border-color .3s;}
 .nav-cta:hover{background:var(--desire);border-color:var(--desire);}
-  .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
-  .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--border); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
-  .nav-suite-link:hover { color: var(--text-primary); border-color: var(--text-secondary); }
-  .nav-dropdown { position: relative; }
-  .nav-dropdown-trigger { font-size: 12px; font-weight: 400; color: var(--desire); letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; display: flex; align-items: center; gap: 6px; transition: opacity 0.3s; user-select: none; }
-  .nav-dropdown-trigger:hover { opacity: 0.8; }
-  .nav-dropdown-trigger::after { content: '\25BE'; font-size: 9px; transition: transform 0.3s; }
-  .nav-dropdown:hover .nav-dropdown-trigger::after { transform: rotate(180deg); }
-  .nav-dropdown-menu { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); padding-top: 16px; min-width: 210px; z-index: 200; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
-  .nav-dropdown:hover .nav-dropdown-menu { opacity: 1; pointer-events: all; }
-  .nav-dropdown-menu-inner { background: var(--surface); border: 1px solid var(--border); }
-  .nav-dropdown-menu a { display: block; padding: 13px 18px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-secondary); text-decoration: none; border-bottom: 1px solid var(--border); transition: color 0.2s, background 0.2s; }
-  .nav-dropdown-menu a:last-child { border-bottom: none; }
-  .nav-dropdown-menu a:hover { color: var(--text-primary); background: var(--graphite); }
-  .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
 .hero{min-height:100vh;display:flex;align-items:center;padding:0 96px;position:relative;overflow:hidden;}
 .hero-content{position:relative;z-index:2;max-width:800px;}
 .hero-badge{display:inline-flex;align-items:center;gap:8px;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--desire);border:1px solid rgba(192,57,43,.3);padding:8px 20px;margin-bottom:40px;opacity:0;animation:fadeUp .8s ease .2s forwards;}
 .hero-title{font-family:var(--serif);font-size:clamp(52px,8vw,110px);font-weight:300;line-height:.92;color:var(--text-primary);margin-bottom:32px;opacity:0;animation:fadeUp .8s ease .4s forwards;}
 .hero-title em{font-style:italic;color:var(--text-secondary);}
 .hero-title .dot{color:var(--desire);}
-.hero-sub{font-size:16px;color:var(--text-secondary);line-height:1.8;max-width:520px;margin-bottom:16px;opacity:0;animation:fadeUp .8s ease .6s forwards;}
+.hero-sub{font-size:16px;color:var(--text-secondary);line-height:1.8;max-width:540px;margin-bottom:16px;opacity:0;animation:fadeUp .8s ease .6s forwards;}
 .hero-proof{font-size:13px;color:var(--text-secondary);opacity:0;font-style:italic;font-family:var(--serif);margin-bottom:52px;animation:fadeUp .8s ease .7s forwards;}
 .hero-actions{display:flex;align-items:center;gap:24px;opacity:0;animation:fadeUp .8s ease .8s forwards;flex-wrap:wrap;}
 .btn-primary{background:var(--desire);color:var(--text-primary);text-decoration:none;font-size:12px;letter-spacing:.15em;text-transform:uppercase;padding:16px 36px;transition:background .3s,transform .2s;display:inline-block;}
@@ -111,7 +96,7 @@ nav::before{content:'';position:absolute;inset:0;background:linear-gradient(to b
 .faq-icon{color:var(--desire);font-size:20px;transition:transform .3s;flex-shrink:0;margin-left:20px;}
 .faq-item.open .faq-icon{transform:rotate(45deg);}
 .faq-answer{font-size:13px;color:var(--text-secondary);line-height:1.9;max-height:0;overflow:hidden;transition:max-height .4s ease,padding .3s ease;}
-.faq-item.open .faq-answer{max-height:220px;padding-bottom:26px;}
+.faq-item.open .faq-answer{max-height:260px;padding-bottom:26px;}
 .cta-section{padding:140px 96px;text-align:center;position:relative;overflow:hidden;border-top:1px solid var(--graphite);}
 .cta-section::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 50% 50%,rgba(192,57,43,.07) 0%,transparent 70%);}
 .cta-title{font-family:var(--serif);font-size:clamp(44px,6vw,88px);font-weight:300;color:var(--text-primary);line-height:1;margin-bottom:20px;position:relative;z-index:1;}
@@ -136,6 +121,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
 .reveal.visible{opacity:1;transform:translateY(0);}
 @media(max-width:900px){nav{padding:24px 28px;}.nav-links{display:none;}.hero{padding:120px 28px 80px;}.section-block{padding:80px 28px;}.cards-grid{grid-template-columns:1fr;}.diff-grid{grid-template-columns:1fr;}.cta-section{padding:80px 28px;}footer{padding:40px 28px;flex-direction:column;text-align:center;}.divider{margin:0 28px;}}
 
+
   /* DROPDOWN NAV */
   .nav-actions { display: flex; align-items: center; gap: 12px; position: relative; z-index: 1; }
   .nav-suite-link { font-size: 12px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--border); padding: 10px 22px; text-decoration: none; transition: color 0.3s, border-color 0.3s; }
@@ -157,6 +143,7 @@ footer{padding:48px 60px;border-top:1px solid var(--graphite);display:flex;align
   .nav-dropdown-menu a:last-child { border-bottom: none; }
   .nav-dropdown-menu a:hover { color: var(--text-primary); background: var(--graphite); }
   .nav-dropdown-menu a span { color: var(--desire); margin-right: 8px; font-size: 8px; }
+
 
   /* ESPAÇAMENTO LATERAL — background estica até a borda, conteúdo tem respiro */
   .hero { padding-left: 80px; padding-right: 80px; }
@@ -336,7 +323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
-    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Palestras%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="nav-cta">Fale conosco</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Mentoria%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="nav-cta">Fale conosco</a>
   </div>
 <!-- MENU MOBILE -->
 <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro/escuro">
@@ -366,68 +353,146 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
-  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Palestras%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="mobile-cta">Fale conosco</a>
+  <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Mentoria%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
 </nav>
-<section class="hero" aria-label="Palestras BagiCo">
-  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 55% at 68% 38%,rgba(192,57,43,.08) 0%,transparent 60%);"></div>
+<section class="hero" aria-label="Mentoria BagiCo">
+  <div class="hero-bg" style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 55% at 65% 40%,rgba(192,57,43,.09) 0%,transparent 60%);"></div>
   <div class="hero-content">
-    <div class="hero-badge"><span>●</span> Palestras</div>
-    <h1 class="hero-title">Conteúdo que<br><em>provoca e transforma<span class='dot'>.</span></em></h1>
-    <p class="hero-sub">Palestras práticas, viscerais e aplicáveis sobre branding, estratégia de marca, marketing digital e inteligência artificial. Para quem quer sair diferente de como entrou.</p>
-    <p class="hero-proof">Atendemos Porto Alegre presencialmente e todo o Brasil de forma remota.</p>
+    <div class="hero-badge"><span>●</span> Mentoria estratégica</div>
+    <h1 class="hero-title">O próximo nível<br>começa quando<br><em>você decide<span class='dot'>.</span></em></h1>
+    <p class="hero-sub">Mentoria para profissionais de marketing, comunicação e negócios que já entregam bem — mas sentem estagnação, teto de vidro ou falta de direção para crescer na carreira ou na empresa própria.</p>
+    <p class="hero-proof">Porto Alegre presencialmente · Todo o Brasil online</p>
     <div class="hero-actions">
-      <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Palestras%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Quero uma palestra</a>
-      <a href="#temas" class="btn-secondary">Ver temas</a>
+      <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Mentoria%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Quero mentoria</a>
+      <a href="#para-voce" class="btn-secondary">Ver para quem é</a>
     </div>
   </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block" id="temas" aria-label="Temas que abordamos">
-<div class="reveal"><p class="section-label">Temas que abordamos</p><h2 class="section-title">Palestras que<br><em>geram impacto real</em></h2></div>
-  <div class="cards-grid"><article class="card reveal"><div class="card-num">01</div><div class="card-line"></div><h3 class="card-title">Branding e Posicionamento de Marca</h3><p class="card-desc">Como construir marcas que geram desejo, autoridade e reconhecimento. Da identidade ao posicionamento estratégico — com exemplos reais e aplicáveis.</p><div class="tags"><span class="tag">Identidade de marca</span><span class="tag">Posicionamento estratégico</span><span class="tag">Casos práticos</span></div></article>
-<article class="card reveal"><div class="card-num">02</div><div class="card-line"></div><h3 class="card-title">Marketing Digital na Prática</h3><p class="card-desc">Estratégias reais de marketing digital: redes sociais, tráfego pago, conteúdo e SEO. Sem teoria vazia — só o que realmente gera resultado.</p><div class="tags"><span class="tag">Redes sociais</span><span class="tag">Tráfego pago</span><span class="tag">Conteúdo estratégico</span></div></article>
-<article class="card reveal"><div class="card-num">03</div><div class="card-line"></div><h3 class="card-title">IA para Negócios</h3><p class="card-desc">Como as empresas estão usando inteligência artificial para automatizar, prospectar e crescer. Ferramentas, casos de uso e como começar hoje.</p><div class="tags"><span class="tag">Automação com IA</span><span class="tag">Prospecção inteligente</span><span class="tag">Ferramentas práticas</span></div></article>
-<article class="card reveal"><div class="card-num">04</div><div class="card-line"></div><h3 class="card-title">Marca Pessoal para Founders</h3><p class="card-desc">Como founders e líderes constroem autoridade e posicionamento pessoal que fortalecem o negócio. Presença digital, conteúdo e consistência.</p><div class="tags"><span class="tag">Posicionamento pessoal</span><span class="tag">Presença digital</span><span class="tag">Autoridade de mercado</span></div></article>
+<section class="section-block" id="para-voce" aria-label="Para quem é a mentoria">
+<div class="reveal"><p class="section-label">Para quem é</p><h2 class="section-title">Quando a rotina<br><em>para de bastar</em></h2></div>
+  <div class="cards-grid">
+    <article class="card reveal">
+      <div class="card-num">01</div>
+      <div class="card-line"></div>
+      <h3 class="card-title">Carreira em marketing ou comunicação</h3>
+      <p class="card-desc">Você lidera entregas, campanhas ou conteúdo — mas quer clareza sobre promoção, mudança de área, salário, transição para liderança ou posicionamento como referência.</p>
+      <div class="tags"><span class="tag">CLT e híbrido</span><span class="tag">Plano de carreira</span><span class="tag">Autoridade técnica</span></div>
+    </article>
+    <article class="card reveal">
+      <div class="card-num">02</div>
+      <div class="card-line"></div>
+      <h3 class="card-title">Profissional autônomo ou consultor</h3>
+      <p class="card-desc">Projetos espalhados, precificação confusa ou dificuldade em vender o valor do seu trabalho. Organizamos oferta, narrativa e pipeline para você faturar com mais previsibilidade.</p>
+      <div class="tags"><span class="tag">Oferta e posicionamento</span><span class="tag">Precificação</span><span class="tag">Prospectação</span></div>
+    </article>
+    <article class="card reveal">
+      <div class="card-num">03</div>
+      <div class="card-line"></div>
+      <h3 class="card-title">Dono de agência ou estúdio</h3>
+      <p class="card-desc">Cresceu no improviso e hoje o gargalo é você: contratar, delegar, precificar retainer ou escalar sem perder qualidade. Mentoria com foco em decisão e estrutura.</p>
+      <div class="tags"><span class="tag">Escala</span><span class="tag">Processos</span><span class="tag">Liderança</span></div>
+    </article>
+    <article class="card reveal">
+      <div class="card-num">04</div>
+      <div class="card-line"></div>
+      <h3 class="card-title">Empreendedor no marketing do próprio negócio</h3>
+      <p class="card-desc">Você é o rosto da marca e sente que o marketing pessoal e o negócio precisam andar juntos — com mensagem coerente, prioridades certas e menos ruído.</p>
+      <div class="tags"><span class="tag">Marca pessoal</span><span class="tag">Foco estratégico</span><span class="tag">Próximo passo</span></div>
+    </article>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="Diferenciais">
-<div class="reveal"><p class="section-label">Por que a BagiCo</p><h2 class="section-title">O que nos faz<br><em>diferentes</em></h2></div>
-  <div class="diff-grid"><div class="diff-item reveal"><div class="diff-num">01<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Conteúdo visceral</h3><p class="diff-desc">Não fazemos palestras genéricas. Cada apresentação é adaptada ao público e ao contexto do evento — com exemplos reais e linguagem direta.</p></div>
-<div class="diff-item reveal"><div class="diff-num">02<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Prático e aplicável</h3><p class="diff-desc">O objetivo é que as pessoas saiam com algo que podem usar imediatamente. Não só inspiração — ação.</p></div>
-<div class="diff-item reveal"><div class="diff-num">03<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Experiência real de mercado</h3><p class="diff-desc">Falamos do que vivemos. Cases reais, erros reais, aprendizados reais. Sem teoria de livro didático.</p></div>
-<div class="diff-item reveal"><div class="diff-num">04<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Formatos flexíveis</h3><p class="diff-desc">Palestra, workshop, painel ou keynote. Presencial ou online. Adaptamos o formato às necessidades do evento.</p></div>
-<div class="diff-item reveal"><div class="diff-num">05<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Personalização por setor</h3><p class="diff-desc">Adaptamos o conteúdo para o setor e público do evento — Agro, Saúde, Tecnologia, Varejo, Serviços e mais.</p></div>
-<div class="diff-item reveal"><div class="diff-num">06<span style="color:var(--desire)">.</span></div><h3 class="diff-title">Suporte completo ao evento</h3><p class="diff-desc">Auxiliamos na divulgação, materiais de apoio e comunicação do evento se necessário.</p></div>
+<section class="section-block dark" aria-label="O que você desenvolve na mentoria">
+<div class="reveal"><p class="section-label">Na prática</p><h2 class="section-title">O que você<br><em>leva da mentoria</em></h2></div>
+  <div class="diff-grid">
+    <div class="diff-item reveal">
+      <div class="diff-num">01<span style="color:var(--desire)">.</span></div>
+      <h3 class="diff-title">Clareza de prioridade</h3>
+      <p class="diff-desc">Menos lista infinita de tarefas e mais decisões que realmente movem carreira, reputação ou faturamento.</p>
+    </div>
+    <div class="diff-item reveal">
+      <div class="diff-num">02<span style="color:var(--desire)">.</span></div>
+      <h3 class="diff-title">Posicionamento afiado</h3>
+      <p class="diff-desc">Como você é percebido no mercado — e o que precisa mudar na narrativa, no portfólio ou na oferta para subir de patamar.</p>
+    </div>
+    <div class="diff-item reveal">
+      <div class="diff-num">03<span style="color:var(--desire)">.</span></div>
+      <h3 class="diff-title">Accountability real</h3>
+      <p class="diff-desc">Compromissos entre sessões para você não adiar o que importa. A mentoria cobra resultado em cima de ação, não de intenção.</p>
+    </div>
+    <div class="diff-item reveal">
+      <div class="diff-num">04<span style="color:var(--desire)">.</span></div>
+      <h3 class="diff-title">Visão de fora</h3>
+      <p class="diff-desc">Quem está no dia a dia perde perspectiva. Um olhar estratégico e estético — típico da BagiCo — acelera o que levaria anos sozinho.</p>
+    </div>
+    <div class="diff-item reveal">
+      <div class="diff-num">05<span style="color:var(--desire)">.</span></div>
+      <h3 class="diff-title">Ponte com execução</h3>
+      <p class="diff-desc">Se fizer sentido, conectamos sua trilha à stack da BagiCo: identidade, site, social e tráfego — sem perder o foco na sua evolução.</p>
+    </div>
+    <div class="diff-item reveal">
+      <div class="diff-num">06<span style="color:var(--desire)">.</span></div>
+      <h3 class="diff-title">Confidencialidade</h3>
+      <p class="diff-desc">Conversa segura sobre salários, conflitos, medo de mudar ou números do negócio. O espaço é seu.</p>
+    </div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block" aria-label="Como funciona">
-<div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do primeiro contato<br><em>ao resultado</em></h2></div>
-  <div class="steps"><div class="step reveal"><span class="step-num">01</span><div><h3 class="step-title">Briefing do evento</h3><p class="step-desc">Entendemos o perfil do público, objetivo do evento, formato e duração desejada. Quanto mais detalhes, melhor a palestra.</p></div></div>
-<div class="step reveal"><span class="step-num">02</span><div><h3 class="step-title">Proposta e personalização</h3><p class="step-desc">Apresentamos a proposta de conteúdo e adaptamos o tema ao contexto específico do seu evento e setor.</p></div></div>
-<div class="step reveal"><span class="step-num">03</span><div><h3 class="step-title">Preparação e alinhamento</h3><p class="step-desc">Desenvolvemos o conteúdo, apresentação e materiais. Fazemos um alinhamento final antes do evento.</p></div></div>
-<div class="step reveal"><span class="step-num">04</span><div><h3 class="step-title">Apresentação e follow-up</h3><p class="step-desc">Realizamos a palestra e disponibilizamos materiais de apoio. Feedback e avaliação para evolução contínua.</p></div></div>
+<section class="section-block" aria-label="Como funciona a mentoria">
+<div class="reveal"><p class="section-label">Como funciona</p><h2 class="section-title">Do diagnóstico<br><em>às vitórias semanais</em></h2></div>
+  <div class="steps">
+    <div class="step reveal">
+      <span class="step-num">01</span>
+      <div><h3 class="step-title">Conversa inicial</h3><p class="step-desc">Entendemos seu momento: carreira, negócio ou transição. Sem pressão comercial — só honestidade sobre fit.</p></div>
+    </div>
+    <div class="step reveal">
+      <span class="step-num">02</span>
+      <div><h3 class="step-title">Mapeamento e plano</h3><p class="step-desc">Definimos objetivos mensuráveis, obstáculos e um plano de 90 dias com marcos claros.</p></div>
+    </div>
+    <div class="step reveal">
+      <span class="step-num">03</span>
+      <div><h3 class="step-title">Sessões de mentoria</h3><p class="step-desc">Encontros com profundidade: decisões difíceis, feedback direto, frameworks e tarefas até a próxima sessão.</p></div>
+    </div>
+    <div class="step reveal">
+      <span class="step-num">04</span>
+      <div><h3 class="step-title">Revisão e próximo ciclo</h3><p class="step-desc">Medimos o que mudou, celebramos avanços e recalibramos — crescimento não é linear, mas precisa ser intencional.</p></div>
+    </div>
 </div>
 </section>
 <div class="divider"><div class="divider-dot"></div></div>
-<section class="section-block dark" aria-label="FAQ">
-<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Perguntas que<br><em>todo mundo faz</em></h2></div>
-  <div class="faq-list reveal"><div class="faq-item"><div class="faq-question"><span class="faq-q-text">Quais são os temas disponíveis?</span><span class="faq-icon">+</span></div><p class="faq-answer">Branding e posicionamento de marca, marketing digital, inteligência artificial para negócios e marca pessoal para founders. Temas customizados também são possíveis.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">As palestras são presenciais ou online?</span><span class="faq-icon">+</span></div><p class="faq-answer">Ambas. Realizamos palestras presenciais em Porto Alegre e região, e online para qualquer localidade do Brasil.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Qual a duração mínima e máxima?</span><span class="faq-icon">+</span></div><p class="faq-answer">De palestras de 30 minutos até workshops de meio dia. O formato é adaptado à agenda e necessidade do evento.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Vocês fazem workshops além de palestras?</span><span class="faq-icon">+</span></div><p class="faq-answer">Sim. Além de palestras, oferecemos workshops práticos onde os participantes trabalham em exercícios aplicados ao seu negócio.</p></div>
-<div class="faq-item"><div class="faq-question"><span class="faq-q-text">Como é feito o orçamento?</span><span class="faq-icon">+</span></div><p class="faq-answer">O valor varia conforme o formato, duração, localidade e personalização. Entre em contato para receber uma proposta.</p></div>
+<section class="section-block dark" aria-label="Dúvidas frequentes sobre mentoria">
+<div class="reveal"><p class="section-label">Dúvidas frequentes</p><h2 class="section-title">Antes de<br><em>começar</em></h2></div>
+  <div class="faq-list reveal">
+    <div class="faq-item">
+      <div class="faq-question"><span class="faq-q-text">Para quem é a mentoria da BagiCo?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Para profissionais de marketing, comunicação e áreas próximas que querem sair da estagnação — na carreira assinada, como autônomos ou empreendendo — com plano e acompanhamento.</p>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question"><span class="faq-q-text">Qual a diferença entre mentoria e consultoria para empresas?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">A mentoria coloca você no centro: carreira, transições e crescimento do seu papel ou negócio. A consultoria foca na marca e no marketing da empresa como organização.</p>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question"><span class="faq-q-text">Atendem fora de Porto Alegre?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Sim. Mentoria 100% online para qualquer cidade do Brasil; encontros presenciais em Porto Alegre quando combinado.</p>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question"><span class="faq-q-text">A mentoria substitui terapia ou coaching genérico?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Não. Trabalhamos estratégia de carreira, negócio e comunicação com rigor de mercado. Questões clínicas ou de saúde mental pertencem a profissionais da área.</p>
+    </div>
+    <div class="faq-item">
+      <div class="faq-question"><span class="faq-q-text">Posso combinar mentoria com projetos da BagiCo?</span><span class="faq-icon">+</span></div>
+      <p class="faq-answer">Sim. Muitos mentoreados evoluem para identidade, site ou conteúdo quando a estratégia pede execução de alto nível.</p>
+    </div>
 </div>
 </section>
-
-<section class="cta-section">
-  <h2 class="cta-title reveal">Vamos levar conteúdo<br>de impacto para<br><em>seu evento<span style='color:var(--desire)'>.</span></em></h2>
-  <p class="cta-sub reveal">Porto Alegre e todo o Brasil.<br>Solicite uma proposta sem compromisso.</p>
+<section class="cta-section" aria-label="CTA Mentoria BagiCo">
+  <h2 class="cta-title reveal">Hora de<br>subir de<br><em>patamar</em><span style='color:var(--desire)'>.</span></h2>
+  <p class="cta-sub reveal">Conversa inicial sem compromisso.<br>Conte em uma mensagem onde você está e para onde quer ir.</p>
   <div class="cta-actions reveal">
-    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Palestras%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Falar no WhatsApp</a>
-    <a href="/" class="btn-secondary">Conhecer a BagiCo</a>
+    <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Mentoria%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="btn-primary">Falar no WhatsApp</a>
+    <a href="https://www.bagico.com.br" class="btn-secondary">Conhecer a BagiCo</a>
   </div>
 </section>
 <footer aria-label="Rodapé BagiCo">
@@ -439,10 +504,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li><a href="/#contato">Contato</a></li>
   </ul>
   <div class="footer-social">
-    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
-    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
-    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
-    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
+    <a href="https://instagram.com/bagico.agencia" target="_blank" rel="noopener noreferrer" title="Instagram BagiCo" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg></a>
+    <a href="https://tiktok.com/@bagico.agencia" target="_blank" rel="noopener noreferrer" title="TikTok BagiCo" aria-label="TikTok"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"/></svg></a>
+    <a href="http://facebook.com/bagicoagencia" target="_blank" rel="noopener noreferrer" title="Facebook BagiCo" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+    <a href="https://www.linkedin.com/company/bagico" target="_blank" rel="noopener noreferrer" title="LinkedIn BagiCo" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
   </div>
   <p class="footer-copy">© 2026 BagiCo. Todos os direitos reservados. Porto Alegre, RS · Atendemos todo o Brasil.</p>
 </footer>
@@ -455,11 +520,9 @@ var reveals=document.querySelectorAll('.reveal');
 var obs=new IntersectionObserver(function(entries){entries.forEach(function(e,i){if(e.isIntersecting){setTimeout(function(){e.target.classList.add('visible');},i*80);obs.unobserve(e.target);}});},{threshold:.1,rootMargin:'0px 0px -60px 0px'});
 reveals.forEach(function(el){obs.observe(el);});
 document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListener('click',function(){var item=q.parentElement,isOpen=item.classList.contains('open');document.querySelectorAll('.faq-item').forEach(function(i){i.classList.remove('open');});if(!isOpen)item.classList.add('open');});});
-  // Esconde pré-visualização de URL no canto do navegador sem afetar funcionalidade
   document.querySelectorAll('a').forEach(function(a) {
     var href = a.getAttribute('href');
     if (!href) return;
-    // Ignora links do menu mobile e do nav para não conflitar com o menu
     if (a.closest('.mobile-menu') || a.closest('nav')) return;
     a.setAttribute('data-href', href);
     a.removeAttribute('href');
@@ -473,7 +536,6 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
     });
   });
 
-  // ---- Menu mobile ----
   (function() {
     var toggle = document.getElementById('mobileToggle');
     var menu = document.getElementById('mobileMenu');
@@ -485,7 +547,6 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
       toggle.classList.toggle('open');
       document.body.style.overflow = isOpen ? '' : 'hidden';
     });
-    // Fechar ao clicar em link do menu
     menu.querySelectorAll('a').forEach(function(a) {
       a.addEventListener('click', function() {
         menu.classList.remove('open');
@@ -493,7 +554,6 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
         document.body.style.overflow = '';
       });
     });
-    // Fechar ao clicar fora
     document.addEventListener('click', function(e) {
       if (menu.classList.contains('open') && !menu.contains(e.target) && e.target !== toggle) {
         menu.classList.remove('open');
@@ -503,13 +563,10 @@ document.querySelectorAll('.faq-question').forEach(function(q){q.addEventListene
     });
   })();
 
-  // ---- Tema claro/escuro ----
   (function() {
     var root = document.documentElement;
     var btn = document.getElementById('themeToggle');
-    // Verificar preferência salva
     var saved = localStorage.getItem('bagico-theme');
-    // Verificar preferência do sistema
     var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     var theme = saved || (prefersDark ? 'dark' : 'light');
     root.setAttribute('data-theme', theme);
