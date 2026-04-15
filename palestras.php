@@ -332,7 +332,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </li>
     <li><a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">HUB</a></li>
-    <li><a href="/em-breve">Blog</a></li>
+    <li><a href="/em-breve" class="nav-blog">Blog</a></li>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
@@ -364,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/outros.php">Outros serviços</a>
   </div>
   <a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">HUB</a>
-  <a href="/em-breve">Blog</a>
+  <a href="/em-breve" class="nav-blog">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Palestras%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
