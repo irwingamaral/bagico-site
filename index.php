@@ -488,9 +488,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="cursor-ring" id="cursorRing"></div>
 
 <nav>
-  <a href="/" class="logo" aria-label="BagiCo">BagiCo<span>.</span></a>
+  <a href="/" class="logo" aria-label="BagiCo, página inicial">BagiCo<span>.</span></a>
   <ul class="nav-links">
-    <li><a href="/">Home</a></li>
     <li><a href="/#manifesto">Sobre</a></li>
     <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
@@ -511,7 +510,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </li>
-    <li><a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">hub</a></li>
+    <li><a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">HUB</a></li>
     <li><a href="/em-breve">Blog</a></li>
   </ul>
   <div class="nav-actions">
@@ -527,7 +526,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <span></span><span></span><span></span>
 </button>
 <div class="mobile-menu" id="mobileMenu">
-  <a href="/">Home</a>
   <a href="/#manifesto">Sobre</a>
   <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
@@ -544,7 +542,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/palestras.php">Palestras</a>
     <a href="/outros.php">Outros serviços</a>
   </div>
-  <a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">hub</a>
+  <a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">HUB</a>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20sobre%20os%20servi%C3%A7os." target="_blank" class="mobile-cta">Fale conosco</a>
