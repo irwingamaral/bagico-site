@@ -495,6 +495,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li><a href="/#servicos">Serviços</a></li>
     <li><a href="/#niveis">Modelos</a></li>
     <li><a href="/#valores">Valores</a></li>
+    <li><a href="/em-breve">Blog</a></li>
+    <li><a href="https://hub.bagico.com.br/" target="_blank" rel="noopener noreferrer">Ferramentas</a></li>
     <li class="nav-dropdown">
       <span class="nav-dropdown-trigger">Elevar minha marca</span>
       <div class="nav-dropdown-menu">
@@ -511,7 +513,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </li>
-    <li><a href="/em-breve">Blog</a></li>
   </ul>
   <div class="nav-actions">
     <a href="/suite.php" class="nav-suite-link">BagiCo<span style="color:var(--desire)">.</span> Suite</a>
@@ -531,6 +532,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <a href="/#servicos">Serviços</a>
   <a href="/#niveis">Modelos</a>
   <a href="/#valores">Valores</a>
+  <a href="/em-breve">Blog</a>
+  <a href="https://hub.bagico.com.br/" target="_blank" rel="noopener noreferrer">Ferramentas</a>
   <span class="mobile-section-title">Elevar minha marca</span>
   <div class="mobile-sub-links">
     <a href="/identidade-visual.php">Identidade Visual</a>
@@ -543,7 +546,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/palestras.php">Palestras</a>
     <a href="/outros.php">Outros serviços</a>
   </div>
-  <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20BagiCo%20e%20quero%20falar%20sobre%20os%20servi%C3%A7os." target="_blank" class="mobile-cta">Fale conosco</a>
 </div>
