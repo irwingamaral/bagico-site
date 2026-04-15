@@ -459,7 +459,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </li>
-    <li><a href="https://hub.bagico.com.br/">Ferramentas</a></li>
+    <li><a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">hub</a></li>
     <li><a href="/em-breve">Blog</a></li>
   </ul>
   <div class="nav-actions">
@@ -492,7 +492,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/palestras.php">Palestras</a>
     <a href="/outros.php">Outros serviços</a>
   </div>
-  <a href="https://hub.bagico.com.br/">Ferramentas</a>
+  <a href="https://hub.bagico.com.br/" style="font-style:italic;text-transform:none">hub</a>
   <a href="/em-breve">Blog</a>
   <a href="/suite.php" class="mobile-suite">BagiCo. Suite</a>
   <a href="https://wa.me/5551993535790?text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Cria%C3%A7%C3%A3o%20de%20Sites%20e%20quero%20saber%20mais%20sobre%20esse%20servi%C3%A7o." target="_blank" class="mobile-cta">Fale conosco</a>
